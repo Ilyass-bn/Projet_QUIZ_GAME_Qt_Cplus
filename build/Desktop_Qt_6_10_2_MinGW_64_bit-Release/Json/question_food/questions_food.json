@@ -1,0 +1,214 @@
+[
+  {"image":"img/food_images/couscous.png","question":"Which country is couscous from?","correct":"Morocco","options":["Morocco","Algeria","Tunisia","Egypt"]},
+  {"image":"img/food_images/tajine.png","question":"Which country is tajine from?","correct":"Morocco","options":["Iran","Jordan","Morocco","Turkey"]},
+  {"image":"img/food_images/sushi.png","question":"Which country is sushi from?","correct":"Japan","options":["China","Japan","Thailand","Vietnam"]},
+  {"image":"img/food_images/ramen.png","question":"Which country is ramen from?","correct":"Japan","options":["South Korea","China","Japan","Malaysia"]},
+  {"image":"img/food_images/pizza.png","question":"Which country is pizza from?","correct":"Italy","options":["France","Italy","Spain","Germany"]},
+  {"image":"img/food_images/pasta.png","question":"Which country is pasta from?","correct":"Italy","options":["Italy","Portugal","Greece","Austria"]},
+  {"image":"img/food_images/paella.png","question":"Which country is paella from?","correct":"Spain","options":["France","Portugal","Italy","Spain"]},
+  {"image":"img/food_images/tacos.png","question":"Which country is tacos from?","correct":"Mexico","options":["Mexico","Brazil","Peru","Chile"]},
+  {"image":"img/food_images/burger.png","question":"Which country is burger from?","correct":"United States","options":["Canada","United States","Australia","UK"]},
+  {"image":"img/food_images/hotdog.png","question":"Which country is hotdog from?","correct":"United States","options":["United States","Germany","Canada","Denmark"]},
+
+  {"image":"img/food_images/poutine.png","question":"Which country is poutine from?","correct":"Canada","options":["USA","Canada","Ireland","UK"]},
+  {"image":"img/food_images/feijoada.png","question":"Which country is feijoada from?","correct":"Brazil","options":["Brazil","Argentina","Colombia","Peru"]},
+  {"image":"img/food_images/empanadas.png","question":"Which country is empanadas from?","correct":"Argentina","options":["Chile","Mexico","Spain","Argentina"]},
+  {"image":"img/food_images/biryani.png","question":"Which country is biryani from?","correct":"India","options":["Pakistan","India","Nepal","Bangladesh"]},
+  {"image":"img/food_images/kebab.png","question":"Which country is kebab from?","correct":"Turkey","options":["Lebanon","Iran","Iraq","Turkey"]},
+  {"image":"img/food_images/falafel.png","question":"Which country is falafel from?","correct":"Lebanon","options":["Jordan","Lebanon","Egypt","Syria"]},
+  {"image":"img/food_images/shawarma.png","question":"Which country is shawarma from?","correct":"Jordan","options":["Saudi Arabia","UAE","Jordan","Qatar"]},
+  {"image":"img/food_images/dim_sum.png","question":"Which country is dim sum from?","correct":"China","options":["China","Japan","Thailand","Vietnam"]},
+  {"image":"img/food_images/pho.png","question":"Which country is pho from?","correct":"Vietnam","options":["Vietnam","Thailand","China","Laos"]},
+  {"image":"img/food_images/pad_thai.png","question":"Which country is pad thai from?","correct":"Thailand","options":["Indonesia","Malaysia","Thailand","Philippines"]},
+
+  {"image":"img/food_images/nasi_goreng.png","question":"Which country is nasi goreng from?","correct":"Indonesia","options":["Malaysia","Indonesia","Singapore","Brunei"]},
+  {"image":"img/food_images/satay.png","question":"Which country is satay from?","correct":"Malaysia","options":["Indonesia","Thailand","Malaysia","Philippines"]},
+  {"image":"img/food_images/kimchi.png","question":"Which country is kimchi from?","correct":"South Korea","options":["Japan","South Korea","China","Mongolia"]},
+  {"image":"img/food_images/goulash.png","question":"Which country is goulash from?","correct":"Hungary","options":["Czech Republic","Austria","Poland","Hungary"]},
+  {"image":"img/food_images/schnitzel.png","question":"Which country is schnitzel from?","correct":"Austria","options":["Germany","Austria","Switzerland","Belgium"]},
+  {"image":"img/food_images/bratwurst.png","question":"Which country is bratwurst from?","correct":"Germany","options":["Poland","Denmark","Netherlands","Germany"]},
+  {"image":"img/food_images/crepe.png","question":"Which country is crepe from?","correct":"France","options":["France","Belgium","Italy","Spain"]},
+  {"image":"img/food_images/waffle.png","question":"Which country is waffle from?","correct":"Belgium","options":["France","Belgium","Netherlands","Germany"]},
+  {"image":"img/food_images/haggis.png","question":"Which country is haggis from?","correct":"Scotland","options":["Ireland","Scotland","UK","Norway"]},
+  {"image":"img/food_images/fish_and_chips.png","question":"Which country is fish and chips from?","correct":"United Kingdom","options":["Canada","Ireland","Australia","United Kingdom"]},
+
+  {"image":"img/food_images/moussaka.png","question":"Which country is moussaka from?","correct":"Greece","options":["Turkey","Greece","Cyprus","Italy"]},
+  {"image":"img/food_images/ceviche.png","question":"Which country is ceviche from?","correct":"Peru","options":["Colombia","Chile","Ecuador","Peru"]},
+  {"image":"img/food_images/arepa.png","question":"Which country is arepa from?","correct":"Venezuela","options":["Brazil","Colombia","Venezuela","Mexico"]},
+  {"image":"img/food_images/pierogi.png","question":"Which country is pierogi from?","correct":"Poland","options":["Ukraine","Poland","Russia","Lithuania"]},
+  {"image":"img/food_images/borscht.png","question":"Which country is borscht from?","correct":"Ukraine","options":["Ukraine","Russia","Poland","Belarus"]},
+  {"image":"img/food_images/pavlova.png","question":"Which country is pavlova from?","correct":"New Zealand","options":["Australia","New Zealand","UK","Canada"]},
+  {"image":"img/food_images/meat_pie.png","question":"Which country is meat pie from?","correct":"Australia","options":["Canada","UK","USA","Australia"]},
+  {"image":"img/food_images/bunny_chow.png","question":"Which country is bunny chow from?","correct":"South Africa","options":["South Africa","Kenya","Nigeria","Ghana"]},
+  {"image":"img/food_images/jollof_rice.png","question":"Which country is jollof rice from?","correct":"Nigeria","options":["Senegal","Ghana","Nigeria","Cameroon"]},
+  {"image":"img/food_images/injera.png","question":"Which country is injera from?","correct":"Ethiopia","options":["Kenya","Ethiopia","Sudan","Somalia"]},
+
+  {"image":"img/food_images/samosa.png","question":"Which country is samosa from?","correct":"India","options":["Nepal","Pakistan","India","Sri Lanka"]},
+  {"image":"img/food_images/pastilla.png","question":"Which country is pastilla from?","correct":"Morocco","options":["Libya","Algeria","Tunisia","Morocco"]},
+  {"image":"img/food_images/dolma.png","question":"Which country is dolma from?","correct":"Turkey","options":["Turkey","Greece","Iran","Iraq"]},
+  {"image":"img/food_images/pancakes.png","question":"Which country is pancakes from?","correct":"United States","options":["United States","Canada","France","UK"]},
+  {"image":"img/food_images/risotto.png","question":"Which country is risotto from?","correct":"Italy","options":["Portugal","Spain","France","Italy"]},
+  {"image":"img/food_images/tiramisu.png","question":"Which country is tiramisu from?","correct":"Italy","options":["Austria","France","Italy","Germany"]},
+  {"image":"img/food_images/gyros.png","question":"Which country is gyros from?","correct":"Greece","options":["Cyprus","Turkey","Greece","Lebanon"]},
+  {"image":"img/food_images/laksa.png","question":"Which country is laksa from?","correct":"Singapore","options":["Thailand","Malaysia","Singapore","Indonesia"]},
+  {"image":"img/food_images/harira.png","question":"Which country is harira from?","correct":"Morocco","options":["Morocco","Algeria","Tunisia","Egypt"]},
+  {"image":"img/food_images/fondue.png","question":"Which country is fondue from?","correct":"Switzerland","options":["Germany","France","Austria","Switzerland"]},
+
+
+
+  {"image":"img/food_images/guacamole.jpg","question":"Which country is guacamole from?","correct":"Mexico","options":["Colombia","Mexico","Spain","Argentina"]},
+  {"image":"img/food_images/churros.jpg","question":"Which country is churros from?","correct":"Spain","options":["Portugal","Mexico","Spain","Argentina"]},
+  {"image":"img/food_images/croissant.jpg","question":"Which country is croissant from?","correct":"France","options":["France","Austria","Belgium","Italy"]},
+  {"image":"img/food_images/focaccia.jpg","question":"Which country is focaccia from?","correct":"Italy","options":["Greece","Italy","Spain","France"]},
+  {"image":"img/food_images/macarons.jpg","question":"Which country is macarons from?","correct":"France","options":["Italy","France","Belgium","Switzerland"]},
+  {"image":"img/food_images/baklava.jpg","question":"Which country is baklava from?","correct":"Turkey","options":["Greece","Lebanon","Turkey","Iran"]},
+  {"image":"img/food_images/spring_rolls.jpg","question":"Which country is spring rolls from?","correct":"China","options":["Vietnam","China","Thailand","Japan"]},
+  {"image":"img/food_images/fajitas.jpg","question":"Which country is fajitas from?","correct":"Mexico","options":["Spain","United States","Mexico","Brazil"]},
+  {"image":"img/food_images/panna_cotta.jpg","question":"Which country is panna cotta from?","correct":"Italy","options":["France","Spain","Italy","Greece"]},
+  {"image":"img/food_images/gazpacho.jpg","question":"Which country is gazpacho from?","correct":"Spain","options":["Portugal","Spain","Italy","Mexico"]},
+  
+  {"image":"img/food_images/tom_yum.jpg","question":"Which country is tom yum from?","correct":"Thailand","options":["Vietnam","Malaysia","Thailand","Cambodia"]},
+  {"image":"img/food_images/peking_duck.jpg","question":"Which country is peking duck from?","correct":"China","options":["China","Taiwan","South Korea","Japan"]},
+  {"image":"img/food_images/chimichurri.jpg","question":"Which country is chimichurri from?","correct":"Argentina","options":["Brazil","Argentina","Chile","Peru"]},
+  {"image":"img/food_images/hummus.jpg","question":"Which country is hummus from?","correct":"Lebanon","options":["Egypt","Turkey","Lebanon","Greece"]},
+  {"image":"img/food_images/tempura.jpg","question":"Which country is tempura from?","correct":"Japan","options":["China","South Korea","Japan","Taiwan"]},
+  {"image":"img/food_images/udon.jpg","question":"Which country is udon from?","correct":"Japan","options":["Japan","China","Vietnam","Thailand"]},
+  {"image":"img/food_images/gnocchi.jpg","question":"Which country is gnocchi from?","correct":"Italy","options":["France","Italy","Germany","Austria"]},
+  {"image":"img/food_images/bruschetta.jpg","question":"Which country is bruschetta from?","correct":"Italy","options":["Spain","Greece","Italy","Portugal"]},
+  {"image":"img/food_images/souvlaki.jpg","question":"Which country is souvlaki from?","correct":"Greece","options":["Turkey","Lebanon","Cyprus","Greece"]},
+  {"image":"img/food_images/churrasco.jpg","question":"Which country is churrasco from?","correct":"Brazil","options":["Argentina","Brazil","Portugal","Spain"]},
+  
+  {"image":"img/food_images/pesto.jpg","question":"Which country is pesto from?","correct":"Italy","options":["Italy","France","Greece","Spain"]},
+  {"image":"img/food_images/bibimbap.jpg","question":"Which country is bibimbap from?","correct":"South Korea","options":["Japan","China","South Korea","Vietnam"]},
+  {"image":"img/food_images/bulgogi.jpg","question":"Which country is bulgogi from?","correct":"South Korea","options":["South Korea","Japan","Mongolia","China"]},
+  {"image":"img/food_images/naan.jpg","question":"Which country is naan from?","correct":"India","options":["Pakistan","Iran","India","Turkey"]},
+  {"image":"img/food_images/baba_ganoush.jpg","question":"Which country is baba ganoush from?","correct":"Lebanon","options":["Lebanon","Syria","Jordan","Egypt"]},
+  {"image":"img/food_images/tamales.jpg","question":"Which country is tamales from?","correct":"Mexico","options":["Colombia","Mexico","Peru","Guatemala"]},
+  {"image":"img/food_images/enchiladas.jpg","question":"Which country is enchiladas from?","correct":"Mexico","options":["Mexico","Spain","Chile","Honduras"]},
+  {"image":"img/food_images/baozi.jpg","question":"Which country is baozi from?","correct":"China","options":["Japan","South Korea","China","Taiwan"]},
+  {"image":"img/food_images/mapo_tofu.jpg","question":"Which country is mapo tofu from?","correct":"China","options":["Taiwan","China","Japan","Singapore"]},
+  {"image":"img/food_images/miso_soup.jpg","question":"Which country is miso soup from?","correct":"Japan","options":["China","South Korea","Japan","Thailand"]},
+  
+  {"image":"img/food_images/tonkatsu.jpg","question":"Which country is tonkatsu from?","correct":"Japan","options":["Japan","China","South Korea","Vietnam"]},
+  {"image":"img/food_images/pad_kra_pao.jpg","question":"Which country is pad kra pao from?","correct":"Thailand","options":["Vietnam","Thailand","Laos","Cambodia"]},
+  {"image":"img/food_images/som_tum.jpg","question":"Which country is som tum from?","correct":"Thailand","options":["Malaysia","Indonesia","Thailand","Philippines"]},
+  {"image":"img/food_images/rendang.jpg","question":"Which country is rendang from?","correct":"Indonesia","options":["Malaysia","Indonesia","Singapore","Brunei"]},
+  {"image":"img/food_images/gado_gado.jpg","question":"Which country is gado gado from?","correct":"Indonesia","options":["Philippines","Indonesia","Malaysia","Thailand"]},
+  {"image":"img/food_images/roti_canai.jpg","question":"Which country is roti canai from?","correct":"Malaysia","options":["India","Sri Lanka","Malaysia","Singapore"]},
+  {"image":"img/food_images/chili_crab.jpg","question":"Which country is chili crab from?","correct":"Singapore","options":["Malaysia","Singapore","Indonesia","Thailand"]},
+  {"image":"img/food_images/banh_mi.jpg","question":"Which country is banh mi from?","correct":"Vietnam","options":["Vietnam","Cambodia","Laos","Thailand"]},
+  {"image":"img/food_images/summer_rolls.jpg","question":"Which country is summer rolls from?","correct":"Vietnam","options":["China","Thailand","Vietnam","Japan"]},
+  {"image":"img/food_images/halo_halo.jpg","question":"Which country is halo-halo from?","correct":"Philippines","options":["Indonesia","Malaysia","Philippines","Hawaii"]},
+  
+  {"image":"img/food_images/adobo.jpg","question":"Which country is adobo from?","correct":"Philippines","options":["Mexico","Spain","Philippines","Cuba"]},
+  {"image":"img/food_images/lamington.jpg","question":"Which country is lamington from?","correct":"Australia","options":["New Zealand","UK","Australia","South Africa"]},
+  {"image":"img/food_images/vegemite.jpg","question":"Which country is vegemite from?","correct":"Australia","options":["UK","New Zealand","Australia","Canada"]},
+  {"image":"img/food_images/pretzel.jpg","question":"Which country is pretzel from?","correct":"Germany","options":["Austria","Germany","Switzerland","Belgium"]},
+  {"image":"img/food_images/stroopwafel.jpg","question":"Which country is stroopwafel from?","correct":"Netherlands","options":["Belgium","Germany","Netherlands","Denmark"]},
+  {"image":"img/food_images/cannoli.jpg","question":"Which country is cannoli from?","correct":"Italy","options":["Italy","Greece","France","Spain"]},
+  {"image":"img/food_images/katsu_curry.jpg","question":"Which country is katsu curry from?","correct":"Japan","options":["India","UK","Japan","Thailand"]},
+  {"image":"img/food_images/poke_bowl.jpg","question":"Which country is poke bowl from?","correct":"United States","options":["Japan","United States","Fiji","Philippines"]},
+  {"image":"img/food_images/pao_de_queijo.jpg","question":"Which country is pão de queijo from?","correct":"Brazil","options":["Portugal","Brazil","Argentina","Colombia"]},
+  {"image":"img/food_images/biltong.jpg","question":"Which country is biltong from?","correct":"South Africa","options":["Australia","United States","South Africa","New Zealand"]}
+
+
+
+  ,
+  {
+    "image": "img/food_images/sushi_roll.jpg",
+    "question": "Which country is sushi roll from?",
+    "correct": "Japan",
+    "options": ["China", "Japan", "Korea", "Thailand"]
+  },
+  {
+    "image": "img/food_images/currywurst.jpg",
+    "question": "Which country is currywurst from?",
+    "correct": "Germany",
+    "options": ["Germany", "Austria", "Poland", "Netherlands"]
+  },
+  {
+    "image": "img/food_images/moules_frites.jpg",
+    "question": "Which country is moules-frites from?",
+    "correct": "Belgium",
+    "options": ["France", "Belgium", "Netherlands", "Luxembourg"]
+  },
+  {
+    "image": "img/food_images/quesadilla.jpg",
+    "question": "Which country is quesadilla from?",
+    "correct": "Mexico",
+    "options": ["Mexico", "Spain", "Colombia", "Peru"]
+  },
+  {
+    "image": "img/food_images/ceviche_peru.jpg",
+    "question": "Which country popularized ceviche with lime-marinated fish?",
+    "correct": "Peru",
+    "options": ["Peru", "Ecuador", "Chile", "Mexico"]
+  },
+  {
+    "image": "img/food_images/pierogi_poland.jpg",
+    "question": "Which country is pierogi traditionally stuffed with potato and cheese?",
+    "correct": "Poland",
+    "options": ["Poland", "Ukraine", "Russia", "Czech Republic"]
+  },
+  {
+    "image": "img/food_images/ramen_bowl.jpg",
+    "question": "Which city is famous for tonkotsu ramen?",
+    "correct": "Fukuoka",
+    "options": ["Tokyo", "Osaka", "Fukuoka", "Kyoto"]
+  },
+  {
+    "image": "img/food_images/tandoori.jpg",
+    "question": "Which country is tandoori chicken from?",
+    "correct": "India",
+    "options": ["Pakistan", "India", "Bangladesh", "Nepal"]
+  },
+
+  {
+    "image": "img/food_images/gyoza.jpg",
+    "question": "Which country is gyoza from?",
+    "correct": "Japan",
+    "options": ["China", "Japan", "Korea", "Taiwan"]
+  },
+  {
+    "image": "img/food_images/bouillabaisse.jpg",
+    "question": "Which French city is famous for bouillabaisse?",
+    "correct": "Marseille",
+    "options": ["Nice", "Marseille", "Lyon", "Bordeaux"]
+  },
+  {
+    "image": "img/food_images/mole_poblano.jpg",
+    "question": "Which Mexican state is mole poblano from?",
+    "correct": "Puebla",
+    "options": ["Oaxaca", "Puebla", "Jalisco", "Yucatán"]
+  },
+  {
+    "image": "img/food_images/tzatziki.jpg",
+    "question": "Which country is tzatziki from?",
+    "correct": "Greece",
+    "options": ["Turkey", "Greece", "Cyprus", "Lebanon"]
+  },
+  {
+    "image": "img/food_images/schnitzel.png",
+    "question": "What type of meat is used in Wiener Schnitzel?",
+    "correct": "Veal",
+    "options": ["Pork", "Chicken", "Veal", "Beef"]
+  },
+  {
+    "image": "img/food_images/halal_cart.jpg",
+    "question": "Which city is famous for halal cart chicken over rice?",
+    "correct": "New York",
+    "options": ["London", "New York", "Paris", "Dubai"]
+  },
+  {
+    "image": "img/food_images/okonomiyaki.jpg",
+    "question": "Which country is okonomiyaki from?",
+    "correct": "Japan",
+    "options": ["Japan", "Korea", "China", "Taiwan"]
+  },
+  {
+    "image": "img/food_images/ceviche_leche_tigre.jpg",
+    "question": "What is 'leche de tigre' in Peruvian ceviche?",
+    "correct": "Citrus marinade",
+    "options": ["Coconut milk", "Citrus marinade", "Fish stock", "Cream sauce"]
+  }
+]

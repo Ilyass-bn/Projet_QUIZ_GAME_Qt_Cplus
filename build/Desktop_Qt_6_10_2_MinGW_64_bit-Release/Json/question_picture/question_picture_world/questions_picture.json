@@ -1,0 +1,1218 @@
+[
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/eiffel_tower.jpg",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "correct": "France"
+  },
+  {
+    "question": "Where is this monument located?",
+    "image": "img/picture_world/colosseum.jpg",
+    "options": ["France", "Italy", "Greece", "Portugal"],
+    "correct": "Italy"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/big_ben.jpg",
+    "options": ["Ireland", "Belgium", "UK", "Netherlands"],
+    "correct": "UK"
+  },
+  {
+    "question": "Where is this landmark located?",
+    "image": "img/picture_world/brandenburg_gate.jpg",
+    "options": ["Switzerland", "Austria", "Poland", "Germany"],
+    "correct": "Germany"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/sagrada_familia.jpg",
+    "options": ["Spain", "Italy", "Mexico", "Brazil"],
+    "correct": "Spain"
+  },
+
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/hassan_ii_mosque.jpg",
+    "options": ["Algeria", "Morocco", "Tunisia", "Egypt"],
+    "correct": "Morocco"
+  },
+  {
+    "question": "Where is the Pyramids of Giza located?",
+    "image": "img/picture_world/pyramids_giza.jpg",
+    "options": ["Sudan", "Egypt", "Morocco", "Jordan"],
+    "correct": "Egypt"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/table_mountain.jpg",
+    "options": ["Kenya", "Ghana", "Nigeria", "South Africa"],
+    "correct": "South Africa"
+  },
+  {
+    "question": "Where is Serengeti National Park?",
+    "image": "img/picture_world/serengeti.jpg",
+    "options": ["Kenya", "Tanzania", "Ethiopia", "Uganda"],
+    "correct": "Tanzania"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/timgad.jpg",
+    "options": ["Libya", "Morocco", "Algeria", "Tunisia"],
+    "correct": "Algeria"
+  },
+
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/christ_redeemer.jpg",
+    "options": ["Argentina", "Brazil", "Chile", "Peru"],
+    "correct": "Brazil"
+  },
+  {
+    "question": "Where is Machu Picchu located?",
+    "image": "img/picture_world/machu_picchu.jpg",
+    "options": ["Peru", "Bolivia", "Colombia", "Ecuador"],
+    "correct": "Peru"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/iguazu_falls.jpg",
+    "options": ["Brazil", "Argentina", "Argentina/Brazil", "Paraguay"],
+    "correct": "Argentina/Brazil"
+  },
+  {
+    "question": "Where is Patagonia located?",
+    "image": "img/picture_world/patagonia.jpg",
+    "options": ["Chile", "Argentina", "Chile/Argentina", "Uruguay"],
+    "correct": "Chile/Argentina"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/salar_de_uyuni.jpg",
+    "options": ["Bolivia", "Peru", "Chile/Peru", "Colombia"],
+    "correct": "Bolivia"
+  },
+
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/great_wall.jpg",
+    "options": ["Korea", "Japan", "China", "Vietnam"],
+    "correct": "China"
+  },
+  {
+    "question": "Where is Mount Fuji located?",
+    "image": "img/picture_world/mount_fuji.jpg",
+    "options": ["Thailand", "China", "Nepal", "Japan"],
+    "correct": "Japan"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/taj_mahal.jpg",
+    "options": ["Bangladesh", "Pakistan", "India", "Sri Lanka"],
+    "correct": "India"
+  },
+  {
+    "question": "Where is Petra located?",
+    "image": "img/picture_world/petra.jpg",
+    "options": ["Saudi Arabia", "Jordan", "UAE", "Oman"],
+    "correct": "Jordan"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/angkor_wat.jpg",
+    "options": ["Thailand", "Laos", "Cambodia", "Vietnam"],
+    "correct_answer": "Cambodia"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/kremlin.jpg",
+    "options": ["Russia", "Ukraine", "Poland", "Finland"],
+    "correct": "Russia"
+  },
+  {
+    "question": "Where is Neuschwanstein Castle?",
+    "image": "img/picture_world/neuschwanstein.jpg",
+    "options": ["Germany", "Austria", "France", "Czech Republic"],
+    "correct_answer": "Germany"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/acropolis.jpg",
+    "options": ["Cyprus", "Italy", "Turkey", "Greece"],
+    "correct": "Greece"
+  },
+  {
+    "question": "Where is Blue Mosque located?",
+    "image": "img/picture_world/blue_mosque.jpg",
+    "options": ["Iraq", "Iran", "Turkey", "Egypt"],
+    "correct": "Turkey"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/burj_khalifa.jpg",
+    "options": ["Qatar", "UAE", "Saudi Arabia", "Kuwait"],
+    "correct_answer": "UAE"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/opera_house_sydney.jpg",
+    "options": ["Australia", "New Zealand", "USA", "Canada"],
+    "correct_answer": "Australia"
+  },
+  {
+    "question": "Where is Niagara Falls?",
+    "image": "img/picture_world/niagara_falls.jpg",
+    "options": ["USA", "Peru", "USA/Canada", "USA/Mexico"],
+    "correct": "USA/Canada"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/statue_of_liberty.jpg",
+    "options": ["USA", "France", "UK", "Canada"],
+    "correct": "USA"
+  },
+  {
+    "question": "Where is Chichen Itza located?",
+    "image": "img/picture_world/chichen_itza.jpg",
+    "options": ["Peru", "Mexico", "Brazil", "Cuba"],
+    "correct": "Mexico"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/cn_tower.jpg",
+    "options": ["USA", "Canada", "UK", "Australia"],
+    "correct": "Canada"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/fez_medina.jpg",
+    "options": ["Morocco", "Algeria", "Tunisia", "Libya"],
+    "correct": "Morocco"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/oran.jpg",
+    "options": ["Algeria", "Morocco", "Egypt", "Sudan"],
+    "correct": "Algeria"
+  },
+  {
+    "question": "Where is Victoria Falls?",
+    "image": "img/picture_world/victoria_falls.jpg",
+    "options": ["Zambia/Kenya", "Zimbabwe", "Both Zambia/Zimbabwe", "Kenya"],
+    "correct": "Zambia/Zimbabwe"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/kilimanjaro.jpg",
+    "options": ["Kenya", "Tanzania", "Ethiopia", "Uganda"],
+    "correct": "Tanzania"
+  },
+  {
+    "question": "Where is Mount Everest located?",
+    "image": "img/picture_world/everest.jpg",
+    "options": ["Nepal", "India", "China", "Nepal/China"],
+    "correct": "Nepal/China"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/seoul_tower.jpg",
+    "options": ["South Korea", "Japan", "China/Nepal", "Thailand"],
+    "correct": "South Korea"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/singapore_skyline.jpg",
+    "options": ["Malaysia", "Singapore", "Indonesia", "Philippines"],
+    "correct": "Singapore"
+  },
+  {
+    "question": "Where is Forbidden City?",
+    "image": "img/picture_world/forbidden_city.jpg",
+    "options": ["Japan", "Mongolia", "China", "Vietnam"],
+    "correct": "China"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/ha_long_bay.jpg",
+    "options": ["Thailand", "Vietnam", "Laos", "Cambodia"],
+    "correct": "Vietnam"
+  },
+  {
+    "question": "Where is Mount Ararat?",
+    "image": "img/picture_world/ararat.jpg",
+    "options": ["Turkey", "Iran", "Armenia", "Georgia"],
+    "correct": "Turkey"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/prague_castle.jpg",
+    "options": ["Slovakia", "Poland", "Hungary", "Czech Republic"],
+    "correct": "Czech Republic"
+  },
+  {
+    "question": "Where is Charles Bridge?",
+    "image": "img/picture_world/charles_bridge.jpg",
+    "options": ["Austria", "Germany", "Czech Republic", "Switzerland"],
+    "correct": "Czech Republic"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/budapest_parliament.jpg",
+    "options": ["Hungary", "Romania", "Bulgaria", "Croatia"],
+    "correct": "Hungary"
+  },
+  {
+    "question": "Where is Mont Saint-Michel?",
+    "image": "img/picture_world/mont_saint_michel.jpg",
+    "options": ["Italy", "Belgium", "Spain", "France"],
+    "correct": "France"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/lisbon_belem.jpg",
+    "options": ["Spain", "Portugal", "Italy", "Greece"],
+    "correct": "Portugal"
+  },
+
+
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/tower_bridge.jpg",
+    "options": ["UK", "France", "Germany", "Netherlands"],
+    "correct": "UK"
+  },
+  {
+    "question": "Where is this monument located?",
+    "image": "img/picture_world/arc_de_triomphe.jpg",
+    "options": ["Belgium", "France", "Switzerland", "Luxembourg"],
+    "correct": "France"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/manneken_pis.jpg",
+    "options": ["Netherlands", "Belgium", "Germany", "France"],
+    "correct": "Belgium"
+  },
+  {
+    "question": "Where is this landmark?",
+    "image": "img/picture_world/atomium.jpg",
+    "options": ["Netherlands", "Belgium", "France", "UK"],
+    "correct": "Belgium"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/windmills_kinderdijk.jpg",
+    "options": ["Denmark", "Netherlands", "Germany", "Belgium"],
+    "correct": "Netherlands"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/alhambra.jpg",
+    "options": ["Morocco", "Spain", "Portugal", "Italy"],
+    "correct": "Spain"
+  },
+  {
+    "question": "Where is this located?",
+    "image": "img/picture_world/santorini.jpg",
+    "options": ["Cyprus", "Greece", "Turkey", "Italy"],
+    "correct": "Greece"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/matterhorn.jpg",
+    "options": ["Austria", "Switzerland", "France", "Italy"],
+    "correct": "Switzerland"
+  },
+  {
+    "question": "Where is this monument?",
+    "image": "img/picture_world/sacre_coeur.jpg",
+    "options": ["Belgium", "France", "Switzerland", "Monaco"],
+    "correct": "France"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/vatican_city.jpg",
+    "options": ["Italy", "Vatican City", "San Marino", "Malta"],
+    "correct": "Vatican City"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/petra_jordan.jpg",
+    "options": ["Egypt", "Jordan", "Saudi Arabia", "UAE"],
+    "correct": "Jordan"
+  },
+  {
+    "question": "Where is this located?",
+    "image": "img/picture_world/djemma_el_fna.jpg",
+    "options": ["Tunisia", "Morocco", "Algeria", "Libya"],
+    "correct": "Morocco"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/cairo_citadel.jpg",
+    "options": ["Jordan", "Egypt", "Syria", "Iraq"],
+    "correct": "Egypt"
+  },
+  {
+    "question": "Where is this monument?",
+    "image": "img/picture_world/carthage.jpg",
+    "options": ["Algeria", "Tunisia", "Morocco", "Libya"],
+    "correct": "Tunisia"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/robens_island.jpg",
+    "options": ["South Africa", "Namibia", "Kenya", "Tanzania"],
+    "correct": "South Africa"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/rio_carnival.jpg",
+    "options": ["Argentina", "Brazil", "Colombia", "Venezuela"],
+    "correct": "Brazil"
+  },
+  {
+    "question": "Where is this located?",
+    "image": "img/picture_world/easter_island.jpg",
+    "options": ["Peru", "Chile", "Brazil", "Argentina"],
+    "correct": "Chile"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/galapagos.jpg",
+    "options": ["Peru", "Ecuador", "Colombia", "Chile"],
+    "correct": "Ecuador"
+  },
+  {
+    "question": "Where is this monument?",
+    "image": "img/picture_world/teotihuacan.jpg",
+    "options": ["Guatemala", "Mexico", "Peru", "Bolivia"],
+    "correct": "Mexico"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/havana_cuba.jpg",
+    "options": ["Jamaica", "Cuba", "Dominican Republic", "Haiti"],
+    "correct": "Cuba"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/borobudur.jpg",
+    "options": ["Thailand", "Indonesia", "Malaysia", "Philippines"],
+    "correct": "Indonesia"
+  },
+  {
+    "question": "Where is this located?",
+    "image": "img/picture_world/bagan.jpg",
+    "options": ["Thailand", "Myanmar", "Laos", "Cambodia"],
+    "correct": "Myanmar"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/potala_palace.jpg",
+    "options": ["Nepal", "China/Tibet", "India", "Bhutan"],
+    "correct": "China/Tibet"
+  },
+  {
+    "question": "Where is this monument?",
+    "image": "img/picture_world/fushimi_inari.jpg",
+    "options": ["China", "Japan", "South Korea", "Taiwan"],
+    "correct": "Japan"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/mount_kinabalu.jpg",
+    "options": ["Indonesia", "Malaysia", "Philippines", "Thailand"],
+    "correct": "Malaysia"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/milford_sound.jpg",
+    "options": ["Australia", "New Zealand", "Fiji", "Papua New Guinea"],
+    "correct": "New Zealand"
+  },
+  {
+    "question": "Where is this located?",
+    "image": "img/picture_world/uluru.jpg",
+    "options": ["New Zealand", "Australia", "South Africa", "Namibia"],
+    "correct": "Australia"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/yellowstone.jpg",
+    "options": ["Canada", "USA", "Mexico", "Alaska"],
+    "correct": "USA"
+  },
+  {
+    "question": "Where is this monument?",
+    "image": "img/picture_world/banff.jpg",
+    "options": ["USA", "Canada", "Alaska", "Greenland"],
+    "correct": "Canada"
+  },
+
+
+
+  {
+    "question": "Which landmark was originally built as a World's Fair exhibition?",
+    "image": "img/picture_world/eiffel_tower.jpg",
+    "options": ["Eiffel Tower", "Big Ben", "Colosseum", "Statue of Liberty"],
+    "correct": "Eiffel Tower"
+  },
+  {
+    "question": "This ancient wonder was a tomb for which pharaoh?",
+    "image": "img/picture_world/pyramids_giza.jpg",
+    "options": ["Khufu", "Tutankhamun", "Ramses II", "Cleopatra"],
+    "correct": "Khufu"
+  },
+  {
+    "question": "How long did it take to build the Great Wall of China?",
+    "image": "img/picture_world/great_wall.jpg",
+    "options": ["Over 2,000 years", "500 years", "100 years", "50 years"],
+    "correct": "Over 2,000 years"
+  },
+  {
+    "question": "Which of these landmarks is NOT in Rome?",
+    "image": "img/picture_world/colosseum.jpg",
+    "options": ["Colosseum", "Pantheon", "Acropolis", "Trevi Fountain"],
+    "correct": "Acropolis"
+  },
+  {
+    "question": "What makes the Leaning Tower of Pisa lean?",
+    "image": "img/picture_world/pisa_tower.jpg",
+    "options": ["Soft soil foundation", "Earthquake", "Poor design", "War damage"],
+    "correct": "Soft soil foundation"
+  },
+
+  {
+    "question": "Which animal is sacred at this temple?",
+    "image": "img/picture_world/taj_mahal.jpg",
+    "options": ["Monkeys", "Elephants", "Cows", "Snakes"],
+    "correct": "Monkeys"
+  },
+  {
+    "question": "The Taj Mahal was built as a...",
+    "image": "img/picture_world/taj_mahal.jpg",
+    "options": ["Mausoleum", "Palace", "Temple", "Fortress"],
+    "correct": "Mausoleum"
+  },
+  {
+    "question": "How many workers died building the Panama Canal?",
+    "image": "img/picture_world/panama_canal.jpg",
+    "options": ["Around 25,000", "Around 5,000", "Around 1,000", "Around 100,000"],
+    "correct": "Around 25,000"
+  },
+  {
+    "question": "Which landmark has survived two atomic bombs?",
+    "image": "img/picture_world/hiroshima_dome.jpg",
+    "options": ["Hiroshima Dome", "Tokyo Tower", "Osaka Castle", "Kyoto Temple"],
+    "correct": "Hiroshima Dome"
+  },
+  {
+    "question": "What is special about this bridge?",
+    "image": "img/picture_world/golden_gate.jpg",
+    "options": ["International Orange", "the longest bridge", "It floats", "made of gold"],
+    "correct": "It's painted 'International Orange'"
+  },
+
+  {
+    "question": "Which empire built Machu Picchu?",
+    "image": "img/picture_world/machu_picchu.jpg",
+    "options": ["Inca", "Aztec", "Maya", "Olmec"],
+    "correct": "Inca"
+  },
+  {
+    "question": "At what altitude is Machu Picchu located?",
+    "image": "img/picture_world/machu_picchu.jpg",
+    "options": ["2,430m", "1,500m", "3,500m", "4,000m"],
+    "correct": "2,430m"
+  },
+  {
+    "question": "Which city is built on 118 islands?",
+    "image": "img/picture_world/venice.jpg",
+    "options": ["Venice", "Amsterdam", "Stockholm", "Copenhagen"],
+    "correct": "Venice"
+  },
+  {
+    "question": "What is the world's largest active volcano?",
+    "image": "img/picture_world/mauna_loa.jpg",
+    "options": ["Mauna Loa", "Mount Etna", "Kilauea", "Mount Fuji"],
+    "correct": "Mauna Loa"
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "image": "img/picture_world/sahara.jpg",
+    "options": ["Antarctic Desert", "Sahara", "Arabian Desert", "Gobi"],
+    "correct": "Antarctic Desert"
+  },
+
+  {
+    "question": "How many time zones does Russia span?",
+    "image": "img/picture_world/kremlin.jpg",
+    "options": ["11", "9", "7", "5"],
+    "correct": "11"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "image": "img/picture_world/great_lakes.jpg",
+    "options": ["Canada", "USA", "Russia", "Finland"],
+    "correct": "Canada"
+  },
+  {
+    "question": "What percentage of Earth's water is freshwater?",
+    "image": "img/picture_world/niagara_falls.jpg",
+    "options": ["3%", "10%", "25%", "50%"],
+    "correct": "3%"
+  },
+  {
+    "question": "Which African country has never been colonized?",
+    "image": "img/picture_world/ethiopia.jpg",
+    "options": ["Ethiopia", "Kenya", "Nigeria", "Ghana"],
+    "correct": "Ethiopia"
+  },
+  {
+    "question": "What is the deepest point on Earth?",
+    "image": "img/picture_world/mariana_trench.jpg",
+    "options": ["Mariana Trench", "Dead Sea", "Caspian Sea", "Lake Baikal"],
+    "correct": "Mariana Trench"
+  },
+
+  {
+    "question": "Which language has the most native speakers?",
+    "image": "img/picture_world/china_map.jpg",
+    "options": ["Mandarin Chinese", "English", "Spanish", "Hindi"],
+    "correct": "Mandarin Chinese"
+  },
+  {
+    "question": "How many countries are in Africa?",
+    "image": "img/picture_world/africa_map.jpg",
+    "options": ["54", "47", "62", "50"],
+    "correct": "54"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "image": "img/picture_world/vatican_city.jpg",
+    "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "correct": "Vatican City"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "image": "img/picture_world/canberra.jpg",
+    "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+    "correct": "Canberra"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "image": "img/picture_world/statue_of_liberty.jpg",
+    "options": ["France", "England", "Spain", "Germany"],
+    "correct": "France"
+  },
+
+  {
+    "question": "How many rings are on the Olympic flag?",
+    "image": "img/picture_world/olympic_rings.jpg",
+    "options": ["5", "6", "4", "7"],
+    "correct": "5"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "image": "img/picture_world/mars.jpg",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correct": "Mars"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "image": "img/picture_world/pacific_ocean.jpg",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correct": "Pacific Ocean"
+  },
+  {
+    "question": "Which ancient wonder of the world still stands today?",
+    "image": "img/picture_world/pyramids_giza.jpg",
+    "options": ["Pyramid of Giza", "Colossus of Rhodes", "Hanging Gardens", "Lighthouse of Alexandria"],
+    "correct": "Great Pyramid of Giza"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "image": "img/picture_world/berlin_wall.jpg",
+    "options": ["1989", "1991", "1987", "1990"],
+    "correct": "1989"
+  },
+  {
+    "question": "Which country invented pizza?",
+    "image": "img/picture_world/pizza.jpg",
+    "options": ["Italy", "Greece", "France", "USA"],
+    "correct": "Italy"
+  },
+  {
+    "question": "What is the most spoken language in the world (including non-native)?",
+    "image": "img/picture_world/languages.jpg",
+    "options": ["English", "Mandarin", "Spanish", "Hindi"],
+    "correct": "English"
+  },
+
+
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/petronas_towers.jpg",
+    "options": ["Malaysia", "Indonesia", "Thailand", "Singapore"],
+    "correct": "Malaysia"
+  },
+  {
+    "question": "Where is this famous archaeological site located?",
+    "image": "img/picture_world/pompeii.jpg",
+    "options": ["Greece", "Italy", "Spain", "Turkey"],
+    "correct": "Italy"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/mount_cook.jpg",
+    "options": ["Australia", "Canada", "New Zealand", "Switzerland"],
+    "correct": "New Zealand"
+  },
+  {
+    "question": "Where is the historic Palace of Versailles located?",
+    "image": "img/picture_world/versailles.jpg",
+    "options": ["Belgium", "France", "Austria", "Germany"],
+    "correct": "France"
+  },
+  {
+    "question": "Identify the country of this stunning landscape",
+    "image": "img/picture_world/geirangerfjord.jpg",
+    "options": ["Iceland", "Sweden", "Norway", "Canada"],
+    "correct": "Norway"
+  },
+  {
+    "question": "Where is the ancient city of Babylon located?",
+    "image": "img/picture_world/babylon.jpg",
+    "options": ["Iraq", "Egypt", "Iran", "Syria"],
+    "correct": "Iraq"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/sigiriya.jpg",
+    "options": ["India", "Sri Lanka", "Thailand", "Nepal"],
+    "correct": "Sri Lanka"
+  },
+  {
+    "question": "Where is the famous Bondi Beach located?",
+    "image": "img/picture_world/bondi_beach.jpg",
+    "options": ["USA", "Australia", "South Africa", "New Zealand"],
+    "correct": "Australia"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/meteora.jpg",
+    "options": ["Greece", "Cyprus", "Bulgaria", "Macedonia"],
+    "correct": "Greece"
+  },
+  {
+    "question": "Which civilization built the ancient city of Teotihuacan?",
+    "image": "img/picture_world/teotihuacan.jpg",
+    "options": ["Aztec", "Maya", "Inca", "Toltec"],
+    "correct": "Aztec"
+  },
+  {
+    "question": "This famous canal connects the Mediterranean Sea to the Red Sea:",
+    "image": "img/picture_world/suez_canal.jpg",
+    "options": ["Panama Canal", "Suez Canal", "Kiel Canal", "Corinth Canal"],
+    "correct": "Suez Canal"
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "image": "img/picture_world/brasilia.jpg",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "correct": "Brasília"
+  },
+  {
+    "question": "Which European country is known as the Land of a Thousand Lakes?",
+    "image": "img/picture_world/finland_lakes.jpg",
+    "options": ["Sweden", "Norway", "Finland", "Estonia"],
+    "correct": "Finland"
+  },
+  {
+    "question": "Which country is the largest producer of coffee in the world?",
+    "image": "img/picture_world/coffee_plantation.jpg",
+    "options": ["Colombia", "Vietnam", "Ethiopia", "Brazil"],
+    "correct": "Brazil"
+  },
+  {
+    "question": "What is the longest river in Europe?",
+    "image": "img/picture_world/volga_river.jpg",
+    "options": ["Danube", "Volga", "Rhine", "Seine"],
+    "correct": "Volga"
+  },
+  {
+    "question": "Which country has the most Pyramids in the world?",
+    "image": "img/picture_world/sudan_pyramids.jpg",
+    "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+    "correct": "Sudan"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "image": "img/picture_world/ottawa.jpg",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "correct": "Ottawa"
+  },
+  {
+    "question": "Which country is completely surrounded by South Africa?",
+    "image": "img/picture_world/lesotho.jpg",
+    "options": ["Lesotho", "Eswatini", "Namibia", "Botswana"],
+    "correct": "Lesotho"
+  },
+  {
+    "question": "Where is the world's tallest uninterrupted waterfall, Angel Falls?",
+    "image": "img/picture_world/angel_falls.jpg",
+    "options": ["Brazil", "Venezuela", "Colombia", "Guyana"],
+    "correct": "Venezuela"
+  },
+  {
+    "question": "Which island country is home to the unique Ring of Road network?",
+    "image": "img/picture_world/iceland_road.jpg",
+    "options": ["Greenland", "Iceland", "New Zealand", "Madagascar"],
+    "correct": "Iceland"
+  },
+  {
+    "question": "What is the official currency of Japan?",
+    "image": "img/picture_world/yen.jpg",
+    "options": ["Yuan", "Won", "Yen", "Baht"],
+    "correct": "Yen"
+  },
+  {
+    "question": "Which ocean is home to the Great Barrier Reef?",
+    "image": "img/picture_world/great_barrier_reef.jpg",
+    "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correct": "Pacific Ocean"
+  },
+  {
+    "question": "Which country is famous for originating the art of Sushi?",
+    "image": "img/picture_world/sushi.jpg",
+    "options": ["China", "South Korea", "Japan", "Thailand"],
+    "correct": "Japan"
+  },
+  {
+    "question": "What is the capital city of Morocco?",
+    "image": "img/picture_world/rabat.jpg",
+    "options": ["Casablanca", "Marrakech", "Fes", "Rabat"],
+    "correct": "Rabat"
+  },
+  {
+    "question": "Which country spans across both Europe and Asia?",
+    "image": "img/picture_world/turkey_map.jpg",
+    "options": ["Turkey", "Greece", "Egypt", "Ukraine"],
+    "correct": "Turkey"
+  },
+  {
+    "question": "What is the largest hot desert in the world?",
+    "image": "img/picture_world/sahara.jpg",
+    "options": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Arabian Desert"],
+    "correct": "Sahara Desert"
+  },
+  {
+    "question": "Which country is known for the ancient city of Carthage?",
+    "image": "img/picture_world/carthage.jpg",
+    "options": ["Morocco", "Tunisia", "Algeria", "Libya"],
+    "correct": "Tunisia"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "image": "img/picture_world/canberra_city.jpg",
+    "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "correct": "Canberra"
+  },
+  {
+    "question": "Which standard time zone is used as the prime basis for world time?",
+    "image": "img/picture_world/gmt.jpg",
+    "options": ["GMT / UTC", "EST", "CET", "PST"],
+    "correct": "GMT / UTC"
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/loch_ness.jpg",
+    "options": ["Ireland", "Scotland", "Wales", "England"],
+    "correct": "Scotland"
+  },
+  {
+    "question": "Where is the Parthenon located?",
+    "image": "img/picture_world/parthenon.jpg",
+    "options": ["Rome", "Athens", "Istanbul", "Cairo"],
+    "correct": "Athens"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/red_square.jpg",
+    "options": ["Ukraine", "Belarus", "Russia", "Poland"],
+    "correct": "Russia"
+  },
+  {
+    "question": "Where is the Hagia Sophia located?",
+    "image": "img/picture_world/hagia_sophia.jpg",
+    "options": ["Greece", "Egypt", "Turkey", "Lebanon"],
+    "correct": "Turkey"
+  },
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/anne_frank_house.jpg",
+    "options": ["Belgium", "Germany", "Denmark", "Netherlands"],
+    "correct": "Netherlands"
+  },
+
+  {
+    "question": "Where is the Ngorongoro Crater located?",
+    "image": "img/picture_world/ngorongoro.jpg",
+    "options": ["Tanzania", "Uganda", "Kenya", "Rwanda"],
+    "correct": "Tanzania"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/lalibela.jpg",
+    "options": ["Sudan", "Kenya", "Eritrea", "Ethiopia"],
+    "correct": "Ethiopia"
+  },
+  {
+    "question": "Where is the Saharan city of Timbuktu located?",
+    "image": "img/picture_world/timbuktu.jpg",
+    "options": ["Niger", "Mali", "Chad", "Mauritania"],
+    "correct": "Mali"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/zanzibar.jpg",
+    "options": ["Mozambique", "Kenya", "Tanzania", "Madagascar"],
+    "correct": "Tanzania"
+  },
+  {
+    "question": "Where is Cape of Good Hope located?",
+    "image": "img/picture_world/cape_good_hope.jpg",
+    "options": ["South Africa", "Namibia", "Mozambique", "Angola"],
+    "correct": "South Africa"
+  },
+
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/nazca_lines.jpg",
+    "options": ["Bolivia", "Chile", "Peru", "Argentina"],
+    "correct": "Peru"
+  },
+  {
+    "question": "Where is Cartagena's walled city located?",
+    "image": "img/picture_world/cartagena.jpg",
+    "options": ["Venezuela", "Panama", "Cuba", "Colombia"],
+    "correct": "Colombia"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/torres_del_pain.jpg",
+    "options": ["Argentina", "Bolivia", "Uruguay", "Chile"],
+    "correct": "Chile"
+  },
+  {
+    "question": "Where is the Amazon Rainforest primarily located?",
+    "image": "img/picture_world/amazon.jpg",
+    "options": ["Colombia", "Peru", "Brazil", "Venezuela"],
+    "correct": "Brazil"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/suriname_capital.jpg",
+    "options": ["Guyana", "French Guiana", "Suriname", "Trinidad"],
+    "correct": "Suriname"
+  },
+
+  {
+    "question": "Where is the ancient city of Persepolis located?",
+    "image": "img/picture_world/persepolis.jpg",
+    "options": ["Iran", "Afghanistan", "Iraq", "Pakistan"],
+    "correct": "Iran"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/baku_skyline.jpg",
+    "options": ["Georgia", "Armenia", "Kazakhstan", "Azerbaijan"],
+    "correct": "Azerbaijan"
+  },
+  {
+    "question": "Where is the Dead Sea located?",
+    "image": "img/picture_world/dead_sea.jpg",
+    "options": ["Jordan", "Egypt", "Lebanon", "Syria"],
+    "correct": "Jordan"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/wadi_rum.jpg",
+    "options": ["Saudi Arabia", "Oman", "Jordan", "UAE"],
+    "correct": "Jordan"
+  },
+  {
+    "question": "Where is the Maldives located?",
+    "image": "img/picture_world/maldives.jpg",
+    "options": ["Indian Ocean", "Pacific Ocean", "Caribbean Sea", "Red Sea"],
+    "correct": "Indian Ocean"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/preah_vihear.jpg",
+    "options": ["Thailand", "Vietnam", "Laos", "Cambodia"],
+    "correct": "Cambodia"
+  },
+  {
+    "question": "Where is the Chocolate Hills landscape located?",
+    "image": "img/picture_world/chocolate_hills.jpg",
+    "options": ["Indonesia", "Malaysia", "Philippines", "Vietnam"],
+    "correct": "Philippines"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/paro_taktsang.jpg",
+    "options": ["Nepal", "India", "Tibet", "Bhutan"],
+    "correct": "Bhutan"
+  },
+  {
+    "question": "Where is the Khyber Pass located?",
+    "image": "img/picture_world/khyber_pass.jpg",
+    "options": ["Afghanistan/Pakistan", "India/Nepal", "Iran/Iraq", "Tajikistan"],
+    "correct": "Afghanistan/Pakistan"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/varanasi.jpg",
+    "options": ["Nepal", "Bangladesh", "Pakistan", "India"],
+    "correct": "India"
+  },
+
+  {
+    "question": "Where is the Cinque Terre coastline located?",
+    "image": "img/picture_world/cinque_terre.jpg",
+    "options": ["Spain", "Croatia", "Greece", "Italy"],
+    "correct": "Italy"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/aurora_borealis_iceland.jpg",
+    "options": ["Norway", "Greenland", "Iceland", "Canada"],
+    "correct": "Iceland"
+  },
+  {
+    "question": "Where is Hallstatt village located?",
+    "image": "img/picture_world/hallstatt.jpg",
+    "options": ["Switzerland", "Germany", "Austria", "Czech Republic"],
+    "correct": "Austria"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/plitvice_lakes.jpg",
+    "options": ["Slovenia", "Bosnia", "Serbia", "Croatia"],
+    "correct": "Croatia"
+  },
+  {
+    "question": "Where is the Wieliczka Salt Mine located?",
+    "image": "img/picture_world/wieliczka.jpg",
+    "options": ["Czech Republic", "Hungary", "Poland", "Romania"],
+    "correct": "Poland"
+  },
+
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/great_ocean_road.jpg",
+    "options": ["New Zealand", "South Africa", "Australia", "Canada"],
+    "correct": "Australia"
+  },
+  {
+    "question": "Where is the Waitomo Glowworm Cave located?",
+    "image": "img/picture_world/waitomo.jpg",
+    "options": ["Australia", "New Zealand", "Papua New Guinea", "Fiji"],
+    "correct": "New Zealand"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/antananarivo.jpg",
+    "options": ["Mauritius", "Comoros", "Seychelles", "Madagascar"],
+    "correct": "Madagascar"
+  },
+  {
+    "question": "Where is the Skeleton Coast located?",
+    "image": "img/picture_world/skeleton_coast.jpg",
+    "options": ["Angola", "South Africa", "Namibia", "Mozambique"],
+    "correct": "Namibia"
+  },
+  {
+    "question": "Identify the country of Socotra island",
+    "image": "img/picture_world/socotra.jpg",
+    "options": ["Oman", "Somalia", "Yemen", "Ethiopia"],
+    "correct": "Yemen"
+  },
+
+  {
+    "question": "What is the tallest building in the world?",
+    "image": "img/picture_world/burj_khalifa_tall.jpg",
+    "options": ["Burj Khalifa", "Shanghai Tower", "CN Tower", "Empire State"],
+    "correct": "Burj Khalifa"
+  },
+  {
+    "question": "How many countries share a border with China?",
+    "image": "img/picture_world/china_borders.jpg",
+    "options": ["14", "10", "8", "12"],
+    "correct": "14"
+  },
+  {
+    "question": "What is the longest mountain range in the world?",
+    "image": "img/picture_world/andes.jpg",
+    "options": ["Himalayas", "Andes", "Rocky Mountains", "Alps"],
+    "correct": "Andes"
+  },
+  {
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "image": "img/picture_world/italy_sites.jpg",
+    "options": ["China", "Spain", "Italy", "France"],
+    "correct": "Italy"
+  },
+  {
+    "question": "What is the smallest continent by land area?",
+    "image": "img/picture_world/australia_continent.jpg",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "correct": "Australia"
+  },
+
+  {
+    "question": "Which country has the longest coastline in the world?",
+    "image": "img/picture_world/canada_coast.jpg",
+    "options": ["Norway", "Russia", "Australia", "Canada"],
+    "correct": "Canada"
+  },
+  {
+    "question": "What is the highest capital city in the world?",
+    "image": "img/picture_world/la_paz.jpg",
+    "options": ["Quito", "La Paz", "Bogotá", "Addis Ababa"],
+    "correct": "La Paz"
+  },
+  {
+    "question": "Which country is home to the most pyramids (ancient)?",
+    "image": "img/picture_world/meroe.jpg",
+    "options": ["Egypt", "Mexico", "Sudan", "Peru"],
+    "correct": "Sudan"
+  },
+  {
+    "question": "What is the world's oldest capital city still in use?",
+    "image": "img/picture_world/damascus.jpg",
+    "options": ["Cairo", "Athens", "Damascus", "Jerusalem"],
+    "correct": "Damascus"
+  },
+  {
+    "question": "Which ocean is the smallest in the world?",
+    "image": "img/picture_world/arctic_ocean.jpg",
+    "options": ["Indian Ocean", "Arctic Ocean", "Southern Ocean", "Atlantic Ocean"],
+    "correct": "Arctic Ocean"
+  },
+
+  {
+    "question": "What is the currency of India?",
+    "image": "img/picture_world/rupee.jpg",
+    "options": ["Rupiah", "Taka", "Rupee", "Dinar"],
+    "correct": "Rupee"
+  },
+  {
+    "question": "Which country is the world's largest by land area?",
+    "image": "img/picture_world/russia_map.jpg",
+    "options": ["Canada", "China", "USA", "Russia"],
+    "correct": "Russia"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "image": "img/picture_world/buenos_aires.jpg",
+    "options": ["Montevideo", "Santiago", "Lima", "Buenos Aires"],
+    "correct": "Buenos Aires"
+  },
+  {
+    "question": "Which country invented the game of chess?",
+    "image": "img/picture_world/chess.jpg",
+    "options": ["China", "Persia", "India", "Greece"],
+    "correct": "India"
+  },
+  {
+    "question": "What is the largest freshwater lake in the world?",
+    "image": "img/picture_world/lake_superior.jpg",
+    "options": ["Lake Victoria", "Lake Superior", "Lake Baikal", "Caspian Sea"],
+    "correct": "Lake Superior"
+  },
+
+  {
+    "question": "Identify the country of this landmark",
+    "image": "img/picture_world/royal_palace_brussels.jpg",
+    "options": ["France", "Netherlands", "Luxembourg", "Belgium"],
+    "correct": "Belgium"
+  },
+  {
+    "question": "Where is the Leaning Tower of Pisa located?",
+    "image": "img/picture_world/pisa_tower.jpg",
+    "options": ["Greece", "France", "Italy", "Spain"],
+    "correct": "Italy"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/cliffs_of_moher.jpg",
+    "options": ["Scotland", "Wales", "Iceland", "Ireland"],
+    "correct": "Ireland"
+  },
+  {
+    "question": "Where is the Schönbrunn Palace located?",
+    "image": "img/picture_world/schonbrunn.jpg",
+    "options": ["Hungary", "Germany", "Austria", "Czech Republic"],
+    "correct": "Austria"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/fjords_norway.jpg",
+    "options": ["Iceland", "Sweden", "Finland", "Norway"],
+    "correct": "Norway"
+  },
+
+  {
+    "question": "Where is Chefchaouen, the Blue City, located?",
+    "image": "img/picture_world/chefchaouen.jpg",
+    "options": ["Tunisia", "Morocco", "Algeria", "Jordan"],
+    "correct": "Morocco"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/abu_simbel.jpg",
+    "options": ["Sudan", "Ethiopia", "Libya", "Egypt"],
+    "correct": "Egypt"
+  },
+  {
+    "question": "Where is the ancient city of Leptis Magna located?",
+    "image": "img/picture_world/leptis_magna.jpg",
+    "options": ["Tunisia", "Morocco", "Algeria", "Libya"],
+    "correct": "Libya"
+  },
+  {
+    "question": "Identify the country",
+    "image": "img/picture_world/djenné_mosque.jpg",
+    "options": ["Niger", "Senegal", "Guinea", "Mali"],
+    "correct": "Mali"
+  },
+  {
+    "question": "Where is the island of Zanzibar?",
+    "image": "img/picture_world/zanzibar_beach.jpg",
+    "options": ["Kenya", "Mozambique", "Tanzania", "Madagascar"],
+    "correct": "Tanzania"
+  }
+]

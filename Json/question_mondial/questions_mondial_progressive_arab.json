@@ -1,0 +1,4768 @@
+[
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "                من فاز بكأس العالم لكرة القدم 2018؟",
+    "correct": "فرنسا",
+    "options": [
+      "كرواتيا",
+      "البرازيل",
+      "فرنسا",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "                من فاز بكأس العالم لكرة القدم 2022؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "فرنسا",
+      "البرازيل",
+      "كرواتيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أي دولة فازت بأكبر عدد من كؤوس العالم؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرازيل",
+      "إيطاليا",
+      "ألمانيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2014_host.jpg",
+    "question": "                أين أقيم كأس العالم 2014؟",
+    "correct": "البرازيل",
+    "options": [
+      "جنوب إفريقيا",
+      "روسيا",
+      "البرازيل",
+      "ألمانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أين أقيم كأس العالم 2010؟",
+    "correct": "جنوب إفريقيا",
+    "options": [
+      "فرنسا",
+      "جنوب إفريقيا",
+      "البرازيل",
+      "ألمانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "                من فاز بكأس العالم 2006؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إيطاليا",
+      "البرازيل",
+      "فرنسا",
+      "ألمانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1930.jpg",
+    "question": "                من فاز بأول كأس عالم في 1930؟",
+    "correct": "الأوروغواي",
+    "options": [
+      "البرازيل",
+      "ألمانيا",
+      "الأوروغواي",
+      "الأرجنتين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/argentina1990.gif",
+    "question": "                أي دولة استضافت كأس العالم 2022؟",
+    "correct": "قطر",
+    "options": [
+      "الإمارات",
+      "الولايات المتحدة",
+      "السعودية",
+      "قطر"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_fifa.jpg",
+    "question": "                كم مرة تقام كأس العالم؟",
+    "correct": "كل 4 سنوات",
+    "options": [
+      "كل سنة",
+      "كل سنتين",
+      "كل 3 سنوات",
+      "كل 4 سنوات"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "                كم عدد المنتخبات المشاركة في كأس العالم 2022؟",
+    "correct": "٣٢",
+    "options": [
+      "٣٢",
+      "٣٦",
+      "٤٠",
+      "٤٨"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "                من سجل هاتريك في نهائي 2022؟",
+    "correct": "كيليان مبابي",
+    "options": [
+      "ليونيل ميسي",
+      "كريستيانو رونالدو",
+      "كيليان مبابي",
+      "دي ماريا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "                من فاز بكأس العالم 1998؟",
+    "correct": "فرنسا",
+    "options": [
+      "البرازيل",
+      "إيطاليا",
+      "فرنسا",
+      "ألمانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "                من فاز بكأس العالم 2002؟",
+    "correct": "البرازيل",
+    "options": [
+      "ألمانيا",
+      "البرازيل",
+      "الأرجنتين",
+      "إسبانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من يُعرف بـ 'ملك كرة القدم'؟",
+    "correct": "بيليه",
+    "options": [
+      "مارادونا",
+      "رونالدو",
+      "ميسي",
+      "بيليه"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "                من فاز بكأس العالم 2010؟",
+    "correct": "إسبانيا",
+    "options": [
+      "هولندا",
+      "إسبانيا",
+      "ألمانيا",
+      "إيطاليا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "                من فاز بكأس العالم 2014؟",
+    "correct": "ألمانيا",
+    "options": [
+      "ألمانيا",
+      "الأرجنتين",
+      "البرازيل",
+      "فرنسا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_qatar.jpg",
+    "question": "                أي دولة إفريقية وصلت إلى نصف النهائي في 2022؟",
+    "correct": "المغرب",
+    "options": [
+      "السنغال",
+      "مصر",
+      "المغرب",
+      "نيجيريا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1986.jpg",
+    "question": "                من فاز بكأس العالم 1986؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "البرازيل",
+      "ألمانيا",
+      "إيطاليا",
+      "الأرجنتين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من سجل هدف 'يد '؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "بيليه",
+      "مارادونا",
+      "ميسي",
+      "رونالدو"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "                من فاز بكأس العالم 1994؟",
+    "correct": "البرازيل",
+    "options": [
+      "إيطاليا",
+      "البرازيل",
+      "ألمانيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1978.jpg",
+    "question": "                من فاز بكأس العالم 1978؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "الأرجنتين",
+      "ألمانيا",
+      "البرازيل",
+      "فرنسا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_golden_glove.jpg",
+    "question": "                أي حارس مرمى فاز بالقفاز الذهبي في 2022؟",
+    "correct": "مارتينيز",
+    "options": [
+      "لوريس",
+      "نوير",
+      "بونو",
+      "مارتينيز"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "                من فاز بكأس العالم 1966؟",
+    "correct": "إنجلترا",
+    "options": [
+      "ألمانيا",
+      "إنجلترا",
+      "البرازيل",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1958.jpg",
+    "question": "                من فاز بكأس العالم 1958؟",
+    "correct": "البرازيل",
+    "options": [
+      "السويد",
+      "ألمانيا",
+      "البرازيل",
+      "فرنسا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1954.jpg",
+    "question": "                من فاز بكأس العالم 1954؟",
+    "correct": "ألمانيا",
+    "options": [
+      "المجر",
+      "البرازيل",
+      "ألمانيا",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1934.jpg",
+    "question": "                من فاز بكأس العالم 1934؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إيطاليا",
+      "ألمانيا",
+      "البرازيل",
+      "الأوروغواي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من فاز بكأس العالم 1938؟",
+    "correct": "إيطاليا",
+    "options": [
+      "فرنسا",
+      "ألمانيا",
+      "البرازيل",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_golden_ball.jpg",
+    "question": "                من فاز بالكرة الذهبية في 2022؟",
+    "correct": "ميسي",
+    "options": [
+      "مبابي",
+      "مودريتش",
+      "ميسي",
+      "حكيمي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2026.jpg",
+    "question": "     أي دولة ستستضيف كأس العالم 2026؟",
+    "correct": "أمريكا/المكسيك/كندا",
+    "options": [
+      "أمريكا",
+      "كندا",
+      "المكسيك",
+      "أمريكا/المكسيك/كندا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2022_final.jpg",
+    "question": "                أي ملعب استضاف نهائي 2022؟",
+    "correct": "استاد لوسيل",
+    "options": [
+      "استاد البيت",
+      "استاد لوسيل",
+      "استاد 974",
+      "مدينة التعليم"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "                من فاز بكأس العالم 1990؟",
+    "correct": "ألمانيا",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "ألمانيا",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من فاز بكأس العالم 1982؟",
+    "correct": "إيطاليا",
+    "options": [
+      "البرازيل",
+      "إيطاليا",
+      "ألمانيا",
+      "فرنسا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "                من سجل هدف الفوز في نهائي 2014؟",
+    "correct": "غوتسه",
+    "options": [
+      "مولر",
+      "غوتسه",
+      "أوزيل",
+      "كلوزه"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من هو الهداف التاريخي لكأس العالم؟",
+    "correct": "كلوزه",
+    "options": [
+      "رونالدو",
+      "ميسي",
+      "كلوزه",
+      "بيليه"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1962_host.jpg",
+    "question": "                من فاز بكأس العالم 1962؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرازيل",
+      "ألمانيا",
+      "تشيلي",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2018_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 2018؟",
+    "correct": "روسيا",
+    "options": [
+      "روسيا",
+      "ألمانيا",
+      "فرنسا",
+      "البرازيل"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2006_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 2006؟",
+    "correct": "ألمانيا",
+    "options": [
+      "إيطاليا",
+      "ألمانيا",
+      "فرنسا",
+      "إسبانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1998_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 1998؟",
+    "correct": "فرنسا",
+    "options": [
+      "فرنسا",
+      "ألمانيا",
+      "إيطاليا",
+      "إسبانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1994_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 1994؟",
+    "correct": "الولايات المتحدة",
+    "options": [
+      "كندا",
+      "البرازيل",
+      "المكسيك",
+      "الولايات المتحدة"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1986_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 1986؟",
+    "correct": "المكسيك",
+    "options": [
+      "البرازيل",
+      "المكسيك",
+      "الولايات المتحدة",
+      "الأرجنتين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1974_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 1974؟",
+    "correct": "ألمانيا",
+    "options": [
+      "ألمانيا",
+      "إيطاليا",
+      "البرازيل",
+      "فرنسا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1962_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 1962؟",
+    "correct": "تشيلي",
+    "options": [
+      "الأرجنتين",
+      "البرازيل",
+      "تشيلي",
+      "إسبانيا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "                أي دولة استضافت كأس العالم 1950؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرازيل",
+      "إيطاليا",
+      "فرنسا",
+      "الأوروغواي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أي دولة استضافت أول كأس عالم؟",
+    "correct": "الأوروغواي",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "الأوروغواي",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_mpape.jpg",
+    "question": "                كم عدد الأهداف التي سجلها مبابي في نهائي 2022؟",
+    "correct": "٣",
+    "options": [
+      "١",
+      "٢",
+      "٣",
+      "٤"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_golden_ball.jpg",
+    "question": "                من فاز بالحذاء الذهبي في 2022؟",
+    "correct": "مبابي",
+    "options": [
+      "ميسي",
+      "مبابي",
+      "جيرو",
+      "ألفاريز"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أي دولة فازت بـ 4 كؤوس عالم؟",
+    "correct": "ألمانيا",
+    "options": [
+      "ألمانيا",
+      "فرنسا",
+      "إسبانيا",
+      "البرازيل"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أي دولة فازت بـ كأسين عالميين؟",
+    "correct": "فرنسا",
+    "options": [
+      "فرنسا",
+      "إيطاليا",
+      "ألمانيا",
+      "إنجلترا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أول لاعب مغربي يتلقى بطاقة حمراء في كأس العالم؟                ",
+    "correct": "وليد شديرة",
+    "options": [
+      "يوسف حجي",
+      "وليد شديرة",
+      "يوسف شيبو",
+      "نور الدين نيبت"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Egype.jpg",
+    "question": "                أول لاعب مصري يسجل هدفاً في كأس العالم؟                ",
+    "correct": "عبد الرحمن فوزي",
+    "options": [
+      "محمد صلاح",
+      "مجدي عبد الغني",
+      "حسام حسن",
+      "عبد الرحمن فوزي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                دولة لم يسبق لها المشاركة أبداً في كأس العالم؟                ",
+    "correct": "الهند",
+    "options": [
+      "كوبا",
+      "الصين",
+      "بوليفيا",
+      "الهند"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/zidane_red_card.jpg",
+    "question": "                من اللاعب الذي تسبب في طرد زيدان في نهائي 2006؟                ",
+    "correct": "ماركو ماتيرازي",
+    "options": [
+      "فابيو كانافارو",
+      "جينارو غاتوزو",
+      "ماركو ماتيرازي",
+      "أنجيلو بيروزي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "                من كان وصيف بطل كأس العالم 1990؟                ",
+    "correct": "الأرجنتين",
+    "options": [
+      "ألمانيا الغربية",
+      "الأرجنتين",
+      "إيطاليا",
+      "إنجلترا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من هو اللاعب الأكثر تسجيلاً للأهداف في تصفيات كأس العالم؟                ",
+    "correct": "كارلوس رويز",
+    "options": [
+      "كريستيانو رونالدو",
+      "ليونيل ميسي",
+      "علي دائي",
+      "كارلوس رويز"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                ما هو المنتخب الذي لم يخسر أي مباراة عبر تاريخه في المونديال؟                ",
+    "correct": "لا أحد",
+    "options": [
+      "البرازيل",
+      "ألمانيا",
+      "إيطاليا",
+      "لا أحد"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                منتخب لم يسبق له خسارة نهائي كأس العالم؟                ",
+    "correct": "سان مارينو",
+    "options": [
+      "سان مارينو",
+      "ألمانيا",
+      "إيطاليا",
+      "البرازيل"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/paolo_rossi.jpg",
+    "question": "                من هو اللاعب الذي خرج من السجن ليفوز بكأس العالم؟                ",
+    "correct": "باولو روسي",
+    "options": [
+      "دييغو مارادونا",
+      "باولو روسي",
+      "رينيه هيغيتا",
+      "غارينشيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "                من هو اللاعب الأكثر مشاركة في مباريات كأس العالم؟                ",
+    "correct": "ليونيل ميسي",
+    "options": [
+      "لوثار ماتيوس",
+      "ميروسلاف كلوزه",
+      "ليونيل ميسي",
+      "باولو مالديني"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/best_player_not_final.jpg",
+    "question": "           لاعب فاز بجائزة أفضل لاعب في البطولة رغم عدم وصوله للنهائي؟ ",
+    "correct": "دييغو فورلان",
+    "options": [
+      "لويس سواريز",
+      "أوليفر كان",
+      "دييغو فورلان",
+      "زين الدين زيدان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/jabulani.jpg",
+    "question": "                من لقب بـ 'عاشق الجابولاني' (كرة 2010)؟                ",
+    "correct": "دييغو فورلان",
+    "options": [
+      "دييغو فورلان",
+      "ويسلي شنايدر",
+      "توماس مولر",
+      "ديفيد فيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1954.jpg",
+    "question": "                من كان وصيف بطل كأس العالم 1954؟                ",
+    "correct": "المجر",
+    "options": [
+      "ألمانيا الغربية",
+      "المجر",
+      "إيطاليا",
+      "أوروغواي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/goal_average.jpg",
+    "question": "                صاحب أعلى معدل أهداف في نسخة واحدة من كأس العالم؟                ",
+    "correct": "ساندور كوتشيس",
+    "options": [
+      "جاست فونتين",
+      "ساندور كوتشيس",
+      "جيرد مولر",
+      "بيليه"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أي منتخب تعرض لأسوأ هزيمة في تاريخ كأس العالم؟                ",
+    "correct": "إلسلفادور",
+    "options": [
+      "البرازيل",
+      "إلسلفادور",
+      "كوبا",
+      "كوريا الجنوبية"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أي منتخب هو الأكثر فوزاً بالمباريات في تاريخ المونديال؟                ",
+    "correct": "البرازيل",
+    "options": [
+      "ألمانيا",
+      "إيطاليا",
+      "الأرجنتين",
+      "البرازيل"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/golden_goal.jpg",
+    "question": "                من سجل الهدف الذهبي لتركيا ضد السنغال عام 2002؟                ",
+    "correct": "إلهان مانسيز",
+    "options": [
+      "إلهان مانسيز",
+      "حسن شاش",
+      "هاكان شوكور",
+      "أوميت دافالا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من هو اللاعب الأكثر فوزاً باللقب كلاعب؟                ",
+    "correct": "بيليه",
+    "options": [
+      "كافو",
+      "رونالدو الظاهرة",
+      "بيليه",
+      "دييغو مارادونا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/oldest_player.jpg",
+    "question": "                من هو أكبر لاعب شارك في تاريخ كأس العالم؟                ",
+    "correct": "عصام الحضري",
+    "options": [
+      "عصام الحضري",
+      "روجيه ميلا",
+      "فريد موندراغون",
+      "دينو زوف"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                ما هي أكثر نسخة شهدت تسجيلاً للأهداف؟                ",
+    "correct": "2022",
+    "options": [
+      "1998",
+      "2014",
+      "2022",
+      "1954"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                منتخب أُقصي من مونديال 2006 دون أن يسكن شباكه أي هدف؟                ",
+    "correct": "سويسرا",
+    "options": [
+      "إيطاليا",
+      "فرنسا",
+      "سويسرا",
+      "البرتغال"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أكثر منتخب وصل للنهائي دون أن يحقق اللقب أبداً؟                ",
+    "correct": "هولندا",
+    "options": [
+      "المجر",
+      "تشيكوسلوفاكيا",
+      "هولندا",
+      "كرواتيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أطول فترة غياب عن التتويج منذ آخر لقب حققه المنتخب؟                ",
+    "correct": "أوروغواي",
+    "options": [
+      "إنجلترا",
+      "أوروغواي",
+      "إيطاليا",
+      "البرازيل"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                منتخب لم يخسر أبداً في نصف النهائي رغم تعدد مشاركاته فيه؟                ",
+    "correct": "الأرجنتين",
+    "options": [
+      "الأرجنتين",
+      "ألمانيا",
+      "البرازيل",
+      "إيطاليا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_golden_ball.jpg",
+    "question": "                اللاعب الوحيد الذي فاز بالكرة الذهبية للمونديال مرتين؟                ",
+    "correct": "ليونيل ميسي",
+    "options": [
+      "ليونيل ميسي",
+      "رونالدو الظاهرة",
+      "زين الدين زيدان",
+      "دييغو مارادونا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/smallest_country.jpg",
+    "question": "                أصغر دولة من حيث السكان شاركت في كأس العالم؟                ",
+    "correct": "آيسلندا",
+    "options": [
+      "ترينيداد وتوباغو",
+      "الكويت",
+      "جامايكا",
+      "آيسلندا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                دولة شاركت في المونديال دون تسجيل أي هدف؟                ",
+    "correct": "الصين",
+    "options": [
+      "كوريا الجنوبية",
+      "توغو",
+      "جامايكا",
+      "الصين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/En_Nesyri.jpg",
+    "question": "                من صاحب العرضية للنصيري ضد البرتغال في مونديال 2022؟                ",
+    "correct": "يحيى عطية الله",
+    "options": [
+      "حكيم زياش",
+      "أشرف حكيمي",
+      "يحيى عطية الله",
+      "سفيان بوفال"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/Abdelmoumene_Djabou.jpg",
+    "question": "                من سجل هدف الجزائر ضد ألمانيا في مونديال 2014؟                ",
+    "correct": "عبد المؤمن جابو",
+    "options": [
+      "رياض محرز",
+      "إسلام سليماني",
+      "سفيان فيغولي",
+      "عبد المؤمن جابو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Iniesta.jpg",
+    "question": "        المقولة الشهيرة عندما سقط الإقليم أنقذته العاصمة تشير إلى من؟                ",
+    "correct": "كاسياس",
+    "options": [
+      "سيرجيو راموس",
+      "كاسياس",
+      "إنييستا",
+      "بويول"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                أكثر من سجل من ركلات حرة في تاريخ المونديال؟                ",
+    "correct": "بيليه",
+    "options": [
+      "بيليه",
+      "روبرتو كارلوس",
+      "بيكهام",
+      "دييغو مارادونا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من هو اللاعب الأكثر تسجيلاً للهاتريك في تاريخ المونديال؟                ",
+    "correct": "غابرييل باتيستوتا",
+    "options": [
+      "ميروسلاف كلوزه",
+      "غابرييل باتيستوتا",
+      "رونالدو الظاهرة",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "                من هو اللاعب الأكثر صناعة للأهداف في تاريخ المونديال؟                ",
+    "correct": "بيليه",
+    "options": [
+      "ليونيل ميسي",
+      "دييغو مارادونا",
+      "توماس مولر",
+      "بيليه"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/morocco.jpg",
+    "question": "                الهداف التاريخي للمغرب في كأس العالم؟                ",
+    "correct": "يوسف النصيري",
+    "options": [
+      "مصطفى حجي",
+      "صلاح الدين بصير",
+      "يوسف النصيري",
+      "عبد الرزاق خيري"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Portugal.jpg",
+    "question": "                الهداف التاريخي للبرتغال في كأس العالم؟                ",
+    "correct": "أوزيبيو",
+    "options": [
+      "رونالدو CR7",
+      "لويس فيغو",
+      "باوليتا",
+      "أوزيبيو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "                من كان الحصان الأسود لمونديال 2014؟                ",
+    "correct": "كوستاريكا",
+    "options": [
+      "كولومبيا",
+      "تشيلي",
+      "كوستاريكا",
+      "الجزائر"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Uruguay.jpg",
+    "question": "                كم عدد النجوم على قميص منتخب أوروغواي؟                ",
+    "correct": "4",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Ibrahimović.jpg",
+    "question": "                ما هي آخر نسخة شارك فيها إبراهيموفيتش؟                ",
+    "correct": "2006",
+    "options": [
+      "2006",
+      "2002",
+      "2010",
+      "2018"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/smallest_country.jpg",
+    "question": "                أسوأ نسخة لميسي من حيث عدد الأهداف المسجلة؟                ",
+    "correct": "2010",
+    "options": [
+      "2006",
+      "2010",
+      "2014",
+      "2018"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Portugal.jpg",
+    "question": "                ما هو أفضل إنجاز للبرتغال في تاريخ المونديال؟                ",
+    "correct": "المركز الثالث",
+    "options": [
+      "الوصيف",
+      "المركز الثالث",
+      "المركز الرابع",
+      "ربع النهائي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/martinez.jpg",
+    "question": "                من اللاعب الذي أضاع الفرصة القاتلة ضد الأرجنتين في نهائي 2022؟      ",
+    "correct": "كولو مواني",
+    "options": [
+      "كولو مواني",
+      "كومان",
+      "ديمبيلي",
+      "مبابي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Jens_Lehmann.jpg",
+    "question": "                أول حارس استخدم ورقة ملاحظات لركلات الترجيح؟                ",
+    "correct": "ينس ليمان",
+    "options": [
+      "أوليفر كان",
+      "ينس ليمان",
+      "جيانلويجي بوفون",
+      "سيرجيو روميرو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "                من سجل هدف إيطاليا في نهائي 2006؟                ",
+    "correct": "ماركو ماتيرازي",
+    "options": [
+      "فابيو غروسو",
+      "أندريا بيرلو",
+      "لوكا توني",
+      "ماركو ماتيرازي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Iniesta.jpg",
+    "question": "                في أي دقيقة سجل إنييستا هدفه في نهائي 2010؟                ",
+    "correct": "116",
+    "options": [
+      "109",
+      "118",
+      "116",
+      "119"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1970.jpg",
+    "question": "                من فاز بكأس العالم 1970?",
+    "correct": "البرازيل",
+    "options": [
+      "إيطاليا",
+      "البرازيل",
+      "ألمانيا",
+      "الأوروغواي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_morocco.jpg",
+    "question": "                أي فريق هزمه المغرب للوصول إلى نصف نهائي 2022؟",
+    "correct": "البرتغال",
+    "options": [
+      "إسبانيا",
+      "البرتغال",
+      "البرازيل",
+      "فرنسا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Saudi.jpg",
+    "question": "                أول لاعب سعودي يسجل هدفاً في كأس العالم؟                ",
+    "correct": "فؤاد أنور",
+    "options": [
+      "سعيد العويران",
+      "سامي الجابر",
+      "فؤاد أنور",
+      "ماجد عبد الله"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/escobar.jpg",
+    "question": "     لاعب توفي بسبب خطأ ",
+    "correct": "أندريس إسكوبار",
+    "options": [
+      "أندريس إسكوبار",
+      "لويس مورينو",
+      "هومبيرتو مونوز",
+      "كارلوس فالديراما"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/gotze.gif",
+    "question": "من الذي سجل هذا الهدف؟",
+    "correct": "غوتزه",
+    "options": [
+      "توماس مولر",
+      "أندريه شورله",
+      "أوزيل",
+      "غوتزه"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/maradona.jpg",
+    "question": "في أي كأس عالم التقطت هذه الصورة؟",
+    "correct": "المكسيك 1986",
+    "options": [
+      "المكسيك 1986",
+      "إسبانيا 1982",
+      "إيطاليا 1990",
+      "الولايات المتحدة 1994"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/buffon.jpg",
+    "question": "متى لم تهتز الشباك بسبب عظمة المشهد؟",
+    "correct": "زيزو ضد بوفون",
+    "options": [
+      "بيليه ضد بانكس",
+      "زيزو ضد بوفون",
+      "مارادونا ضد شيلتون",
+      "كاسياس ضد روبن"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/cruyff.jpg",
+    "question": "من من هؤلاء اللاعبين لم يفز بكأس العالم قط؟",
+    "correct": "يوهان كرويف",
+    "options": [
+      "بيليه",
+      "بيكنباور",
+      "مالديني",
+      "يوهان كرويف"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من من هؤلاء اللاعبين لم يشارك في كأس العالم قط؟",
+    "correct": "دي ستيفانو",
+    "options": [
+      "جورج بيست",
+      "دي ستيفانو",
+      "إيريك كانتونا",
+      "جميعهم"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/yellow_card.jpg",
+    "question": "من هو اللاعب الأكثر حصولاً على البطاقات الصفراء في تاريخ كأس العالم؟",
+    "correct": "خافيير ماسكيرانو",
+    "options": [
+      "خافيير ماسكيرانو",
+      "زين الدين زيدان",
+      "كافو",
+      "ريغوبرت سونغ"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/spain.jpg",
+    "question": "   من هو الهداف التاريخي لمنتخب إسبانيا؟",
+    "correct": "فيا",
+    "options": [
+      "راؤول",
+      "فرناندو توريس",
+      "فيا",
+      "موراتا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "     في أي دقيقة سجل رونالدو (R9) ذلك الهدف؟",
+    "correct": "67",
+    "options": [
+      "55",
+      "79",
+      "67",
+      "82"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "من هو اللاعب الأكثر حصولاً على البطاقات الحمراء في تاريخ كأس العالم؟",
+    "correct": "ريغوبرت سونغ/زيدان",
+    "options": [
+      "ريغوبرت سونغ/زيدان",
+      "سيرجيو راموس",
+      "ماركو ماتيرازي",
+      "خيراردو بيدويا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/hungary.jpg",
+    "question": "     متى كانت آخر مرة وصلت فيها المجر إلى النهائي؟",
+    "correct": "1954",
+    "options": [
+      "1938",
+      "1970",
+      "1966",
+      "1954"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/bulgaria.jpg",
+    "question": "     متى كانت آخر مرة وصلت فيها بلغاريا إلى النهائي؟",
+    "correct": "لم تصل أبداً",
+    "options": [
+      "1994",
+      "1986",
+      "لم تصل أبداً",
+      "1962"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/b_charlton.jpg",
+    "question": "من هما الشقيقان اللذان لعبا في نفس كأس العالم ولنفس المنتخب? ",
+    "correct": "بوبي/جاك",
+    "options": [
+      "بوبي/جاك",
+      "غاري/فيل نيفيل",
+      "فرانك/رونالد دي بور",
+      "جميعهم"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/boateng.jpg",
+    "question": "من هما الشقيقان اللذان لعبا في نفس كأس العالم لمنتخبين مختلفين؟",
+    "correct": "بواتينغ",
+    "options": [
+      "هرنانديز",
+      "تشاكا",
+      "ألكانتارا",
+      "بواتينغ"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو الهداف التاريخي للبرازيل في كأس العالم؟",
+    "correct": "رونالدو الظاهرة",
+    "options": [
+      "بيليه",
+      "رونالدو الظاهرة",
+      "روماريو",
+      "نيمار"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/cr7_hattrick.gif",
+    "question": "      في أي دقيقة أكمل رونالدو الهاتريك ضد إسبانيا؟",
+    "correct": "88",
+    "options": [
+      "82",
+      "85",
+      "88",
+      "2+90"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/algeria.jpg",
+    "question": "من هو الهداف التاريخي للجزائر في كأس العالم؟",
+    "correct": "إسلام سليماني/جابو",
+    "options": [
+      "جابو/محرز",
+      "لخضر بلومي",
+      "إسلام سليماني/جابو",
+      "صالح عصاد"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/james.jpg",
+    "question": "أي هدف في كأس العالم فاز بجائزة بوشكاش؟",
+    "correct": "رودريغيز (2014)",
+    "options": [
+      "رودريغيز (2014)",
+      "بافار (2018)",
+      "فان بيرسي (2014)",
+      "ريتشارليسون (2022)"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/neymar_injury.jpg",
+    "question": "     ضد أي منتخب تعرض نيمار للإصابة في كأس العالم 2014؟",
+    "correct": "كولومبيا",
+    "options": [
+      "تشيلي",
+      "المكسيك",
+      "ألمانيا",
+      "كولومبيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "     ما هو المنتخب الوطني الذي شارك في نسخة واحدة فقط من كأس العالم؟",
+    "correct": "الكويت",
+    "options": [
+      "الكويت",
+      "مصر",
+      "قطر",
+      "العراق"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Uruguay.jpg",
+    "question": "     كم عدد الأهداف التي سجلها دييغو فورلان في كأس العالم؟",
+    "correct": "6",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_qatar.jpg",
+    "question": "ما هو المنتخب الوحيد الذي هزم الأرجنتين في كأس العالم 2022؟",
+    "correct": "السعودية",
+    "options": [
+      "فرنسا",
+      "السعودية",
+      "المكسيك",
+      "كرواتيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/most_goals_tournament.jpg",
+    "question": "من هو اللاعب الذي سجل أكبر عدد من الأهداف في الأدوار الإقصائية لكأس العالم؟",
+    "correct": "مبابي",
+    "options": [
+      "بيليه",
+      "ليونيل ميسي",
+      "كلوزه",
+      "مبابي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "من هو هداف كأس العالم 2018؟",
+    "correct": "هاري كين",
+    "options": [
+      "مبابي",
+      "رونالدو",
+      "هاري كين",
+      "أنطوان غريزمان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "من هو هداف كأس العالم 2014؟",
+    "correct": "خاميس رودريغيز",
+    "options": [
+      "توماس مولر",
+      "ليونيل ميسي",
+      "خاميس رودريغيز",
+      "نيمار"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "من هو هداف كأس العالم 2010؟",
+    "correct": "توماس مولر",
+    "options": [
+      "توماس مولر",
+      "فيا",
+      "فورلان",
+      "شنايدر"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/hungary.jpg",
+    "question": "كم عدد المرات التي فازت فيها المجر بكأس العالم؟",
+    "correct": "0",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "     ماذا كان نظام بطولة كأس العالم عام 1954؟",
+    "correct": "مجموعات من 4 فرق",
+    "options": [
+      "خروج المغلوب مباشرة",
+      "مجموعات من 4 فرق",
+      "دوري مجزأ",
+      "مجموعات من 3 فرق"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "ما هو المنتخب الوطني الأكثر ظهوراً في كأس العالم؟",
+    "correct": "البرازيل",
+    "options": [
+      "ألمانيا",
+      "إيطاليا",
+      "الأرجنتين",
+      "البرازيل"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2026.jpg",
+    "question": "من هو أصغر لاعب شارك في تاريخ كأس العالم على الإطلاق؟",
+    "correct": "نورمان وايتسايد",
+    "options": [
+      "بيليه",
+      "نورمان وايتسايد",
+      "جافي",
+      "لامين يامال"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/hakan_sukur.jpg",
+    "question": "    ما هو أسرع هدف تم تسجيله في تاريخ كأس العالم؟",
+    "correct": "10.8 ثواني",
+    "options": [
+      "10.8 ثواني",
+      "15.2 ثانية",
+      "21.0 ثانية",
+      "30.5 ثانية"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "أي نسخة من كأس العالم شهدت أكبر عدد من الأهداف العكسية؟",
+    "correct": "2018",
+    "options": [
+      "2018",
+      "2014",
+      "1998",
+      "2022"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/yellow_card.jpg",
+    "question": "أي نسخة من كأس العالم شهدت أكبر عدد من البطاقات الصفراء؟",
+    "correct": "2022",
+    "options": [
+      "2006",
+      "2010",
+      "2014",
+      "2022"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "ما هي أول بطاقة حمراء في تاريخ كأس العالم؟",
+    "correct": "كارلوس كازالي",
+    "options": [
+      "كارلوس كازالي",
+      "بيليه",
+      "زيدان",
+      "راتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "    ما هو أقوى منتخب عبر التاريخ لم يسبق له الفوز بكأس العالم؟",
+    "correct": "المجر/هولندا",
+    "options": [
+      "البرتغال/بلغاريا",
+      "تركيا",
+      "المجر/هولندا",
+      "فرنسا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_mpape.jpg",
+    "question": "      من هو الهداف التاريخي لفرنسا في كأس العالم؟",
+    "correct": "جاست فونتين",
+    "options": [
+      "تييري هنري",
+      "زيدان",
+      "جاست فونتين",
+      "مبابي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Gordon_Banks.jpg",
+    "question": "أي تصدٍ وُصف بأنه 'أنقذ دولة' (التصدي الأكثر أيقونية)؟",
+    "correct": "غوردون بانكس",
+    "options": [
+      "غوردون بانكس",
+      "كاسياس",
+      "مارتينيز",
+      "ليف ياشين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "كم عدد المنتخبات الوطنية التي فازت بكأس العالم؟",
+    "correct": "8",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/best_player_not_final.jpg",
+    "question": "     كم عدد بطولات كأس العالم التي أقيمت (حتى عام 2022)؟",
+    "correct": "22",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هو أفضل إنجاز لمنتخب آسيوي في كأس العالم؟",
+    "correct": "المركز الرابع",
+    "options": [
+      "المركز الرابع",
+      "المركز الثالث",
+      "ربع النهائي",
+      "دور الـ 16"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هي نسخ كأس العالم التي تم إلغاؤها؟",
+    "correct": "1942/1946",
+    "options": [
+      "1914/1918",
+      "1942/1946",
+      "1938/1950",
+      "لم يلغى أي منها"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "أي منتخب لعب 8 بطولات كأس عالم ولم يتخطَ دور المجموعات قط؟",
+    "correct": "إسكتلندا",
+    "options": [
+      "إسكتلندا",
+      "كوريا الجنوبية",
+      "المكسيك",
+      "تونس"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/most_goals_tournament.jpg",
+    "question": "     من هو اللاعب صاحب الرقم القياسي لأكثر التمريرات الحاسمة في نسخة واحدة من كأس العالم؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "دييغو مارادونا",
+      "بيليه",
+      "توماس مولر",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/goycochea.jpg",
+    "question": "من هو حارس المرمى الذي تصدى لأكبر عدد من ركلات الترجيح في تاريخ كأس العالم؟",
+    "correct": "سيرخيو غويكوتشيا",
+    "options": [
+      "سيرخيو غويكوتشيا",
+      "جيانلويجي بوفون",
+      "مانويل نوير",
+      "إيكر كاسياس"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/r9_goal.gif",
+    "question": "     من هو اللاعب الذي سجل في 4 نسخ مختلفة من كأس العالم لصالح البرازيل؟",
+    "correct": "رونالدو الظاهرة",
+    "options": [
+      "بيليه",
+      "رونالدو الظاهرة",
+      "رونالدينيو",
+      "نيمار"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هي الدولة التي استقبلت شباكها أكبر عدد من الأهداف في تاريخ ؟",
+    "correct": "كوريا الجنوبية",
+    "options": [
+      "أستراليا",
+      "المكسيك",
+      "السعودية",
+      "كوريا الجنوبية"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/most_wins_coach.jpg",
+    "question": "من الفائز بكأس العالم كلاعب وكمدرب معاً؟",
+    "correct": "ماريو زاغالو",
+    "options": [
+      "فرانز بيكنباور",
+      "ماريو زاغالو",
+      "ميشيل بلاتيني",
+      "كارلو أنشيلوتي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "    ما هي المباراة التي شهدت أعلى حضور جماهيري في تاريخ كأس العالم؟",
+    "correct": "الأوروغواي والبرازيل 1950",
+    "options": [
+      "البرازيل وإيطاليا 1970",
+      "ألمانيا والأرجنتين 2014",
+      "الأوروغواي والبرازيل 1950",
+      "فرنسا والأرجنتين 2022"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من الذي سجل أول ركلة جزاء في تاريخ كأس العالم؟",
+    "correct": "مانويل روساس",
+    "options": [
+      "جوزيبي مياتزا",
+      "بيليه",
+      "مانويل روساس",
+      "غييرمو ستابيلي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/pavard.jpg",
+    "question": "من هو اللاعب الذي أضاع أكبر عدد من ركلات الجزاء في تاريخ كأس العالم؟",
+    "correct": "ليونيل ميسي",
+    "options": [
+      "كريستيانو رونالدو",
+      "روبرتو باجيو",
+      "ليونيل ميسي",
+      "هاري كين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "ما هو المنتخب الأكثر حصولاً على البطاقات الحمراء في تاريخ كأس العالم؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "الأرجنتين",
+      "البرازيل",
+      "ألمانيا",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/batistuta.jpg",
+    "question": "من هو اللاعب الوحيد الذي سجل هاتريك في نسختين مختلفتين من كأس العالم؟",
+    "correct": "غابرييل باتيستوتا",
+    "options": [
+      "جاست فونتين",
+      "ساندور كوتشيس",
+      "غابرييل باتيستوتا",
+      "جيرد مولر"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "      أي دولة مستضيفة لكأس العالم لم تفز بأي مباراة؟",
+    "correct": "قطر",
+    "options": [
+      "الولايات المتحدة",
+      "جنوب إفريقيا",
+      "اليابان",
+      "قطر"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/golden_goal.jpg",
+    "question": "من هو اللاعب الذي سجل أول هدف ذهبي في تاريخ كأس العالم؟",
+    "correct": "لوران بلان",
+    "options": [
+      "لوران بلان",
+      "زين الدين زيدان",
+      "تييري هنري",
+      "ديفيد تريزيغيه"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/maradona.jpg",
+    "question": "من هو اللاعب الذي تم استبداله أكبر عدد من المرات في تاريخ كأس العالم؟",
+    "correct": "ميسي",
+    "options": [
+      "رونالدو CR7",
+      "ميسي",
+      "كلوزه",
+      "مارادونا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هو المنتخب الذي فاز بكأس العالم دون استقبال أي هدف في الأدوار الإقصائية؟",
+    "correct": "إسبانيا 2010",
+    "options": [
+      "إسبانيا 2010",
+      "فرنسا 1998",
+      "إيطاليا 2006",
+      "ألمانيا 2014"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/batistuta.jpg",
+    "question": "من سجل أسرع هاتريك في تاريخ كأس العالم؟",
+    "correct": "لاسلو كيس",
+    "options": [
+      "غابرييل باتيستوتا",
+      "جاست فونتين",
+      "جيوف هيرست",
+      "لاسلو كيس"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/en_nesyri_22.jpg",
+    "question": "ما هو المنتخب الإفريقي الأكثر تأهلاً إلى نهائيات كأس العالم؟",
+    "correct": "نيجيريا",
+    "options": [
+      "المغرب",
+      "الكاميرون",
+      "نيجيريا",
+      "السنغال"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/pele_58.jpg",
+    "question": "من هو أصغر هداف في تاريخ الأدوار الإقصائية لكأس العالم؟",
+    "correct": "بيليه",
+    "options": [
+      "مايكل أوين",
+      "بيليه",
+      "ليونيل ميسي",
+      "كيليان مبابي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Abdelmoumene_Djabou.jpg",
+    "question": "     من الأكثر تمريراً حاسماً في نسخة واحدة من المونديال؟",
+    "correct": "رافاييل ماركيز",
+    "options": [
+      "رافاييل ماركيز",
+      "جيانلويجي بوفون",
+      "لوثار ماتيوس",
+      "خافيير ماسكيرانو"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1962_host.jpg",
+    "question": "ما هو المنتخب الذي يحمل الرقم القياسي لأطول سلسلة مشاركات متتالية في تاريخ كأس العالم؟",
+    "correct": "البرازيل",
+    "options": [
+      "ألمانيا",
+      "البرازيل",
+      "إيطاليا",
+      "الأرجنتين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1994_host.jpg",
+    "question": "من سجل الهدف الوحيد في نهائي كأس العالم 1994؟",
+    "correct": "لا أحد",
+    "options": [
+      "دونغا",
+      "روماريو",
+      "روبرتو باجيو",
+      "لا أحد"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "من هو اللاعب الذي سجل هاتريك في نهائي كأس العالم؟",
+    "correct": "جيوف هيرست",
+    "options": [
+      "رونالدو الظاهرة",
+      "بيليه",
+      "جيوف هيرست",
+      "كلوزه"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Azteca_Stadium.jpg",
+    "question": "ما هو الملعب الذي استضاف أكبر عدد من مباريات كأس العالم في نسخة واحدة؟",
+    "correct": "ملعب أزتيكا",
+    "options": [
+      "ملعب أزتيكا",
+      "ماراكانا",
+      "ويمبلي",
+      "ستاد فرنسا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/referee.jpg",
+    "question": "من هو الحكم الوحيد الذي أدار المباراة الافتتاحية والمباراة النهائية في نفس النسخة من كأس العالم؟",
+    "correct": "نيستور بيتانا",
+    "options": [
+      "هوارد ويب",
+      "بييرلويجي كولينا",
+      "نيستور بيتانا",
+      "بيورن كويبرس"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو اللاعب الذي كان يُلقب بـ 'الملك' (O Rei)؟",
+    "correct": "بيليه",
+    "options": [
+      "بيليه",
+      "مارادونا",
+      "رونالدو الظاهرة",
+      "ميسي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/zidane_98.jpg",
+    "question": "ما هي الدولة التي تمتلك أفضل نسبة فوز في تاريخ كأس العالم؟",
+    "correct": "البرازيل",
+    "options": [
+      "إيطاليا",
+      "ألمانيا",
+      "البرازيل",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1998_host.jpg",
+    "question": "من هو اللاعب الذي سجل الهدف رقم 1000 في تاريخ كأس العالم؟",
+    "correct": "روب رينسينبرينك",
+    "options": [
+      "جيرد مولر",
+      "يوهان كرويف",
+      "بيليه",
+      "روب رينسينبرينك"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "    من هو المنتخب الذي خسر نهائي كأس العالم 1950 على ملعب ماراكانا أمام أكبر حضور جماهيري في التاريخ؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرازيل",
+      "الأوروغواي",
+      "الأرجنتين",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو اللاعب الوحيد الذي سجل في 7 نسخ مختلفة من كأس العالم؟",
+    "correct": "لا أحد",
+    "options": [
+      "لا أحد",
+      "بيليه",
+      "كريستيانو رونالدو",
+      "ميسي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "     ما هي الدولة التي استضافت كأس العالم ولم تتوّج باللقب على أرضها؟",
+    "correct": "كل ما سبق",
+    "options": [
+      "السويد",
+      "تشيلي",
+      "المكسيك",
+      "كل ما سبق"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1974_host.jpg",
+    "question": "من سجل أسرع هدف في تاريخ المباريات النهائية لكأس العالم؟",
+    "correct": "يوهان نيسكينز",
+    "options": [
+      "بيليه",
+      "يوهان نيسكينز",
+      "جيوف هيرست",
+      "كيليان مبابي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "من هو اللاعب الذي سجل أكبر عدد من الأهداف في نسخة واحدة من كأس العالم؟",
+    "correct": "جاست فونتين",
+    "options": [
+      "مبابي",
+      "جيرد مولر",
+      "رونالدو الظاهرة",
+      "جاست فونتين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو اللاعب الذي سجل في نهائيين مختلفين لكأس العالم؟",
+    "correct": "بيليه",
+    "options": [
+      "بيليه",
+      "مارادونا",
+      "فرانز بيكنباور",
+      "يوهان كرويف"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Battle.jpg",
+    "question": "ما هو المنتخب الذي خسر مباراتين نهائيتين متتاليتين في كأس العالم؟",
+    "correct": "هولندا",
+    "options": [
+      "هولندا",
+      "البرازيل",
+      "الأرجنتين",
+      "إيطاليا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/bobby_moore.jpg",
+    "question": "من هو أصغر قائد يرفع كأس العالم في التاريخ؟",
+    "correct": "بوبي مور",
+    "options": [
+      "بيليه",
+      "بوبي مور",
+      "فرانز بيكنباور",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "من هو الحارس صاحب أكبر عدد من التصديات في مباراة واحدة بتاريخ كأس العالم؟",
+    "correct": "تيم هاوارد",
+    "options": [
+      "إيكر كاسياس",
+      "مانويل نوير",
+      "تيم هاوارد",
+      "جيانلويجي بوفون"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "من هو اللاعب الوحيد الذي حصل على بطاقة حمراء في نهائي كأس العالم؟",
+    "correct": "زيدان",
+    "options": [
+      "مارادونا",
+      "زيدان",
+      "كافو",
+      "روي كين"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "أي نسخة من كأس العالم شهدت أقل معدل لتسجيل الأهداف في المباراة الواحدة؟",
+    "correct": "2010",
+    "options": [
+      "2018",
+      "2006",
+      "2014",
+      "2010"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Italy.jpg",
+    "question": "من سجل ركلة الجزاء الترجيحية الحاسمة لإيطاليا في نهائي 2006؟",
+    "correct": "فابيو غروسو",
+    "options": [
+      "ديل بييرو",
+      "فرانشيسكو توتي",
+      "أندريا بيرلو",
+      "فابيو غروسو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "ما هي الدولة الأكثر تأهلاً لكأس العالم دون أن تفوز باللقب قط؟",
+    "correct": "المكسيك",
+    "options": [
+      "المكسيك",
+      "البرتغال",
+      "بلجيكا",
+      "كرواتيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/En_Nesyri.jpg",
+    "question": "من هو اللاعب الإفريقي الوحيد الذي فاز بجائزة الكرة الذهبية لكأس العالم؟",
+    "correct": "لا أحد",
+    "options": [
+      "روجيه ميلا",
+      "جورج وياه",
+      "لا أحد",
+      "صامويل إيتو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/hungary.jpg",
+    "question": "ما هو المنتخب الذي سجل أكبر عدد من الأهداف في بطولة واحدة لكأس العالم؟",
+    "correct": "المجر",
+    "options": [
+      "ألمانيا",
+      "البرازيل",
+      "المجر",
+      "فرنسا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "     من هو اللاعب الوحيد الذي فاز بكأس العالم، دوري أبطال أوروبا، والكرة الذهبية في نفس العام؟",
+    "correct": "بيكنباور",
+    "options": [
+      "بيكنباور",
+      "بيليه",
+      "كرويف",
+      "بلاتيني"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هو المنتخب الأكثر حصولاً على مركز الوصيف في كأس العالم دون الفوز باللقب قط؟",
+    "correct": "هولندا",
+    "options": [
+      "السويد",
+      "جمهورية التشيك",
+      "المجر",
+      "هولندا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1930.jpg",
+    "question": "من هو صاحب أول هاتريك في تاريخ كأس العالم؟",
+    "correct": "غييرمو ستابيلي",
+    "options": [
+      "غييرمو ستابيلي",
+      "بيليه",
+      "جوزيبي مياتزا",
+      "أولدريتش نييدلي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/captain.jpg",
+    "question": "من هو اللاعب الذي خاض أكبر عدد من مباريات كأس العالم كقائد للمنتخب؟",
+    "correct": "ليونيل ميسي",
+    "options": [
+      "ليونيل ميسي",
+      "كافو",
+      "دييغو مارادونا",
+      "فيليب لام"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "أي نسخة من نسخ كأس العالم شهدت أكبر عدد من البطاقات الحمراء؟",
+    "correct": "2006",
+    "options": [
+      "2018",
+      "2010",
+      "2014",
+      "2006"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/gotze.jpg",
+    "question": "من هو اللاعب الوحيد الذي سجل 4 أهداف (سوبر هاتريك) في مباراة واحدة مرتين في كأس العالم؟",
+    "correct": "لا أحد",
+    "options": [
+      "لا أحد",
+      "جاست فونتين",
+      "جيرد مولر",
+      "ساندور كوتشيس"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/captain.jpg",
+    "question": "ما هو المنتخب الذي استقبلت شباكه أكبر عدد من الأهداف في بطولة واحدة لكأس العالم؟",
+    "correct": "كوريا الجنوبية",
+    "options": [
+      "كوريا الجنوبية",
+      "السعودية",
+      "السلفادور",
+      "هايتي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1986_host.jpg",
+    "question": "من هو الحارس الوحيد الذي تصدى لـ 3 ركلات ترجيح في حصة ترجيحية واحدة بكأس العالم؟",
+    "correct": "سوباشيتش",
+    "options": [
+      "غويكوتشيا",
+      "سوباشيتش",
+      "شوماخر",
+      "سيمان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/battle_bordeaux.jpg",
+    "question": "أي مباراة تُعرف في تاريخ كأس العالم باسم 'معركة بوردو'؟",
+    "correct": "ألمانيا ضد فرنسا",
+    "options": [
+      "ألمانيا ضد فرنسا",
+      "البرازيل ضد الأرجنتين",
+      "إيطاليا ضد بولندا",
+      "إنجلترا ضد إسبانيا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/Geoff_Hurst.jpg",
+    "question": "من الذي سجل 'الهدف الشبح' المثير للجدل في نهائي 1966؟",
+    "correct": "جيوف هيرست",
+    "options": [
+      "بوبي تشارلتون",
+      "جيوف هيرست",
+      "مارتن بيترز",
+      "روجر هانت"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "من هو اللاعب الذي سجل أكبر عدد من أهداف كأس العالم من خارج منطقة الجزاء؟",
+    "correct": "ليونيل ميسي",
+    "options": [
+      "ليونيل ميسي",
+      "كريستيانو رونالدو",
+      "روبرتو باجيو",
+      "زيدان"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "أي منتخب يُلقب بـ 'بافانا بافانا'؟",
+    "correct": "جنوب إفريقيا",
+    "options": [
+      "الصين",
+      "قطر",
+      "جنوب إفريقيا",
+      "كندا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "من هو اللاعب الوحيد الذي سجل هاتريك تضمن أهدافاً في الأشواط الإضافية لنهائي كأس العالم؟",
+    "correct": "جيوف هيرست",
+    "options": [
+      "مبابي",
+      "جيوف هيرست",
+      "بيليه",
+      "كريستيانو رونالدو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "أي منتخب إفريقي حقق أول فوز له في تاريخ كأس العالم في نسخة 2022؟",
+    "correct": "المغرب",
+    "options": [
+      "المغرب",
+      "السنغال",
+      "الكاميرون",
+      "تونس"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "من هو أكبر لاعب سناً يسجل هدفاً في الأدوار الإقصائية لكأس العالم؟",
+    "correct": "بيبي",
+    "options": [
+      "لوكا مودريتش",
+      "روجيه ميلا",
+      "بيبي",
+      "ألفريدو تالافيرا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/captain.jpg",
+    "question": "من هو اللاعب الذي غاب عن أكبر عدد من بطولات كأس العالم بسبب الإصابة؟",
+    "correct": "فان باستن",
+    "options": [
+      "فان باستن",
+      "روماريو",
+      "ماركو رويس",
+      "مايكل أوين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "ما هو المنتخب الذي يمتلك أفضل سجل دفاعي (أقل عدد أهداف مستقبلة) في نسخة واحدة من كأس العالم؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إيطاليا",
+      "فرنسا",
+      "إسبانيا",
+      "ألمانيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1934.jpg",
+    "question": "من هو اللاعب الذي سجل أول هدف في الأشواط الإضافية في تاريخ كأس العالم؟",
+    "correct": "شيافيو",
+    "options": [
+      "أورسي",
+      "مياتزا",
+      "شيافيو",
+      "نييدلي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/Italy.jpg",
+    "question": "     من هو اللاعب صاحب أكبر عدد من المشاركات(دون أن يسجل أي هدف)؟",
+    "correct": "مالديني",
+    "options": [
+      "فيليب لام",
+      "ماسكيرانو",
+      "كافو",
+      "مالديني"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Saeed_Al_Owairan.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "العويران",
+    "options": [
+      "العويران",
+      "ماجد عبد الله",
+      "الجابر",
+      "الدوسري"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "ما هي الأغنية الرسمية لكأس العالم 2010؟",
+    "correct": "واكا واكا",
+    "options": [
+      "واكا واكا",
+      "ذا كاب أوف لايف",
+      "وي آر ون",
+      "لايف إت أب"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "ما هي الآلة الموسيقية التي اشتهرت خلال كأس العالم 2010 في جنوب إفريقيا؟",
+    "correct": "فوفوزيلا",
+    "options": [
+      "مزمار القربة",
+      "ديدجيريدو",
+      "فوفوزيلا",
+      "البوق"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/telstar.jpg",
+    "question": "     ما هو اسم أول كرة رسمية لكأس العالم في نسخة عام 1970؟",
+    "correct": "تيلستار",
+    "options": [
+      "أزتيكا",
+      "تانغو",
+      "تيلستار",
+      "جابولاني"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "أي منتخب كان يمثله رونالدينيو في كأس العالم؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرازيل",
+      "البرتغال",
+      "إسبانيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1970.jpg",
+    "question": "من هو المنتخب الذي فاز بكأس العالم 1970 رفقة بيليه؟",
+    "correct": "البرازيل",
+    "options": [
+      "ألمانيا",
+      "إيطاليا",
+      "البرازيل",
+      "إنجلترا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/klose.jpg",
+    "question": "كم عدد أهداف كلوزه الإجمالية في تاريخ كأس العالم؟",
+    "correct": "16",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "من هو المنتخب الذي فازت عليه إنجلترا في نهائي كأس العالم 1966؟",
+    "correct": "ألمانيا",
+    "options": [
+      "إيطاليا",
+      "البرازيل",
+      "الأرجنتين",
+      "ألمانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/ballon_dor.jpg",
+    "question": "من هو الحارس الوحيد الذي توج بجائزة الكرة الذهبية عبر التاريخ؟",
+    "correct": "ليف ياشين",
+    "options": [
+      "ليف ياشين",
+      "جيانلويجي بوفون",
+      "مانويل نوير",
+      "أوليفر كان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "ما هما الدولتان اللتان استضافتا كأس العالم 2002 معاً؟",
+    "correct": "كوريا الجنوبية/اليابان",
+    "options": [
+      "ألمانيا/فرنسا",
+      "الولايات المتحدة/المكسيك",
+      "كوريا الجنوبية/اليابان",
+      "البرازيل/الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "ماذا أُطلق على المباراة الحسم في كأس العالم 1950؟",
+    "correct": "ماراكانازو",
+    "options": [
+      "ماراكانازو",
+      "معركة سانتياغو",
+      "معجزة بيرن",
+      "الهدف الشبح"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "من هو اللاعب البرازيلي الذي كان يُلقب بـ 'بهجة الشعب'؟",
+    "correct": "غارينشيا",
+    "options": [
+      "بيليه",
+      "غارينشيا",
+      "رونالدو الظاهرة",
+      "روماريو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "من هو اللاعب الذي سجل هاتريك شهير ضد المجر في عام 1982؟",
+    "correct": "لاسلو كيس",
+    "options": [
+      "لاسلو كيس",
+      "ميشيل بلاتيني",
+      "باولو روسي",
+      "رومينيغه"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "من هو هداف كأس العالم 1998؟",
+    "correct": "دافور شوكر",
+    "options": [
+      "زيدان",
+      "رونالدو الظاهرة",
+      "دافور شوكر",
+      "تييري هنري"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "من هو المنتخب الذي أنهى كأس العالم 2006 في المركز الثالث؟",
+    "correct": "ألمانيا",
+    "options": [
+      "ألمانيا",
+      "البرتغال",
+      "فرنسا",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "ما هي نتيجة مباراة ألمانيا ضد البرازيل في نصف نهائي 2014؟",
+    "correct": "7-1",
+    "options": [
+      "5-0",
+      "6-1",
+      "7-1",
+      "8-2"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/croatia.jpg",
+    "question": "من سجل لصالح كرواتيا في نهائي كأس العالم 2018؟",
+    "correct": "بيريشيتش/ماندزوكيتش",
+    "options": [
+      "لوكا مودريتش",
+      "بيريشيتش/ماندزوكيتش",
+      "أنتي ريبيتش",
+      "ديان لوفرين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هو الاسم الحالي لكأس بطولة العالم؟",
+    "correct": "كأس العالم للفيفا",
+    "options": [
+      "كأس جول ريميه",
+      "كأس العالم للفيفا",
+      "الكأس الذهبية",
+      "كأس النصر"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1930.jpg",
+    "question": "من المنتخب الذي هزمه الأوروغواي في أول نهائي لكأس العالم عام 1930؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "الولايات المتحدة",
+      "يوغوسلافيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Mpappe.gif",
+    "question": "     في أي هدف قام مبابي بهذه الاحتفالية (في النهائي)؟",
+    "correct": "3",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/croitia.gif",
+    "question": "     أي نهائي كأس عالم هذا؟",
+    "correct": "2018",
+    "options": [
+      "2022",
+      "2018",
+      "2006",
+      "2002"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/nazario.gif",
+    "question": "     أي نسخة كأس عالم هذه؟",
+    "correct": "2006",
+    "options": [
+      "2002",
+      "1998",
+      "2006",
+      "1994"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/south_africa.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "تشابالالا",
+    "options": [
+      "موديسي",
+      "سيبايا",
+      "بينار",
+      "تشابالالا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "ما هو تاريخ المباراة النهائية لكأس العالم 2022؟",
+    "correct": "18/12/22",
+    "options": [
+      "18/12/22",
+      "17/12/22",
+      "20/12/22",
+      "19/12/22"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1934.jpg",
+    "question": "من هو وصيف كأس العالم لعام 1934؟",
+    "correct": "تشيكوسلوفاكيا",
+    "options": [
+      "تشيكوسلوفاكيا",
+      "ألمانيا",
+      "النمسا",
+      "المجر"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "     ما هي أسوأ إصابة في تاريخ كأس العالم؟",
+    "correct": "نيمار",
+    "options": [
+      "إنريكي",
+      "نيمار",
+      "أوزيل",
+      "باتيستون"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1974.jpg",
+    "question": "أي دولة فازت بكأس العالم 1974؟",
+    "correct": "ألمانيا الغربية",
+    "options": [
+      "هولندا",
+      "بولندا",
+      "البرازيل",
+      "ألمانيا الغربية"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1974.jpg",
+    "question": "من كان وصيف كأس العالم 1974؟",
+    "correct": "هولندا",
+    "options": [
+      "بولندا",
+      "هولندا",
+      "البرازيل",
+      "السويد"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "أي دولة استضافت كأس العالم 1978؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "تشيلي",
+      "البرازيل",
+      "الأوروغواي",
+      "الأرجنتين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1982.jpg",
+    "question": "أي دولة استضافت كأس العالم 1982؟",
+    "correct": "إسبانيا",
+    "options": [
+      "إيطاليا",
+      "فرنسا",
+      "إسبانيا",
+      "ألمانيا الغربية"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "أي دولة استضافت كأس العالم 1990؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إسبانيا",
+      "ألمانيا",
+      "فرنسا",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "أي دولة استضافت كأس العالم 1966؟",
+    "correct": "إنجلترا",
+    "options": [
+      "ألمانيا",
+      "فرنسا",
+      "إنجلترا",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2018_host.jpg",
+    "question": "من الفائز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2018؟",
+    "correct": "لوكا مودريتش",
+    "options": [
+      "هاري كين",
+      "كيليان مبابي",
+      "لوكا مودريتش",
+      "أنطوان غريزمان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2006_host.jpg",
+    "question": "من الفائز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2006؟",
+    "correct": "زين الدين زيدان",
+    "options": [
+      "فابيو كانافارو",
+      "ميروسلاف كلوزه",
+      "جيانلويجي بوفون",
+      "زين الدين زيدان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "من الفائز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2002؟",
+    "correct": "أوليفر كان",
+    "options": [
+      "رونالدو الظاهرة",
+      "ريفالدو",
+      "رونالدينيو",
+      "أوليفر كان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "من الفائز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 1998؟",
+    "correct": "رونالدو الظاهرة",
+    "options": [
+      "زيدان",
+      "دافور شوكر",
+      "دنيس بيركامب",
+      "رونالدو الظاهرة"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "من الفائز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 1990؟",
+    "correct": "سالفاتوري سكيلاتشي",
+    "options": [
+      "لوثار ماتيوس",
+      "سالفاتوري سكيلاتشي",
+      "روبرتو باجيو",
+      "غاري لينيكر"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1986.jpg",
+    "question": "من الفائز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 1986؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "غاري لينيكر",
+      "إيميليو بوتراغينيو",
+      "ميشيل بلاتيني",
+      "دييغو مارادونا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "أي منتخب أنهى كأس العالم 2018 في المركز الثالث؟",
+    "correct": "بلجيكا",
+    "options": [
+      "الأوروغواي",
+      "إنجلترا",
+      "بلجيكا",
+      "السويد"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "أي منتخب أنهى كأس العالم 2022 في المركز الثالث؟",
+    "correct": "كرواتيا",
+    "options": [
+      "المغرب",
+      "هولندا",
+      "كرواتيا",
+      "البرتغال"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "أي منتخب أنهى كأس العالم 2002 في المركز الثالث؟",
+    "correct": "تركيا",
+    "options": [
+      "السنغال",
+      "الولايات المتحدة الأمريكية",
+      "كوريا الجنوبية",
+      "تركيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "أي منتخب أنهى كأس العالم 1994 في المركز الثالث؟",
+    "correct": "السويد",
+    "options": [
+      "بلغاريا",
+      "السويد",
+      "رومانيا",
+      "الولايات المتحدة الأمريكية"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/r9_goal.gif",
+    "question": "كم عدد الأهداف الإجمالية التي سجلها رونالدو الظاهرة في جميع مشاركاته بكأس العالم؟",
+    "correct": "15",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "17"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "أي منتخب أطاح بفرنسا (حاملة اللقب) من دور المجموعات في كأس العالم 2002؟",
+    "correct": "السنغال",
+    "options": [
+      "الدانمارك",
+      "السنغال",
+      "الأوروغواي",
+      "كوريا الجنوبية"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1978.jpg",
+    "question": "من كان وصيف كأس العالم 1978؟",
+    "correct": "هولندا",
+    "options": [
+      "البرازيل",
+      "بيرو",
+      "إيطاليا",
+      "هولندا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "أي منتخب صدمه الكاميرون بالفوز عليه في المباراة الافتتاحية لكأس العالم 1990؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "إيطاليا",
+      "البرازيل",
+      "الأرجنتين",
+      "ألمانيا الغربية"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "من الذي سجل هدف الرأسية الطائرة الشهير لصالح كولومبيا ضد الكاميرون عام 1994؟",
+    "correct": "فريدي رينكون",
+    "options": [
+      "كارلوس فالديراما",
+      "فاوستينو أسبريا",
+      "أدولفو فالنسيا",
+      "فريدي رينكون"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "أي لاعب سجل هدف الركلة المقصية الشهير لبلغاريا في كأس العالم 1994؟",
+    "correct": "إيميل كوستادينوف",
+    "options": [
+      "هريستو ستويتشكوف",
+      "كراسيمير بالاكوف",
+      "يوردان ليتشكوف",
+      "إيميل كوستادينوف"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "من هو هداف كأس العالم 2002؟",
+    "correct": "رونالدو الظاهرة",
+    "options": [
+      "أوليفر نوفيل",
+      "ريفالدو",
+      "ميروسلاف كلوزه",
+      "رونالدو الظاهرة"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "من هو هداف كأس العالم 1990؟",
+    "correct": "سالفاتوري سكيلاتشي",
+    "options": [
+      "غاري لينيكر",
+      "لوثار ماتيوس",
+      "سالفاتوري سكيلاتشي",
+      "روجيه ميلا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "أي لاعب سجل الرأسية الأيقونية التي منحت فرنسا الفوز في نهائي كأس العالم 1998؟",
+    "correct": "زين الدين زيدان",
+    "options": [
+      "تييري هنري",
+      "إيمانويل بوتي",
+      "ديدييه ديشان",
+      "زين الدين زيدان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "     ما هو أول منتخب إفريقي يصل إلى الدور ربع النهائي في تاريخ كأس العالم عام 1990؟",
+    "correct": "الكاميرون",
+    "options": [
+      "نيجيريا",
+      "السنغال",
+      "المغرب",
+      "الكاميرون"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1994_host.jpg",
+    "question": "من اللاعب الذي سجل ركلة الجزاء الترجيحية الحاسمة للبرازيل ضد إيطاليا في نهائي 1994؟",
+    "correct": "دونغا",
+    "options": [
+      "روماريو",
+      "رونالدو الظاهرة",
+      "بيبيتو",
+      "دونغا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "من سجل الهدف الذي أقصى فرنسا حاملة اللقب من دور المجموعات عام 2002؟",
+    "correct": "هنري كامارا",
+    "options": [
+      "الحاجي ضيوف",
+      "ساليف دياو",
+      "بابا بوبا ديوب",
+      "هنري كامارا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "أي منتخب كان أول المغادرين من كأس العالم 2022 رغم تسجيله 6 أهداف؟",
+    "correct": "ألمانيا",
+    "options": [
+      "بلجيكا",
+      "الدانمارك",
+      "الأوروغواي",
+      "ألمانيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/belgique.gif",
+    "question": "من هو هذا اللاعب الذي سجل الهدف؟",
+    "correct": "باتشوايي",
+    "options": [
+      "ديندونكير",
+      "باتشوايي",
+      "لوكاكو",
+      "ديمبيلي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/shakiri.gif",
+    "question": "     ضد أي منتخب قام شاكيري بهذه الاحتفالية؟",
+    "correct": "صربيا",
+    "options": [
+      "البرازيل",
+      "كوستاريكا",
+      "السويد",
+      "صربيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/debruyn.gif",
+    "question": "     في أي دقيقة تم تسجيل هذا الهدف؟",
+    "correct": "31",
+    "options": [
+      "87",
+      "73",
+      "43",
+      "31"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1958.jpg",
+    "question": "من هو هداف كأس العالم 1958؟",
+    "correct": "جاست فونتين",
+    "options": [
+      "بيليه",
+      "فافا",
+      "جاست فونتين",
+      "غارينشيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1954.jpg",
+    "question": "من هو هداف كأس العالم 1954؟",
+    "correct": "ساندور كوتشيس",
+    "options": [
+      "مورلوك",
+      "ساندور كوتشيس",
+      "بوشكاش",
+      "راهن"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1962_host.jpg",
+    "question": "من هو هداف كأس العالم 1962؟",
+    "correct": "غارينشيا/فافا/يركوفيتش/ألبرت",
+    "options": [
+      "بيليه",
+      "غارينشيا/فافا/يركوفيتش/ألبرت",
+      "إيزيبيو",
+      "كوتشيس"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "من هو هداف كأس العالم 1966؟",
+    "correct": "إيزيبيو",
+    "options": [
+      "جيوف هيرست",
+      "هيلموت هالر",
+      "بوبي تشارلتون",
+      "إيزيبيو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1970.jpg",
+    "question": "من هو هداف كأس العالم 1970؟",
+    "correct": "جيرد مولر",
+    "options": [
+      "جيرد مولر",
+      "جيرزينيو",
+      "بيليه",
+      "ريفيرا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1974.jpg",
+    "question": "من هو هداف كأس العالم 1974؟",
+    "correct": "غجيغوج لاتو",
+    "options": [
+      "يوهان كرويف",
+      "جيرد مولر",
+      "غجيغوج لاتو",
+      "رينسينبرينك"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1978.jpg",
+    "question": "من هو هداف كأس العالم 1978؟",
+    "correct": "ماريو كيمبس",
+    "options": [
+      "روب رينسينبرينك",
+      "ليوبولدو لوكي",
+      "توفيلو ك thoseياس",
+      "ماريو كيمبس"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1982.jpg",
+    "question": "من هو هداف كأس العالم 1982؟",
+    "correct": "باولو روسي",
+    "options": [
+      "كارل-هاينز رومينيغه",
+      "زبيغنيو بونيك",
+      "باولو روسي",
+      "زيكو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1986.jpg",
+    "question": "من هو هداف كأس العالم 1986؟",
+    "correct": "لينيكر",
+    "options": [
+      "مارادونا",
+      "إيميليو بوتراغينيو",
+      "إيغور بيلانوف",
+      "لينيكر"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "من هو هداف كأس العالم 1994؟",
+    "correct": "سالينكو/ستويتشكوف",
+    "options": [
+      "روماريو",
+      "روبرتو باجيو",
+      "سالينكو/ستويتشكوف",
+      "بيبيتو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "من سجل الهدف الذي صدم البرازيل في الجولة النهائية لعام 1950؟",
+    "correct": "ألسيديس غيغيا",
+    "options": [
+      "خوان تشيافينو",
+      "ألسيديس غيغيا",
+      "عمر ميغويز",
+      "أوبدوليو فاريلا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "من سجل هدف إنجلترا الأول في نهائي كأس العالم 1966؟",
+    "correct": "جيوف هيرست",
+    "options": [
+      "جيوف هيرست",
+      "مارتن بيترز",
+      "بوبي تشارلتون",
+      "روجر هانت"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1974.jpg",
+    "question": "من سجل أول ركلة جزاء على الإطلاق في نهائي كأس العالم؟",
+    "correct": "يوهان نيسكينز",
+    "options": [
+      "جيرد مولر",
+      "باول برايتنر",
+      "يوهان كرويف",
+      "يوهان نيسكينز"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1986.jpg",
+    "question": "من سجل هدف الفوز في نهائي كأس العالم 1986؟",
+    "correct": "خورخي بوروتشاغا",
+    "options": [
+      "دييغو مارادونا",
+      "خورخي فالدانو",
+      "خوسيه لويس براون",
+      "خورخي بوروتشاغا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "من سجل الهدف الثالث لفرنسا في نهائي 1998؟",
+    "correct": "إيمانويل بوتي",
+    "options": [
+      "تييري هنري",
+      "باتريك فييرا",
+      "زين الدين زيدان",
+      "إيمانويل بوتي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "من سجل هدف فرنسا الأول في نهائي 2006؟",
+    "correct": "زيدان",
+    "options": [
+      "ريبيري",
+      "مالودا",
+      "هنري",
+      "زيدان"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "من سجل الهدف الذي أقصى البرازيل من كأس العالم 2010؟",
+    "correct": "روبن",
+    "options": [
+      "روبن",
+      "شنايدر",
+      "فان بيرسي",
+      "كاوت"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "من المنتخب الذي هزمته ألمانيا في نصف نهائي 2014 بنتيجة 7-1؟",
+    "correct": "البرازيل",
+    "options": [
+      "الأرجنتين",
+      "البرازيل",
+      "فرنسا",
+      "البرتغال"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "من الذي سجل هدفاً في مرماه (OG) في نهائي 2018 لصالح فرنسا؟",
+    "correct": "ماندزوكيتش",
+    "options": [
+      "بيريشيتش",
+      "فيدا",
+      "لوفرين",
+      "ماندزوكيتش"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "من هو الحارس الذي تصدى لـ 3 ركلات ترجيح في ربع نهائي 2022؟",
+    "correct": "بونو",
+    "options": [
+      "بونو",
+      "كورتوا",
+      "لوريس",
+      "مارتينيز"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو اللاعب الوحيد الذي فاز بكأس العالم 3 مرات؟",
+    "correct": "بيليه",
+    "options": [
+      "ميسي",
+      "كافو",
+      "رونالدو الظاهرة",
+      "بيليه"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هي أول دولة فازت بأول حصة ركلات ترجيح في تاريخ كأس العالم؟",
+    "correct": "ألمانيا الغربية",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "فرنسا",
+      "ألمانيا الغربية"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "في أي فترة تم استخدام قاعدة الهدف الذهبي في كأس العالم؟",
+    "correct": "1998-2002",
+    "options": [
+      "1998-2002",
+      "1994-1998",
+      "2002-2006",
+      "2006-2010"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "أي دولة فازت بكأس العالم 1950؟",
+    "correct": "الأوروغواي",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "الأوروغواي",
+      "إنجلترا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1954.jpg",
+    "question": "ما الاسم الشهير الذي أُطلق على المفاجأة المدوية في نهائي 1954؟",
+    "correct": "معجزة بيرن",
+    "options": [
+      "ماراكانازو",
+      "معركة سانتياغو",
+      "معجزة بيرن",
+      "الهدف الشبح"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1970.jpg",
+    "question": "أي منتخب هزم إنجلترا في ربع نهائي كأس العالم 1970؟",
+    "correct": "ألمانيا الغربية",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "ألمانيا الغربية",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو اللاعب الذي سجل 9 أهداف في نسخة واحدة من كأس العالم عام 1954؟",
+    "correct": "ساندور كوتشيس",
+    "options": [
+      "مورلوك",
+      "بوشكاش",
+      "ساندور كوتشيس",
+      "هيديكوتي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Roger_Milla.jpg",
+    "question": "من هو الحارس الذي سخر منه روجيه ميلا بشكل شهير بعد التسجيل عليه في مونديال 1990؟",
+    "correct": "رينيه هيغيتا",
+    "options": [
+      "رينيه هيغيتا",
+      "توماس نكونو",
+      "خورخي كامبوس",
+      "بونيتي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "من سجل الهدف الثاني للمغرب ضد كندا في مونديال 2022؟",
+    "correct": "يوسف النصيري",
+    "options": [
+      "حكيم زياش",
+      "أشرف حكيمي",
+      "يوسف النصيري",
+      "سفيان بوفال"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو المنتخب الذي فجّر أكبر مفاجأة بهزيمة إيطاليا في دور المجموعات عام 1966؟",
+    "correct": "كوريا الشمالية",
+    "options": [
+      "كوريا الشمالية",
+      "كوريا الجنوبية",
+      "الصين",
+      "اليابان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/argentina1990.gif",
+    "question": "من هو اللاعب الذي نال لقب 'الفتى الذهبي' (El Pibe de Oro)؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "كارلوس فالديراما",
+      "دييغو مارادونا",
+      "خورخي بوروتشاغا",
+      "ريكي فيلا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/r9_goal.gif",
+    "question": "أي دولة تم استبعادها من كأس العالم 1994 بسبب التلاعب بالنتائج؟",
+    "correct": "لا أحد",
+    "options": [
+      "يوغوسلافيا",
+      "بلغاريا",
+      "لا أحد",
+      "ألبانيا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو المنتخب الذي أنهى كأس العالم 2022 في المركز الرابع؟",
+    "correct": "المغرب",
+    "options": [
+      "المغرب",
+      "البرتغال",
+      "إنجلترا",
+      "هولندا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "من هو الحارس الذي قام بـ 16 تصدياً ضد بلجيكا في دور الـ 16 لمونديال 2014؟",
+    "correct": "تيم هاوارد",
+    "options": [
+      "دي خيا",
+      "نوير",
+      "بوفون",
+      "تيم هاوارد"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "     ما كان اسم الكرة الرسمية لكأس العالم 2022؟",
+    "correct": "الرحلة",
+    "options": [
+      "جابولاني",
+      "برازوكا",
+      "تيلستار 18",
+      "الرحلة"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "     ما كان اسم الكرة الرسمية لكأس العالم 2018؟",
+    "correct": "تيلستار 18",
+    "options": [
+      "برازوكا",
+      "جابولاني",
+      "تيلستار 18",
+      "الرحلة"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "ما كان اسم الكرة الرسمية لكأس العالم 2014? ",
+    "correct": "برازوكا",
+    "options": [
+      "جابولاني",
+      "برازوكا",
+      "تايم غايست",
+      "فيفيرنوفا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هي الدولة الأكثر إقصاءً بركلات الترجيح في تاريخ كأس العالم؟",
+    "correct": "إسبانيا",
+    "options": [
+      "إسبانيا",
+      "فرنسا",
+      "هولندا",
+      "إنجلترا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1974_host.jpg",
+    "question": "ما هي الدولة التي ابتكرت أسلوب 'الكرة الشاملة' الشهير في كأس العالم 1974؟",
+    "correct": "هولندا",
+    "options": [
+      "ألمانيا",
+      "البرازيل",
+      "هولندا",
+      "فرنسا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من الذي سجل الهدف رقم 2000 في تاريخ كأس العالم؟",
+    "correct": "كلوزه",
+    "options": [
+      "رونالدو",
+      "ميسي",
+      "زيدان",
+      "كلوزه"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "من هو اللاعب الذي سجل في 5 نسخ متتالية من كأس العالم؟",
+    "correct": "الدون CR7",
+    "options": [
+      "كلوزه",
+      "ميسي",
+      "مبابي",
+      "الدون CR7"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1930.jpg",
+    "question": "من هو هداف كأس العالم 1930؟",
+    "correct": "غييرمو ستابيلي",
+    "options": [
+      "بيدرو سيا",
+      "بريغوينيو",
+      "غييرمو ستابيلي",
+      "بيرت باتينود"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1934.jpg",
+    "question": "من هو هداف كأس العالم 1934؟",
+    "correct": "أولدريتش نييدلي",
+    "options": [
+      "أنجيلو شيافيو",
+      "إدموند كونين",
+      "أولدريتش نييدلي",
+      "رايموندو أورسي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1938.jpg",
+    "question": "من هو هداف كأس العالم 1938؟",
+    "correct": "ليونيداس",
+    "options": [
+      "سيلفيو بيولا",
+      "جينو كولاسي",
+      "ليونيداس",
+      "جيورجي شاروشي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1950.jpg",
+    "question": "من هو هداف كأس العالم 1950؟",
+    "correct": "أديمير",
+    "options": [
+      "أديمير",
+      "ألسيديس غيغيا",
+      "زيزينيو",
+      "خوان تشيافينو"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1958.jpg",
+    "question": "كم عدد الأهداف التي سجلها جاست فونتين في كأس العالم 1958؟",
+    "correct": "13",
+    "options": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "كم عدد الأهداف التي سجلها إيزيبيو في كأس العالم 1966؟",
+    "correct": "9",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1970.jpg",
+    "question": "من هو هداف كأس العالم 1970 برصيد 10 أهداف؟",
+    "correct": "جيرد مولر",
+    "options": [
+      "جيرزينيو",
+      "بيليه",
+      "جيرد مولر",
+      "روبرتو بونينسينيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "من الفائز بالحذاء الذهبي في كأس العالم 2002؟",
+    "correct": "رونالدو الظاهرة",
+    "options": [
+      "رونالدو الظاهرة",
+      "ميروسلاف كلوزه",
+      "ريفالدو",
+      "راؤول"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "من الفائز بالحذاء الذهبي في كأس العالم 2006؟",
+    "correct": "كلوزه",
+    "options": [
+      "زيدان",
+      "رونالدو",
+      "كلوزه",
+      "توني"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "من الفائز بالحذاء الذهبي في كأس العالم 2010؟",
+    "correct": "توماس مولر",
+    "options": [
+      "ديفيد فيا",
+      "ويسلي شنايدر",
+      "توماس مولر",
+      "دييغو فورلان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "من هو هداف كأس العالم 2014 برصيد 6 أهداف؟",
+    "correct": "خاميس رودريغيز",
+    "options": [
+      "نيمار",
+      "كلوزه",
+      "ميسي",
+      "خاميس رودريغيز"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "من الفائز بالحذاء الذهبي في كأس العالم 2018؟",
+    "correct": "هاري كين",
+    "options": [
+      "لوكاكو",
+      "مبابي",
+      "غريزمان",
+      "هاري كين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "من هو المدرب الوحيد الذي فاز بكأس العالم مرتين؟",
+    "correct": "فيتوريو بوزو",
+    "options": [
+      "ديدييه ديشان",
+      "ماريو زاغالو",
+      "فرانز بيكنباور",
+      "فيتوريو بوزو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "     ما اسم الكلب الذي عثر بشكل شهير على كأس جول ريميه المسروقة عام 1966؟",
+    "correct": "بيكلز",
+    "options": [
+      "ريكس",
+      "بادي",
+      "بيكلز",
+      "ماكس"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1974.jpg",
+    "question": "من سجل أول ركلة جزاء على الإطلاق في تاريخ نهائيات كأس العالم عام 1974؟",
+    "correct": "يوهان نيسكينز",
+    "options": [
+      "يوهان كرويف",
+      "باول برايتنر",
+      "جيرد مولر",
+      "يوهان نيسكينز"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1974.jpg",
+    "question": "ما هي الدولة التي ابتكرت أسلوب 'الكرة الشاملة' الشهير في عام 1974؟",
+    "correct": "هولندا",
+    "options": [
+      "ألمانيا",
+      "البرازيل",
+      "هولندا",
+      "فرنسا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "من اللاعب الذي سجل هدفين في نهائي كأس العالم 2002 ضد ألمانيا؟",
+    "correct": "رونالدو الظاهرة",
+    "options": [
+      "رونالدو الظاهرة",
+      "ريفالدو",
+      "رونالدينيو",
+      "روبرتو كارلوس"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "من اللاعب الذي طُرد في نهائي كأس العالم 2006 ضد إيطاليا؟",
+    "correct": "زين الدين زيدان",
+    "options": [
+      "باتريك فييرا",
+      "تييري هنري",
+      "فرانك ريبيري",
+      "زين الدين زيدان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "     في أي دقيقة سجلت ألمانيا الهدف السابع ضد البرازيل في عام 2014؟",
+    "correct": "79",
+    "options": [
+      "69",
+      "76",
+      "79",
+      "88"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/oscar.jpg",
+    "question": "في أي دقيقة سجل أوسكار هدف البرازيل الوحيد ضد ألمانيا 2014؟",
+    "correct": "90",
+    "options": [
+      "94",
+      "85",
+      "88",
+      "90"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/oscar.jpg",
+    "question": "من سجل هاتريك لألمانيا ضد البرازيل في نصف نهائي 2014؟",
+    "correct": "لا أحد",
+    "options": [
+      "مولر",
+      "توني كروس",
+      "لا أحد",
+      "كلوزه"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "من سجل هدفين في نهائي كأس العالم 2018 لصالح كرواتيا؟",
+    "correct": "لا أحد",
+    "options": [
+      "لا أحد",
+      "راكيتيتش",
+      "فيدا",
+      "ماندزوكيتش"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "كم عدد الأهداف التي سجلها كيليان مبابي في كأس العالم 2022؟",
+    "correct": "8",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/r9_goal.gif",
+    "question": "   أي دولة فجّرت أكبر مفاجأة بهزيمة المجر 3-2 في نهائي 1954 رغم أن المجر فازت عليها 8-3 في المجموعات؟",
+    "correct": "ألمانيا الغربية",
+    "options": [
+      "البرازيل",
+      "النمسا",
+      "الأوروغواي",
+      "ألمانيا الغربية"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "ما هو الرقم القياسي لأكبر عدد من الأهداف المسجلة في مباراة واحدة بكأس العالم؟",
+    "correct": "10-1",
+    "options": [
+      "9-0",
+      "8-0",
+      "11-0",
+      "10-1"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/gotze.gif",
+    "question": "من سجل الهدف رقم 2000 في تاريخ كأس العالم في نسخة 2006؟",
+    "correct": "ماركوس ألباك",
+    "options": [
+      "رونالدو",
+      "زيدان",
+      "ماركوس ألباك",
+      "كلوزه"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "من الفائز بالحذاء الذهبي في كأس العالم 1990؟",
+    "correct": "سالفاتوري سكيلاتشي",
+    "options": [
+      "لوثار ماتيوس",
+      "غاري لينيكر",
+      "دييغو مارادونا",
+      "سالفاتوري سكيلاتشي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "من كان قائد منتخب فرنسا الفائز بكأس العالم 1998؟",
+    "correct": "ديدييه ديشان",
+    "options": [
+      "مارسيل ديسايي",
+      "لوران بلان",
+      "إيمانويل بوتي",
+      "ديدييه ديشان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2018_host.jpg",
+    "question": "أي منتخب سجل أكبر عدد من الأهداف في كأس العالم 2018؟",
+    "correct": "بلجيكا",
+    "options": [
+      "فرنسا",
+      "إنجلترا",
+      "بلجيكا",
+      "ألمانيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "أي من أساطير البرازيل كان يُلقب بـ 'العصفور الصغير' (غارينشيا)؟",
+    "correct": "دوس سانتوس",
+    "options": [
+      "زيزينيو",
+      "ليونيداس",
+      "ديدي",
+      "دوس سانتوس"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1994.jpg",
+    "question": "من هو أول لاعب يُطرد في مباراة بكأس العالم عام 1974؟",
+    "correct": "كارلوس كازالي",
+    "options": [
+      "بيلي بريمنير",
+      "ريفيلينو",
+      "يوهان نيسكينز",
+      "كارلوس كازالي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "    كم عدد المرات التي انتهى فيها نهائي كأس العالم بركلات الترجيح؟",
+    "correct": "3",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "أي دولة تملك أكبر عدد من مرات وصيف البطل في تاريخ كأس العالم؟",
+    "correct": "ألمانيا",
+    "options": [
+      "هولندا",
+      "الأرجنتين",
+      "البرازيل",
+      "ألمانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "ما اسم الأخطبوط الذي اشتهر بتوقع جميع نتائج ألمانيا في كأس العالم 2010؟",
+    "correct": "بول",
+    "options": [
+      "أوتو",
+      "فريتز",
+      "بول",
+      "هانس"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "من سجل الهدف الوحيد في نهائي كأس العالم 1990؟",
+    "correct": "أندرياس بريمه",
+    "options": [
+      "رودي فولر",
+      "لوثار ماتيوس",
+      "يورغن كلينسمان",
+      "أندرياس بريمه"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1978.jpg",
+    "question": "من سجل هدفين في نهائي كأس العالم 1978 لصالح الأرجنتين؟",
+    "correct": "ماريو كيمبس",
+    "options": [
+      "دانييل برتوني",
+      "ليوبولدو لوكي",
+      "ألبرتو تارانتيني",
+      "ماريو كيمبس"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/cr7_hattrick.gif",
+    "question": "     من الذي سجل هاتريك للبرتغال ضد إسبانيا في كأس العالم 2018؟",
+    "correct": "كريستيانو رونالدو",
+    "options": [
+      "كواريزما",
+      "غيديش",
+      "أندري سيلفا",
+      "كريستيانو رونالدو"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/wc_1982.jpg",
+    "question": "من سجل هاتريك في دور المجموعات الثاني لكأس العالم 1982 لصالح إيطاليا؟",
+    "correct": "باولو روسي",
+    "options": [
+      "ماركو تارديللي",
+      "برونو كونتي",
+      "فرانشيسكو غرازياني",
+      "باولو روسي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "من سجل هدف الأرجنتين الأول في نهائي كأس العالم 2022؟",
+    "correct": "ليونيل ميسي",
+    "options": [
+      "دي ماريا",
+      "ماك أليستر",
+      "إنزو فيرنانديز",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_2026.jpg",
+    "question": "     من سيفوز بكأس العالم 2026؟",
+    "correct": "البرتغال",
+    "options": [
+      "المكسيك",
+      "الجزائر",
+      "المغرب",
+      "البرتغال"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Roberto_Baggio.png",
+    "question": "من أضاع ركلة الجزاء وهو واقف؟",
+    "correct": "روبرتو باجيو",
+    "options": [
+      "هاري كين",
+      "أساموا جيان",
+      "زين الدين زيدان",
+      "روبرتو باجيو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Turkey.jpg",
+    "question": "ما هو أبعد دور وصل إليه المنتخب التركي في كأس العالم؟",
+    "correct": "المركز الثالث",
+    "options": [
+      "دور الـ16",
+      "ربع النهائي",
+      "المركز الثالث",
+      "المركز الرابع"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/lampard.gif",
+    "question": "من سجل هدفاً قانونياً لم يُحتسب في مباراة إنجلترا وألمانيا؟",
+    "correct": "فرانك لامبارد",
+    "options": [
+      "ستيفن جيرارد",
+      "فرانك لامبارد",
+      "واين روني",
+      "جون تيري"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "      أسوأ دفاع في التاريخ (16 هدفاً في مباراتين)؟",
+    "correct": "كوريا الجنوبية",
+    "options": [
+      "المملكة العربية السعودية",
+      "كوريا الجنوبية",
+      "إلسلفادور",
+      "الكويت"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/cancel_goal.jpg",
+    "question": "من دخل الملعب عام 1982 لمطالبة الحكم بإلغاء هدف؟",
+    "correct": "فهد الأحمد",
+    "options": [
+      "بن عبد العزيز",
+      "فهد الأحمد",
+      "ميشيل بلاتيني",
+      "مشعل الأحمد"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "من هو أكبر لاعب يسجل هاتريك في كأس العالم؟",
+    "correct": "رونالدو cr7",
+    "options": [
+      "روجر ميلا",
+      "ميروسلاف كلوزه",
+      "بيليه",
+      "رونالدو cr7"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "من سجل 5 أهداف في مباراة واحدة بكأس العالم؟",
+    "correct": "أوليغ سالينكو",
+    "options": [
+      "جوست فونتين",
+      "أوليغ سالينكو",
+      "غيرد مولر",
+      "أوزيبيو"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "من أُقصي من مونديال 2006 دون استقبال أي هدف؟",
+    "correct": "سويسرا",
+    "options": [
+      "إيطاليا",
+      "فرنسا",
+      "سويسرا",
+      "البرتغال"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "أي نسخة من كأس العالم شهدت أكبر عدد من الأهداف؟",
+    "correct": "2022",
+    "options": [
+      "1998",
+      "2014",
+      "2022",
+      "1954"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "من لم يخسر أبداً في نصف النهائي رغم تعدد مشاركاته؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "الأرجنتين",
+      "ألمانيا",
+      "البرازيل",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Uruguay.jpg",
+    "question": "كم هدفاً سجل دييغو فورلان في كأس العالم؟",
+    "correct": "6",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/final2010.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "أندريس إنييستا",
+    "options": [
+      "أندريس إنييستا",
+      "تشافي",
+      "دافيد فياّ",
+      "سيسك فابريغاس"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/maradona_hand.gif",
+   "question": "     من سجل هذا الهدف؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "دييغو مارادونا",
+      "خورخي بوروتشاغا",
+      "خورخي فالدانو",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/maradona.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "خورخي بوروتشاغا",
+      "دييغو مارادونا",
+      "خورخي فالدانو",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/james.jpg",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "فان بيرسي",
+    "options": [
+      "أرين روبن",
+      "ويسلي سنايدر",
+      "فان بيرسي",
+      "ممفيس ديباي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/messi_2022_final.jpg",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "ميسي",
+    "options": [
+      "دي ماريا",
+      "ميسي",
+      "خوليان ألفاريز",
+      "إنزو فيرنانديز"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/james_goal.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "خامس رودريغيز",
+    "options": [
+      "راداميل فالكاو",
+      "خوان كوادرادو",
+      "خامس رودريغيز",
+      "تيوفيلو غوتيريز"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/bergkamp_98.jpg",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "دينيس بيرغكامب",
+    "options": [
+      "باتريك كلويفيرت",
+      "دينيس بيرغكامب",
+      "مارك أوفيرمارس",
+      "إدغار دافيدز"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/best_player_not_final.jpg",
+    "question": "كم نسخة من كأس العالم أقيمت حتى 2022؟",
+    "correct": "22",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/most_goals_tournament.jpg",
+    "question": "من يحمل رقم قياسي أكثر تمريرات حاسمة في نسخة واحدة من كأس العالم؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "دييغو مارادونا",
+      "بيليه",
+      "توماس مولر",
+      "ليونيل ميسي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/most_wins_coach.jpg",
+    "question": "من فاز بكأس العالم لاعباً ومدرباً؟",
+    "correct": "ماريو زاغالو",
+    "options": [
+      "فرانز بيكنباور",
+      "ماريو زاغالو",
+      "ميشيل بلاتيني",
+      "كارلو أنشيلوتي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/en_nesyri_22.jpg",
+    "question": "أي منتخب أفريقي تأهل لأكبر عدد من كؤوس العالم؟",
+    "correct": "نيجيريا",
+    "options": [
+      "المغرب",
+      "الكاميرون",
+      "نيجيريا",
+      "السنغال"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/pele_58.jpg",
+    "question": "من هو أصغر هداف في تاريخ أدوار الإقصاء بكأس العالم؟",
+    "correct": "بيليه",
+    "options": [
+      "مايكل أوين",
+      "بيليه",
+      "ليونيل ميسي",
+      "كيليان مبابي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Battle.jpg",
+    "question": "أي منتخب خسر نهائيين متتاليين لكأس العالم؟",
+    "correct": "هولندا",
+    "options": [
+      "هولندا",
+      "البرازيل",
+      "الأرجنتين",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "من هو اللاعب الوحيد الذي تلقى بطاقة حمراء في نهائي كأس العالم؟",
+    "correct": "زيدان",
+    "options": [
+      "مارادونا",
+      "زيدان",
+      "كافو",
+      "روي كين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "أي كأس عالم شهد أكبر عدد من البطاقات الحمراء؟",
+    "correct": "2006",
+    "options": [
+      "2018",
+      "2010",
+      "2014",
+      "2006"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/wc_1986_host.jpg",
+    "question": "من هو الحارس الوحيد الذي أوقف 3 ركلات ترجيح في مباراة واحدة بكأس العالم؟",
+    "correct": "سوباشيتش",
+    "options": [
+      "غويكوتشيا",
+      "سوباشيتش",
+      "شوماخر",
+      "سيمان"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/roberto-carlos-goal.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "روبيرتو كارلوس",
+    "options": [
+      "روبيرتو كارلوس",
+      "زازا",
+      "زياش",
+      "أبو تريكة"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/morocco_goal.jpg",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "بصير",
+    "options": [
+      "بصير",
+      "الحاج",
+      "طاهر",
+      "نيبات"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/bulgarian.jpg",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "نيغريتي",
+    "options": [
+      "إيليا غرويف",
+      "ميتوف",
+      "بيتكوف",
+      "نيغريتي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/krose.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "كروس",
+    "options": [
+      "بيكهام",
+      "كروس",
+      "ميسي",
+      "مارادونا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/owen.jpg",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "أوين",
+    "options": [
+      "أوين",
+      "كلوزه",
+      "بيكهام",
+      "روني"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Joe_Cole.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "جو كول",
+    "options": [
+      "بيرغكامب",
+      "كلوزه",
+      "بيكهام",
+      "جو كول"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Cambiasso.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "كامبياسو",
+    "options": [
+      "ميسي",
+      "كامبياسو",
+      "ماسكيرانو",
+      "باسارييا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/zidane_98.jpg",
+    "question": "في أي عام فاز زيدان بأول كأس عالم له؟",
+    "correct": "1998",
+    "options": [
+      "1998",
+      "2002",
+      "2006",
+      "1994"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/nazario.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "R9",
+    "options": [
+      "أدريانو",
+      "R9",
+      "روماريو",
+      "نيمار"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/croitia.gif",
+    "question": "أي نهائي هذا؟",
+    "correct": "2018",
+    "options": [
+      "2022",
+      "2018",
+      "2006",
+      "2002"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/nazario.gif",
+    "question": "     في أي كأس عالم هذا الهدف؟",
+    "correct": "2006",
+    "options": [
+      "2002",
+      "1998",
+      "2006",
+      "1994"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/lampard.gif",
+    "question": "     في أي كأس عالم هذا المشهد؟",
+    "correct": "2010",
+    "options": [
+      "2010",
+      "2014",
+      "2018",
+      "2006"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/cahil.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "كاهيل",
+    "options": [
+      "موديسي",
+      "كاهيل",
+      "ليكي",
+      "كينيدي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/muntari.gif",
+    "question": "من سجل هذا الهدف؟",
+    "correct": "مونتاري",
+    "options": [
+      "جيان",
+      "كينغسون",
+      "مونتاري",
+      "إيسيان"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/chadli.gif",
+    "question": "من سجل هذا الهدف؟",
+    "correct": "شادلي",
+    "options": [
+      "جانوزاي",
+      "ميرتنز",
+      "ثورغان هازار",
+      "شادلي"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/luiz.gif",
+    "question": "     من سجل هذا الهدف؟",
+    "correct": "دافيد لويز",
+    "options": [
+      "لويز غوستافو",
+      "ماكسويل",
+      "جو",
+      "دافيد لويز"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/debruyn.gif",
+    "question": "في أي دقيقة تم تسجيل هذا الهدف؟",
+    "correct": "31",
+    "options": [
+      "87",
+      "73",
+      "43",
+      "31"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/luiz.gif",
+    "question": "     في أي دقيقة تم تسجيل هذا الهدف؟",
+    "correct": "69",
+    "options": [
+      "33",
+      "69",
+      "75",
+      "60"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/chadli.gif",
+    "question": "     في أي دقيقة تم تسجيل هذا الهدف؟",
+    "correct": "94",
+    "options": [
+      "94",
+      "92",
+      "90",
+      "91"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/en_nesyri_22.jpg",
+    "question": "       في أي دقيقة تم تسجيل هذا الهدف؟",
+    "correct": "42",
+    "options": [
+      "38",
+      "40",
+      "42",
+      "45"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/argentina1990.gif",
+    "question": "أي لاعب لُقِّب بـ 'El Pibe de Oro'؟",
+    "correct": "دييغو مارادونا",
+    "options": [
+      "كارلوس فالديراما",
+      "دييغو مارادونا",
+      "خورخي بوروتشاغا",
+      "ريكي فياّ"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/wc_1938.jpg",
+    "question": "من كان هداف كأس العالم 1938؟",
+    "correct": "ليونيداس",
+    "options": [
+      "سيلفيو بيولا",
+      "جينو كولاوسي",
+      "ليونيداس",
+      "جورجي شاروشي"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/r9_goal.gif",
+    "question": "أي دولة فازت على المجر 3-2 في نهائي 1954 رغم خسارتها 3-8 في المجموعات؟",
+    "correct": "ألمانيا الغربية",
+    "options": [
+      "البرازيل",
+      "النمسا",
+      "الأوروغواي",
+      "ألمانيا الغربية"
+    ],
+    "difficulty": 3
+  },
+
+
+
+
+
+
+
+
+  {
+    "image": "img/mondial_images/Weston_McKennie.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "ويستون ماكيني",
+    "options": ["ويستون ماكيني", "كريستيان رولدان", "تيموثي وياه", "برندن آرونسون"],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Kim_Min_jae.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "كيم مين جاي",
+    "options": ["أوه هيون غيو", "تشو غو سونغ", "كيم مين جاي", "إيوم جي سونغ"],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/Kaoru_Mitoma.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "كاورو ميتوما",
+    "options": ["دايزين مايدا", "كوكي أوغاوا", "آو تاناكا", "كاورو ميتوما"],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/Ferenc_Puskas.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "فيرينتس بوشكاش",
+    "options": ["شاندور كوتشيس", "زولتان تشيبور", "غيولا لورانت", "فيرينتس بوشكاش"],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Lothar_Matthaus.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "لوثار ماتيوس",
+    "options": ["لوثار ماتيوس", "توماس هاسلر", "بيير ليتبارسكي", "أندرياس مولر"],
+    "difficulty": 3
+  },
+  {
+    "image": "img/mondial_images/Antoine_Semenyo.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "أنطوان سيمينيو",
+    "options": ["إينياكي ويليامز", "كالب ييرنكي", "أنطوان سيمينيو", "محمد قدوس"],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Moisés_Caicedo.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "مويسيس كايسيدو",
+    "options": ["كيفين رودريغيز", "أنطوني فالنسيا", "جيريمي أريفالو", "مويسيس كايسيدو"],
+    "difficulty": 4
+  },
+  {
+    "image": "img/mondial_images/Lamine_Yamal.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "لامين يامال",
+    "options": ["لامين جمال", "لامين يامال", "بيدري", "امين يامال"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Achraf_Hakimi.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "أشرف حكيمي",
+    "options": ["حكيم زياش", "أشرف حميمي", "أشرف حكيمي", "النصيري"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Cristiano_Ronaldo.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "كريستيانو رونالدو",
+    "options": ["R9", "كريستيان رونالدو", "كريستيانو رونالدو", "ميسي"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Scott_McTominay.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "سكوت مكتوميناي",
+    "options": ["سكوت مكتوميناي", "روس ستيوارت", "تشي آدامز", "بيلي غيلمور"],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Mohamed_Salah.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "محمد صلاح",
+    "options": ["زيزو", "محمود صلاح", "محمد صلاح", "حسام حسن"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Ibrahima_Konat.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "إبراهيما كوناتي",
+    "options": ["مالو غوستو", "ماركوس تورام", "ساليبا", "إبراهيما كوناتي"],
+    "difficulty": 2
+  },
+  {
+    "image": "img/mondial_images/Pervis_Estupiñán.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "بيرفيس إستوبينان",
+    "options": ["بيرفيس إستوبينان", "هيرنان غالينديز", "نيلسون أنغولو", "كيفين رودريغيز"],
+    "difficulty": 4
+  },
+   {
+  "image": "img/mondial_images/Pape_Gueye.jpg",
+  "question": "     من هو هذا اللاعب؟",
+  "correct": "بابي غاي",
+  "options": ["بابي غاي", "بابا غاي", "ساديو ماني", "بيمبو غاي"],
+  "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Djabou.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "جبو",
+    "options": ["جبو", "سليماني", "محمد", "براهيمي"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/Drogba.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "دروجبا",
+    "options": ["باب غاي", "جيرفينيو", "ساديو ماني", "دروجبا"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/mondial_images/El_Hadji_Diouf.jpg",
+    "question": "     من هو هذا اللاعب؟",
+    "correct": "الحاج ضيوف",
+    "options": ["الحاج ضيوف", "كامارا", "ندياي", "تيو"],
+    "difficulty": 1
+  }
+]

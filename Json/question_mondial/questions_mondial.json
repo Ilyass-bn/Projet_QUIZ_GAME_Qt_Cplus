@@ -1,0 +1,1479 @@
+[
+{"image":"img/mondial_images/wc_2018.jpg","question":"Which country won the 2018 FIFA World Cup?","correct":"France","options":["Croatia","Brazil","France","Argentina"]},
+{"image":"img/mondial_images/wc_2022.jpg","question":"Which country won the 2022 FIFA World Cup?","correct":"Argentina","options":["France","Brazil","Croatia","Argentina"]},
+{"image":"img/mondial_images/wc.jpg","question":"Which country has won the most World Cups?","correct":"Brazil","options":["Brazil","Italy","Germany","Argentina"]},
+{"image":"img/mondial_images/wc_2014_host.jpg","question":"Where was the 2014 World Cup held?","correct":"Brazil","options":["South Africa","Russia","Brazil","Germany"]},
+{"image":"img/mondial_images/wc.jpg","question":"Where was the 2010 World Cup held?","correct":"South Africa","options":["France","South Africa","Brazil","Germany"]},
+{"image":"img/mondial_images/wc_2006.jpg","question":"Who won the 2006 World Cup?","correct":"Italy","options":["Italy","Brazil","France","Germany"]},
+{"image":"img/mondial_images/wc_1930.jpg","question":"Who won the first World Cup in 1930?","correct":"Uruguay","options":["Brazil","Germany","Uruguay","Argentina"]},
+{"image":"img/mondial_images/argentina1990.gif","question":"Which country hosted the 2022 World Cup?","correct":"Qatar","options":["UAE","USA","Saudi Arabia","Qatar"]},
+{"image":"img/mondial_images/wc_fifa.jpg","question":"How often is the FIFA World Cup held?","correct":"Every 4 years","options":["Every year","Every 2 years","Every 3 years","Every 4 years"]},
+{"image":"img/mondial_images/wc_2022.jpg","question":"How many teams participate in the World Cup 2022?","correct":"32","options":["32","36","40","48"]},
+
+{"image":"img/mondial_images/wc_2022.jpg","question":"Who scored a hat-trick in the 2022 final?","correct":"Kylian Mbappe","options":["Lionel Messi","Cristiano Ronaldo","Kylian Mbappe","Di maria"]},
+{"image":"img/mondial_images/wc_1998.jpg","question":"Which country won the 1998 World Cup?","correct":"France","options":["Brazil","Italy","France","Germany"]},
+{"image":"img/mondial_images/wc_2002.jpg","question":"Which country won the 2002 World Cup?","correct":"Brazil","options":["Germany","Brazil","Argentina","Spain"]},
+{"image":"img/mondial_images/wc.jpg","question":"Who is known as the 'King of Football'?","correct":"Pelé","options":["Maradona","Ronaldo R9","Messi","Pele"]},
+{"image":"img/mondial_images/wc_2010.jpg","question":"Which country won the 2010 World Cup?","correct":"Spain","options":["Netherlands","Spain","Germany","Italy"]},
+{"image":"img/mondial_images/wc_2014.jpg","question":"Which country won the 2014 World Cup?","correct":"Germany","options":["Germany","Argentina","Brazil","France"]},
+{"image":"img/mondial_images/wc_qatar.jpg","question":"Which African country reached the semi-final in 2022?","correct":"Morocco","options":["Senegal","Egypt","Morocco","Nigeria"]},
+{"image":"img/mondial_images/wc_1986.jpg","question":"Which country won the 1986 World Cup?","correct":"Argentina","options":["Brazil","Germany","Italy","Argentina"]},
+{"image":"img/mondial_images/wc.jpg","question":"Who scored the 'Hand of Great' goal?","correct":"Maradona","options":["Pele","Maradona","Messi","Ronaldo R9"]},
+{"image":"img/mondial_images/wc_1994.jpg","question":"Which country won the 1994 World Cup?","correct":"Brazil","options":["Italy","Brazil","Germany","Argentina"]},
+
+{"image":"img/mondial_images/wc_1978.jpg","question":"Which country won the 1978 World Cup?","correct":"Argentina","options":["Argentina","Germany","Brazil","France"]},
+{"image":"img/mondial_images/wc_1970.jpg","question":"Which country won the 1970 World Cup?","correct":"Brazil","options":["Italy","Brazil","Germany","Uruguay"]},
+{"image":"img/mondial_images/wc_golden_glove.jpg","question":"Which goalkeeper won the Golden Glove in 2022?","correct":"Martinez","options":["Lloris","Neuer","Bono","Martinez"]},
+{"image":"img/mondial_images/wc_1966.jpg","question":"Which country won the 1966 World Cup?","correct":"England","options":["Germany","England","Brazil","Italy"]},
+{"image":"img/mondial_images/wc_1958.jpg","question":"Which country won the 1958 World Cup?","correct":"Brazil","options":["Sweden","Germany","Brazil","France"]},
+{"image":"img/mondial_images/wc_1954.jpg","question":"Which country won the 1954 World Cup?","correct":"Germany","options":["Hungary","Brazil","Germany","Italy"]},
+{"image":"img/mondial_images/wc_1934.jpg","question":"Which country won the 1934 World Cup?","correct":"Italy","options":["Italy","Germany","Brazil","Uruguay"]},
+{"image":"img/mondial_images/wc_1938.jpg","question":"Which country won the 1938 World Cup?","correct":"Italy","options":["France","Germany","Brazil","Italy"]},
+{"image":"img/mondial_images/wc_golden_ball.jpg","question":"Who won the Golden Ball in 2022?","correct":"Messi","options":["Mbappe","Modric","Messi","Hakimi"]},
+{"image":"img/mondial_images/wc_2026.jpg","question":"Which country will host the 2026 World Cup?","correct":"USA/Canada/Mexico","options":["USA","Canada","Mexico","USA/Canada/Mexico"]},
+
+{"image":"img/mondial_images/wc_2022_final.jpg","question":"Which stadium hosted the 2022 final?","correct":"Lusail Stadium","options":["Al Bayt","Lusail Stadium","974 Stadium","Education City"]},
+{"image":"img/mondial_images/wc_1990.jpg","question":"Which country won the 1990 World Cup?","correct":"Germany","options":["Brazil","Argentina","Germany","Italy"]},
+{"image":"img/mondial_images/wc.jpg","question":"Which country won the 1982 World Cup?","correct":"Italy","options":["Brazil","Italy","Germany","France"]},
+{"image":"img/mondial_images/wc_2014.jpg","question":"Who scored the winning goal in 2014 final?","correct":"Gotze","options":["Muller","Gotze","Ozil","Klose"]},
+{"image":"img/mondial_images/wc.jpg","question":"Who is the all-time top scorer in World Cup history?","correct":"Klose","options":["Ronaldo","Messi","Klose","Pele"]},
+{"image":"img/mondial_images/wc_1962_host.jpg","question":"Which country won the 1962 World Cup?","correct":"Brazil","options":["Brazil","Germany","Chile","Italy"]},
+{"image":"img/mondial_images/wc_2018_host.jpg","question":"Which country hosted the 2018 World Cup?","correct":"Russia","options":["Russia","Germany","France","Brazil"]},
+{"image":"img/mondial_images/wc_2006_host.jpg","question":"Which country hosted the 2006 World Cup?","correct":"Germany","options":["Italy","Germany","France","Spain"]},
+{"image":"img/mondial_images/wc_1998_host.jpg","question":"Which country hosted the 1998 World Cup?","correct":"France","options":["France","Germany","Italy","Spain"]},
+{"image":"img/mondial_images/wc_1994_host.jpg","question":"Which country hosted the 1994 World Cup?","correct":"USA","options":["Canada","Brazil","Mexico","USA"]},
+
+{"image":"img/mondial_images/wc_1986_host.jpg","question":"Which country hosted the 1986 World Cup?","correct":"Mexico","options":["Brazil","Mexico","USA","Argentina"]},
+{"image":"img/mondial_images/wc_1974_host.jpg","question":"Which country hosted the 1974 World Cup?","correct":"Germany","options":["Germany","Italy","Brazil","France"]},
+{"image":"img/mondial_images/wc_1962_host.jpg","question":"Which country hosted the 1962 World Cup?","correct":"Chile","options":["Argentina","Brazil","Chile","Spain"]},
+{"image":"img/mondial_images/wc_1950_host.jpg","question":"Which country hosted the 1950 World Cup?","correct":"Brazil","options":["Brazil","Italy","France","Uruguay"]},
+{"image":"img/mondial_images/wc.jpg","question":"Which country hosted the first World Cup?","correct":"Uruguay","options":["Brazil","Argentina","Uruguay","Italy"]},
+{"image":"img/mondial_images/wc_mpape.jpg","question":"How many goals did Mbappé score in the 2022 final?","correct":"3","options":["1","2","3","4"]},
+{"image":"img/mondial_images/wc_morocco.jpg","question":"Which team did Morocco defeat to reach the 2022 semi-final?","correct":"Portugal","options":["Spain","Portugal","Brazil","France"]},
+{"image":"img/mondial_images/wc_golden_ball.jpg","question":"Who won the Golden Boot in 2022?","correct":"Mbappe","options":["Messi","Mbappe","Giroud","Alvarez"]},
+{"image":"img/mondial_images/wc.jpg","question":"Which country has won 4 World Cups?","correct":"Germany","options":["Germany","France","Spain","Brazil"]},
+{"image":"img/mondial_images/wc.jpg","question":"Which country has won 2 World Cups?","correct":"France","options":["France","Italy","Germany","England"]},
+
+
+
+{"image":"img/mondial_images/Roberto_Baggio.png","question":"Who died while standing ?","correct":"Roberto Baggio","options":["Harry kean","Asamoah Gyan","Zinedine Zidane","Roberto Baggio"]},
+{"image":"img/mondial_images/Uruguay.jpg","question":"Who missed the penalty kick against Uruguay in Quarterfinal?","correct":"Asamoah Gyan","options":["Asamoah Gyan","Wayne Rooney","Lionel Messi","Robin van Persie"]},
+{"image":"img/mondial_images/nazario.gif","question":"Which national team has lost the most finals?","correct":"Germany","options":["Argentina","Netherlands","Germany","Brazil"]},
+{"image":"img/mondial_images/Turkey.jpg","question":"What is the greatest stage Turkey has reached?","correct":"3rd Place","options":["Round of 16","Quarterfinals","3rd Place","4rd Place"]},
+{"image":"img/mondial_images/spain.jpg","question":"Who scored Spain's goal in the 2010 final?","correct":"Andres Iniesta","options":["David Villa","Xavi","Fernando Torres","Andres Iniesta"]},
+{"image":"img/mondial_images/red_card.jpg","question":"Who is the player who received a red card against Argentina?","correct":"David Beckham","options":["Wayne Rooney","Zinedine Zidane","David Beckham","Ronaldinho"]},
+{"image":"img/mondial_images/Battle.jpg","question":"Battle of Nuremberg?","correct":"Portugal/Netherlands","options":["Italy/France","Portugal/Netherlands","Germany/England","Brazil/Argentina"]},
+{"image":"img/mondial_images/r9_goal.gif","question":"World Cup of the black horses?","correct":"2002","options":["1994","1998","2002","2010"]},
+{"image":"img/mondial_images/lampard.gif","question":"Who scored a legitimate goal that was disallowed in the match between England and Germany?","correct":"Frank Lampard","options":["Steven Gerrard","Frank Lampard","Wayne Rooney","John Terry"]},
+{"image":"img/mondial_images/red_card.jpg","question":"First Moroccan to receive a red card?","correct":"Walid Cheddira","options":["Youssouf Hadji","Walid Cheddira","Youssef Chippo","Noureddine Naybet"]},
+{"image":"img/mondial_images/Saudi.jpg","question":"First Saudi to score a goal in the World Cup?","correct":"Fuad Anwar","options":["Saeed Al-Owairan","Sami Al-Jaber","Fuad Anwar","Majed Abdullah"]},
+{"image":"img/mondial_images/Egype.jpg","question":"First Egyptian to score a goal in the World Cup?","correct":"Abdulrahman Fawzi","options":["Mohamed Salah","Magdi Abdelghani","Hossam Hassan","Abdulrahman Fawzi"]},
+{"image":"img/mondial_images/wc.jpg","question":"Country that has never participated in the World Cup?","correct":"San Marino","options":["Cuba","China","Bolivia","San Marino"]},
+
+
+
+  {
+    "image": "img/mondial_images/zidane_red_card.jpg",
+    "question": "Who is the player who caused Zidane to get a red card in 2006?",
+    "correct": "Marco Materazzi",
+    "options": ["Fabio Cannavaro", "Gennaro Gattuso", "Marco Materazzi", "Angelo Peruzzi"]
+  },
+  {
+    "image": "img/mondial_images/wc_1990.jpg",
+    "question": "Who was the runner-up of the 1990 World Cup?",
+    "correct": "Argentina",
+    "options": ["West Germany", "Argentina", "Italy", "England"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who is the player with the most goals scored in World Cup qualifiers?",
+    "correct": "Carlos Ruiz",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Ali Daei", "Carlos Ruiz"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which national team has never lost a match in the World Cup?",
+    "correct": "None",
+    "options": ["Brazil", "Germany", "Italy", "None"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which national team has never lost a final in the World Cup?",
+    "correct": "San Marino",
+    "options": ["San Marino", "Germany", "Italy", "Brazil"]
+  },
+  {
+    "image": "img/mondial_images/paolo_rossi.jpg",
+    "question": "Who is the player who came out of prison to win the World Cup?",
+    "correct": "Paolo Rossi",
+    "options": ["Diego Maradona", "Paolo Rossi", "Rene Higuita", "Garrincha"]
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "Who has played the most World Cup matches?",
+    "correct": "Lionel Messi",
+    "options": ["Lothar Matthäus", "Miroslav Klose", "Lionel Messi", "Paolo Maldini"]
+  },
+  {
+    "image": "img/mondial_images/best_player_not_final.jpg",
+    "question": "the player who won the Best Player of the Tournament but didn’t reach the final?",
+    "correct": "Diego Forlan",
+    "options": ["luis suarez", "Oliver Kahn", "Diego Forlan", "Zinedine Zidane"]
+  },
+  {
+    "image": "img/mondial_images/jabulani.jpg",
+    "question": "Who was the lover of the Jabulani ball?",
+    "correct": "Diego Forlan",
+    "options": ["Diego Forlan", "Wesley Sneijder", "Thomas Muller", "David Villa"]
+  },
+  {
+    "image": "img/mondial_images/wc_1954.jpg",
+    "question": "Who was the runner-up of the 1954 World Cup?",
+    "correct": "Hungary",
+    "options": ["West Germany", "Hungary", "Italy", "Uruguay"]
+  },
+  {
+    "image": "img/mondial_images/goal_average.jpg",
+    "question": "Highest goal average per match in a single World Cup?",
+    "correct": "Sandor Kocsis",
+    "options": ["Just Fontaine", "Sandor Kocsis", "Gerd Müller", "Pele"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which team holds the worst performance record in a single WC?",
+    "correct": "South Korea",
+    "options": ["Zaire", "El Salvador", "Haiti", "South Korea"]
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "Which team suffered the worst defeat in World Cup history?",
+    "correct": "El Salvador",
+    "options": ["Brazil", "El Salvador", "Cuba", "South Korea"]
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "Worst defense (16 goals conceded in 2 matches)?",
+    "correct": "South Korea",
+    "options": ["Saudi Arabia", "South Korea", "El Salvador", "Kuwait"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which national team has the most draws in World Cup history?",
+    "correct": "Italy",
+    "options": ["England", "Italy", "Argentina", "Germany"]
+  },
+  {
+    "image": "img/mondial_images/most_goals_tournament.jpg",
+    "question": "Which national team has the most losses in World Cup history?",
+    "correct": "Mexico",
+    "options": ["Mexico", "Saudi Arabia", "South Korea", "USA"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which national team has the most wins in World Cup history?",
+    "correct": "Brazil",
+    "options": ["Germany", "Italy", "Argentina", "Brazil"]
+  },
+  {
+    "image": "img/mondial_images/best_player_not_final.jpg",
+    "question": "Which team won the World Cup any loss or draw?",
+    "correct": "Brazil",
+    "options": ["France", "Germany", "Brazil", "Italy"]
+  },
+  {
+    "image": "img/mondial_images/golden_goal.jpg",
+    "question": "Who scored the golden goal in the match Turkey vs Senegal in 2002?",
+    "correct": "Ilhan Mansiz",
+    "options": ["Ilhan Mansiz", "Hasan Şaş", "Hakan Şükür", "Ümit Davala"]
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "Which was the first African team to qualify for the World Cup?",
+    "correct": "Egypt",
+    "options": ["Morocco", "Cameroon", "Egypt", "Nigeria"]
+  },
+  {
+    "image": "img/mondial_images/cancel_goal.jpg",
+    "question": "Who entered the pitch in 1982 to ask the referee to cancel a goal?",
+    "correct": "Fahad Al-Ahmed",
+    "options": ["bin Abdulaziz", "Fahad Al-Ahmed", "Michel Platini", "Mishal Al-Ahmad"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who is the player with the most World Cup wins as a player?",
+    "correct": "Pele",
+    "options": ["Cafu", "R9", "Pele", "Diego Maradona"]
+  },
+  {
+    "image": "img/mondial_images/most_wins_coach.jpg",
+    "question": "Who is the coach with the most World Cup wins as a coach?",
+    "correct": "Vittorio Pozzo",
+    "options": ["Vittorio Pozzo", "Didier Deschamps", "Mario Zagallo", "Franz Beckenbauer"]
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "Who is the oldest player to score a hat-trick in the World Cup?",
+    "correct": "Ronaldo cr7",
+    "options": ["Roger Milla", "Miroslav Klose", "Pele", "Ronaldo cr7"]
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "Who scored 5 goals in a single World Cup match?",
+    "correct": "Oleg Salenko",
+    "options": ["Just Fontaine", "Oleg Salenko", "Gerd Müller", "Eusébio"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who is the oldest player to score a goal in the World Cup?",
+    "correct": "Roger Milla",
+    "options": ["Pepe", "Roger Milla", "Cristiano Ronaldo", "Gunnar Gren"]
+  },
+  {
+    "image": "img/mondial_images/oldest_player.jpg",
+    "question": "Who is the oldest player to play in a World Cup?",
+    "correct": "Essam El-Hadary",
+    "options": ["Essam El-Hadary", "Roger Milla", "Faryd Mondragón", "Dino Zoff"]
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "Eliminated in 2006 without conceding a goal?",
+    "correct": "Switzerland",
+    "options": ["Italy", "France", "Switzerland", "Portugal"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who was the first player to score a goal in World Cup history?",
+    "correct": "Lucien Laurent",
+    "options": ["Guillermo Stábile", "Lucien Laurent", "Alcides Ghiggia", "Pelé"]
+  },
+  {
+    "image": "img/mondial_images/oldest_hattrick.jpg",
+    "question": "Which World Cup tournament had the most goals scored?",
+    "correct": "2022",
+    "options": ["1998", "2014", "2022", "1954"]
+  },
+  {
+    "image": "img/mondial_images/wc_1986_host.jpg",
+    "question": "Which team reached the final the most times without ever winning the World Cup?",
+    "correct": "Netherlands",
+    "options": ["Hungary", "Czechoslovakia", "Netherlands", "croatia"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which team has the longest drought since winning their last World Cup?",
+    "correct": "Uruguay",
+    "options": ["England", "Uruguay", "Italy", "Brazil"]
+  },
+  {
+    "image": "img/mondial_images/never_lost_semi.jpg",
+    "question": "Never lost a World Cup semifinal (multiple appearances)?",
+    "correct": "Argentina",
+    "options": ["Argentina", "Germany", "Brazil", "Italy"]
+  },
+  {
+    "image": "img/mondial_images/wc_golden_ball.jpg",
+    "question": "Only player to win the Golden Ball twice?",
+    "correct": "Lionel Messi",
+    "options": ["Lionel Messi", "R9", "Zinedine Zidane", "Diego Maradona"]
+  },
+  {
+    "image": "img/mondial_images/smallest_country.jpg",
+    "question": "the smallest country (by population) to ever participate in the WC?",
+    "correct": "Iceland",
+    "options": ["Trinidad/Tobago", "Kuwait", "Jamaica", "Iceland"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Participated in a World Cup without scoring a goal?",
+    "correct": "China",
+    "options": ["South Korea", "Togo", "Jamaica", "China"]
+  },
+  {
+    "image": "img/mondial_images/En_Nesyri.jpg",
+    "question": "Who assisted En-Nesyri against Portugal in the 2022 World Cup?",
+    "correct": "Attiat-Allah",
+    "options": ["Hakim Ziyech", "Achraf Hakimi", "Attiat-Allah", "Sofiane Boufal"]
+  },
+  {
+    "image": "img/mondial_images/Abdelmoumene_Djabou.jpg",
+    "question": "Who scored Algeria's goal against Germany in the 2014 World Cup?",
+    "correct": "Djabou",
+    "options": ["Riyad Mahrez", "Islam Slimani", "Sofiane Feghouli", "Djabou"]
+  },
+  {
+    "image": "img/mondial_images/Iniesta.jpg",
+    "question": "When the region fell, the capital saved it",
+    "correct": "Casillas",
+    "options": ["Sergio Ramos", "Casillas", "Iniesta", "Puyol"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who scored the most free kicks in World Cup history?",
+    "correct": "Pele",
+    "options": ["Pele", "Roberto Carlos", "Beckham", "Diego Maradona"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who scored the most hat-tricks in World Cup history?",
+    "correct": "Gabriel Batistuta",
+    "options": ["Miroslav Klose", "Gabriel Batistuta", "Ronaldo Nazário", "Lionel Messi"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who made the most assists in World Cup history?",
+    "correct": "Pele",
+    "options": ["Lionel Messi", "Diego Maradona", "Thomas Müller", "Pele"]
+  },
+  {
+    "image": "img/mondial_images/morocco.jpg",
+    "question": "Morocco's all-time top scorer in World Cups?",
+    "correct": "Youssef En-Nesyri",
+    "options": ["Mustapha elhaji", "Salaheddine Bassir", "Youssef En-Nesyri", "Abderrazak Khairi"]
+  },
+  {
+    "image": "img/mondial_images/Portugal.jpg",
+    "question": "Portugal's all-time top scorer in World Cups?",
+    "correct": "Eusébio",
+    "options": ["Ronaldo7", "Luis Figo", "Pauleta", "Eusébio"]
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "Black horse of the 2014 World Cup?",
+    "correct": "Costa Rica",
+    "options": ["Colombia", "Chile", "Costa Rica", "Algeria"]
+  },
+  {
+    "image": "img/mondial_images/Uruguay.jpg",
+    "question": "How many stars on Uruguay's shirt?",
+    "correct": "4",
+    "options": ["4", "3", "2", "5"]
+  },
+  {
+    "image": "img/mondial_images/Ibrahimović.jpg",
+    "question": "Last World Cup Ibrahimović played in?",
+    "correct": "2006",
+    "options": ["2006", "2002", "2010", "2018"]
+  },
+  {
+    "image": "img/mondial_images/smallest_country.jpg",
+    "question": "Worst World Cup for Messi in terms of goals scored?",
+    "correct": "2010",
+    "options": ["2006", "2010", "2014", "2018"]
+  },
+  {
+    "image": "img/mondial_images/Portugal.jpg",
+    "question": "Portugal's best achievement in the World Cup?",
+    "correct": "Third place",
+    "options": ["Runner-up", "Third place", "Fourth place", "Quarter-finals"]
+  },
+  {
+    "image": "img/mondial_images/martinez.jpg",
+    "question": "Who missed the crucial chance against Argentina in 2022?",
+    "correct": "Kolo Muani",
+    "options": ["Kolo Muani", "Coman", "Dembele", "Mbappe"]
+  },
+  {
+    "image": "img/mondial_images/Jens_Lehmann.jpg",
+    "question": "Who first used a penalty shootout list paper?",
+    "correct": "Jens Lehmann",
+    "options": ["Oliver Kahn", "Jens Lehmann", "Gianluigi Buffon", "Sergio Romero"]
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "Who scored Italy's goal in the 2006 final?",
+    "correct": "Marco Materazzi",
+    "options": ["Fabio Grosso", "Andrea Pirlo", "Luca Toni", "Marco Materazzi"]
+  },
+  {
+    "image": "img/mondial_images/Iniesta.jpg",
+    "question": "In which minute did Iniesta score in the 2010 final?",
+    "correct": "116",
+    "options": ["109", "118", "116", "119"]
+  },
+
+  
+  
+  
+  {
+    "image": "img/mondial_images/escobar.jpg",
+    "question": "Which player died due to a defensive error?",
+    "correct": "Andres Escobar",
+    "options": ["Andres Escobar", "Luis Moreno", "Humberto Munoz", "Carlos Valderrama"]
+  },
+  {
+    "image": "img/mondial_images/gotze.gif",
+    "question": "Who scored the goal?",
+    "correct": "Gotze",
+    "options": ["Thomas Müller", "André Schurrle", "Ozil", "Gotze"]
+  },
+  {
+    "image": "img/mondial_images/maradona.jpg",
+    "question": "Which World Cup was the photo taken at?",
+    "correct": "Mexico1986",
+    "options": ["Mexico1986", "Spain1982", "Italy1990", "USA1994"]
+  },
+  {
+    "image": "img/mondial_images/buffon.jpg",
+    "question": "When the net didn't ripple because of the greatness of the scene?",
+    "correct": "Zizo vs Buffon",
+    "options": ["Pele vs Banks", "Zizo vs Buffon", "Maradona vs Shilton", "Casillas vs Robben"]
+  },
+  {
+    "image": "img/mondial_images/cruyff.jpg",
+    "question": "Which of these players never won the World Cup?",
+    "correct": "Johan Cruyff",
+    "options": ["Pele", "Beckenbauer", "Maldini", "Johan Cruyff"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which of these players never participated in the World Cup?",
+    "correct": "Di Stefano",
+    "options": ["George Best", "Di Stefano", "Eric Cantona", "All of these"]
+  },
+  {
+    "image": "img/mondial_images/yellow_card.jpg",
+    "question": "Which player has received the most yellow cards in World Cup history?",
+    "correct": "Javier Mascherano",
+    "options": ["Javier Mascherano", "Zinedine Zidane", "Cafu", "Rigobert Song"]
+  },
+  {
+    "image": "img/mondial_images/spain.jpg",
+    "question": "Who is Spain's all-time top scorer?",
+    "correct": "Villa",
+    "options": ["Raul", "Fernando Torres", "Villa", "Morata"]
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "In which minute did R9 score that goal?",
+    "correct": "67",
+    "options": ["55", "79", "67", "82"]
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "Which player has received the most red cards in World Cup history?",
+    "correct": "Rigobert Song/Zidane",
+    "options": ["Rigobert Song/Zidane", "Sergio Ramos", "Marco Materazzi", "Gerardo Bedoya"]
+  },
+  {
+    "image": "img/mondial_images/hungary.jpg",
+    "question": "When was the last time Hungary reached the final?",
+    "correct": "1954",
+    "options": ["1938", "1970", "1966", "1954"]
+  },
+  {
+    "image": "img/mondial_images/bulgaria.jpg",
+    "question": "When was the last time Bulgaria reached the final?",
+    "correct": "Never",
+    "options": ["1994", "1986", "Never", "1962"]
+  },
+  {
+    "image": "img/mondial_images/b_charlton.jpg",
+    "question": "Which two brothers played in the same WC for the same national team?",
+    "correct": "Bobby/Jack",
+    "options": ["Bobby/Jack", "Gary/Phil Neville", "Frank/Ronald de Boer", "All of these"]
+  },
+  {
+    "image": "img/mondial_images/boateng.jpg",
+    "question": "Which two brothers played in the same World Cup for different national teams?",
+    "correct": "Boateng",
+    "options": ["Hernandez", "Xhaka", "Alcantara", "Boateng"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who is Brazil's all-time top scorer in the World Cup?",
+    "correct": "R9",
+    "options": ["Pele", "R9", "Romario", "Neymar"]
+  },
+  {
+    "image": "img/mondial_images/cr7_hattrick.gif",
+    "question": "In which minute did Ronaldo complete his hat-trick against Spain?",
+    "correct": "88",
+    "options": ["82", "85", "88", "90+2"]
+  },
+  {
+    "image": "img/mondial_images/croatia.jpg",
+    "question": "How many times has Croatia reached the World Cup semi-finals?",
+    "correct": "3",
+    "options": ["1", "2", "3", "4"]
+  },
+  {
+    "image": "img/mondial_images/algeria.jpg",
+    "question": "Who is Algeria's all-time top scorer in the World Cup?",
+    "correct": "Islam Slimani/Djabou",
+    "options": ["Djabou/Mahrez", "Lakhdar Belloumi", "Islam Slimani/Djabou", "Salah Assad"]
+  },
+  {
+    "image": "img/mondial_images/james.jpg",
+    "question": "Which World Cup goal won the Puskas Award?",
+    "correct": "Rodríguez(2014)",
+    "options": ["Rodríguez(2014)", "Pavard(2018)", "van Persie(2014)", "Richarlison(2022)"]
+  },
+  {
+    "image": "img/mondial_images/neymar_injury.jpg",
+    "question": "Against which team was Neymar injured in the 2014 World Cup?",
+    "correct": "Colombia",
+    "options": ["Chile", "Mexico", "Germany", "Colombia"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which national team participated in only one World Cup?",
+    "correct": "Kuwait",
+    "options": ["Kuwait", "Egypt", "Qatar", "Iraq"]
+  },
+  {
+    "image": "img/mondial_images/Uruguay.jpg",
+    "question": "How many goals did Diego Forlan score in WC?",
+    "correct": "6",
+    "options": ["4", "5", "6", "7"]
+  },
+  {
+    "image": "img/mondial_images/wc_qatar.jpg",
+    "question": "Which was the only team to beat Argentina in the 2022 World Cup?",
+    "correct": "Saudi Arabia",
+    "options": ["France", "Saudi Arabia", "Mexico", "Croatia"]
+  },
+  {
+    "image": "img/mondial_images/most_goals_tournament.jpg",
+    "question": "Which player has scored the most knockout-stage goals in the World Cup?",
+    "correct": "Mbappe",
+    "options": ["Pele", "Lionel Messi", "Klose", "Mbappe"]
+  },
+  {
+    "image": "img/mondial_images/wc_2018.jpg",
+    "question": "Who was the top scorer of the 2018 WC?",
+    "correct": "Harry Kane",
+    "options": ["Mbappe", "Ronaldo", "Harry Kane", "Antoine Griezmann"]
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "Who was the top scorer of the 2014 WC?",
+    "correct": "James Rodriguez",
+    "options": ["Thomas Muller", "Lionel Messi", "James Rodriguez", "Neymar"]
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "Who was the top scorer of the 2010 World Cup?",
+    "correct": "Thomas Muller",
+    "options": ["Thomas Muller", "Villa", "Forlan", "Sneijder"]
+  },
+  {
+    "image": "img/mondial_images/hungary.jpg",
+    "question": "How many times has Hungary won the World Cup?",
+    "correct": "0",
+    "options": ["0", "1", "2", "3"]
+  },
+  {
+    "image": "img/mondial_images/final2010.gif",
+    "question": "Who scored this goal?",
+    "correct": "Andrés Iniesta",
+    "options": ["Andrés Iniesta", "Xavi", "David Villa", "Cesc Fàbregas"]
+  },
+  {
+    "image": "img/mondial_images/maradona_hand.gif",
+    "question": "Who scored this goal?",
+    "correct": "Diego Maradona",
+    "options": ["Diego Maradona", "Jorge Burruchaga", "Jorge Valdano", "Lionel Messi"]
+  },
+  {
+    "image": "img/mondial_images/maradona.gif",
+    "question": "Who scored this goal?",
+    "correct": "Diego Maradona",
+    "options": ["Jorge Burruchaga", "Diego Maradona", "Jorge Valdano", "Lionel Messi"]
+  },
+  {
+    "image": "img/mondial_images/james.jpg",
+    "question": "Who scored this goal?",
+    "correct": "van Persie",
+    "options": ["Arjen Robben", "Wesley Sneijder", "van Persie", "Memphis Depay"]
+  },
+  {
+    "image": "img/mondial_images/pavard.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Pavard",
+    "options": ["Paul Pogba", "Pavard", "Antoine Griezmann", "Varane"]
+  },
+  {
+    "image": "img/mondial_images/en_nesyri_22.jpg",
+    "question": "Who scored this goal?",
+    "correct": "En-Nesyri",
+    "options": ["Hakim Ziyech", "Sofiane Boufal", "Achraf Hakimi", "En-Nesyri"]
+  },
+  {
+    "image": "img/mondial_images/zidane_98.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Zidane",
+    "options": ["Henry", "Zidane", "Patrick Vieira", "Didier Deschamps"]
+  },
+  {
+    "image": "img/mondial_images/messi_2022_final.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Messi",
+    "options": ["Di Maria", "Messi", "Julian Alvarez", "Enzo Fernandez"]
+  },
+  {
+    "image": "img/mondial_images/james_goal.gif",
+    "question": "Who scored this goal?",
+    "correct": "James Rodriguez",
+    "options": ["Radamel Falcao", "Juan Cuadrado", "James Rodriguez", "Teófilo Gutiérrez"]
+  },
+  {
+    "image": "img/mondial_images/pele_58.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Pelé",
+    "options": ["Garrincha", "Pelé", "Vavá", "Mário Zagallo"]
+  },
+  {
+    "image": "img/mondial_images/bergkamp_98.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Dennis Bergkamp",
+    "options": ["Patrick Kluivert", "Dennis Bergkamp", "Marc Overmars", "Edgar Davids"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "What was the format of the 1954 World Cup?",
+    "correct": "Groups of 4",
+    "options": ["Straight Knockout", "Groups of 4", "Round Robin", "Groups of 3"]
+  },
+  {
+    "image": "img/mondial_images/wc_2026.jpg",
+    "question": "How many teams will participate in the 2026 World Cup?",
+    "correct": "48",
+    "options": ["32", "40", "48", "64"]
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "Which national team has made the most appearances in the World Cup?",
+    "correct": "Brazil",
+    "options": ["Germany", "Italy", "Argentina", "Brazil"]
+  },
+  {
+    "image": "img/mondial_images/wc_2026.jpg",
+    "question": "Who is the youngest player to ever participate in the World Cup?",
+    "correct": "Norman Whiteside",
+    "options": ["Pele", "Norman Whiteside", "Gavi", "Lamine yamal"]
+  },
+  {
+    "image": "img/mondial_images/hakan_sukur.jpg",
+    "question": "What is the fastest goal scored in World Cup history?",
+    "correct": "10.8 seconds",
+    "options": ["10.8 seconds", "15.2 seconds", "21.0 seconds", "30.5 seconds"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which World Cup had the most own goals?",
+    "correct": "2018",
+    "options": ["2018", "2014", "1998", "2022"]
+  },
+  {
+    "image": "img/mondial_images/yellow_card.jpg",
+    "question": "Which World Cup had the highest number of yellow cards?",
+    "correct": "2022",
+    "options": ["2006", "2010", "2014", "2022"]
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "What was the first red card in World Cup history?",
+    "correct": "Carlos Caszely",
+    "options": ["Carlos Caszely", "Pele", "Zidane", "Rattin"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which is the strongest national team form that has never won the WC?",
+    "correct": "Hungary/Netherlands",
+    "options": ["Portugal/Bulgaria", "Turkey", "Hungary/Netherlands", "France"]
+  },
+  {
+    "image": "img/mondial_images/wc_mpape.jpg",
+    "question": "Who is France's all-time top scorer in the World Cup?",
+    "correct": "Just Fontaine",
+    "options": ["Thierry Henry","Zidane", "Just Fontaine", "Mbappe"]
+  },
+  {
+    "image": "img/mondial_images/Gordon_Banks.jpg",
+    "question": "Which save 'saved a country'(most iconic save)?",
+    "correct": "Gordon Banks",
+    "options": ["Gordon Banks", "Casillas", "Martinez", "Lev Yashin"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "How many national teams have won the World Cup?",
+    "correct": "8",
+    "options": ["7", "8", "9", "10"]
+  },
+  {
+    "image": "img/mondial_images/best_player_not_final.jpg",
+    "question": "How many World Cup tournaments have been held (up to 2022)?",
+    "correct": "22",
+    "options": ["20", "21", "22", "23"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "What is the best World Cup achievement by an Asia?",
+    "correct": "4th Place",
+    "options": ["4th Place", "3th Place", "Quarter-finals", "Round of 16"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Only goalkeeper to win the Golden Ball?",
+    "correct": "Oliver Kahn",
+    "options": ["Lev Yashin", "Gianluigi Buffon", "Oliver Kahn", "Manuel Neuer"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which World Cups were cancelled?",
+    "correct": "1942/1946",
+    "options": ["1914/1918", "1942/1946", "1938/1950", "No one"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which team played 8 World Cups but never left the group stage?",
+    "correct": "Scotland",
+    "options": ["Scotland", "South Korea", "Mexico", "Tunisia"]
+  },
+  
+
+
+{
+    "image": "img/mondial_images/most_goals_tournament.jpg",
+    "question": "Which player holds the record for most assists in a single World Cup tournament?",
+    "correct": "Diego Maradona",
+    "options": ["Diego Maradona", "Pelé", "Thomas Müller", "Lionel Messi"]
+  },
+  {
+    "image": "img/mondial_images/goycochea.jpg",
+    "question": "Which goalkeeper has saved the most penalties in World Cup history?",
+    "correct": "Sergio Goycochea",
+    "options": ["Sergio Goycochea", "Gianluigi Buffon", "Manuel Neuer", "Iker Casillas"]
+  },
+  {
+    "image": "img/mondial_images/r9_goal.gif",
+    "question": "Which player scored in 4 different World Cups for Brazil?",
+    "correct": "R9",
+    "options": ["Pelé", "R9", "Ronaldinho", "Neymar"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which nation has conceded the most goals in World Cup history?",
+    "correct": "South Korea",
+    "options": ["Australia", "Mexico", "Saudi Arabia", "South Korea"]
+  },
+  {
+    "image": "img/mondial_images/most_wins_coach.jpg",
+    "question": "Who win the World Cup as both a player and a coach?",
+    "correct": "Mario Zagallo",
+    "options": ["Franz Beckenbauer", "Mario Zagallo", "Michel Platini", "Carlo Ancelotti"]
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "Which match had the highest attendance in World Cup history?",
+    "correct": "Uruguay&Brazil1950",
+    "options": ["Brazil&Italy1970", "Germany&Argentina2014", "Uruguay&Brazil1950", "France&Argentina2022"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who scored the first penalty kick in World Cup history?",
+    "correct": "Manuel Rosas",
+    "options": ["Giuseppe Meazza", "Pelé", "Manuel Rosas", "Guillermo Stábile"]
+  },
+  {
+    "image": "img/mondial_images/pavard.jpg",
+    "question": "Which player has missed the most penalties in World Cup history?",
+    "correct": "Lionel Messi",
+    "options": ["Cristiano Ronaldo", "Roberto Baggio", "Lionel Messi", "Harry Kane"]
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "Which team has the most red cards in World Cup history?",
+    "correct": "Argentina",
+    "options": ["Argentina", "Brazil", "Germany", "Italy"]
+  },
+  {
+    "image": "img/mondial_images/batistuta.jpg",
+    "question": "Only player to score two World Cup hat-tricks?",
+    "correct": "Gabriel Batistuta",
+    "options": ["Just Fontaine", "Sándor Kocsis", "Gabriel Batistuta", "Gerd Müller"]
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "Which country hosted the World Cup but failed to win any match as a host?",
+    "correct": "Qatar",
+    "options": ["USA", "South Africa", "Japan", "Qatar"]
+  },
+  {
+    "image": "img/mondial_images/golden_goal.jpg",
+    "question": "Who scored the first ever World Cup golden goal?",
+    "correct": "Laurent Blanc",
+    "options": ["Laurent Blanc", "Zinedine Zidane", "Thierry Henry", "David Trezeguet"]
+  },
+  {
+    "image": "img/mondial_images/maradona.jpg",
+    "question": "Which player has been substituted the most times in World Cup history?",
+    "correct": "Messi",
+    "options": ["Ronaldo R7", "Messi", "Klose", "maradona"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "team won the WC without conceding a goal in the knockout stage?",
+    "correct": "Spain2010",
+    "options": ["Spain2010", "France1998", "Italy2006", "Germany2014"]
+  },
+  {
+    "image": "img/mondial_images/batistuta.jpg",
+    "question": "Who scored the fastest hat-trick in World Cup history?",
+    "correct": "László Kiss",
+    "options": ["Gabriel Batistuta", "Just Fontaine", "Geoff Hurst", "László Kiss"]
+  },
+  {
+    "image": "img/mondial_images/en_nesyri_22.jpg",
+    "question": "Which African team has qualified for the most World Cups?",
+    "correct": "Nigeria",
+    "options": ["Morocco", "Cameroon", "Nigeria", "Senegal"]
+  },
+  {
+    "image": "img/mondial_images/pele_58.jpg",
+    "question": "Who is the youngest goalscorer in World Cup knockout stage history?",
+    "correct": "Pelé",
+    "options": ["Michael Owen", "Pelé", "Lionel Messi", "Kylian Mbappé"]
+  },
+  {
+    "image": "img/mondial_images/Abdelmoumene_Djabou.jpg",
+    "question": "Which player has played the most World Cup matches without ever winning?",
+    "correct": "Rafael Márquez",
+    "options": ["Rafael Márquez", "Gianluigi Buffon", "Lothar Matthäus", "Javier Mascherano"]
+  },
+  {
+    "image": "img/mondial_images/wc_1962_host.jpg",
+    "question": "Which team holds the record for most consecutive World Cup appearances?",
+    "correct": "Brazil",
+    "options": ["Germany", "Brazil", "Italy", "Argentina"]
+  },
+  {
+    "image": "img/mondial_images/wc_1994_host.jpg",
+    "question": "Who scored the only goal in the 1994 World Cup final?",
+    "correct": "No one",
+    "options": ["Dunga", "Romário", "Roberto Baggio", "No one"]
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "Which player scored a hat-trick in a World Cup final?",
+    "correct": "Geoff Hurst",
+    "options": ["R9", "Pelé", "Geoff Hurst", "Klose"]
+  },
+  {
+    "image": "img/mondial_images/Azteca_Stadium.jpg",
+    "question": "Which stadium hosted the most World Cup matches in a single tournament?",
+    "correct": "Azteca Stadium",
+    "options": ["Azteca Stadium", "Maracanã", "Wembley", "Stade de France"]
+  },
+  {
+    "image": "img/mondial_images/referee.jpg",
+    "question": "Who is the only referee to have officiated a World Cup final and the opening match in the same tournament?",
+    "correct": "Néstor Pitana",
+    "options": ["Howard Webb", "Pierluigi Collina", "Néstor Pitana", "Björn Kuipers"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which player was known as 'O Rei'?",
+    "correct": "Pelé",
+    "options": ["Pelé", "Maradona", "R9", "Messi"]
+  },
+  {
+    "image": "img/mondial_images/zidane_98.jpg",
+    "question": "Which nation has the best win percentage in World Cup history?",
+    "correct": "Brazil",
+    "options": ["Italy", "Germany", "Brazil", "Argentina"]
+  },
+  {
+    "image": "img/mondial_images/wc_1998_host.jpg",
+    "question": "Who scored the 1000th goal in World Cup history?",
+    "correct": "Rob Rensenbrink",
+    "options": ["Gerd Müller", "Johan Cruyff", "Pelé", "Rob Rensenbrink"]
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "Which team lost the 1950 World Cup final at Maracanã in front of the largest crowd ever?",
+    "correct": "Brazil",
+    "options": ["Brazil", "Uruguay", "Argentina", "Italy"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who is the only player to score in 7 different World Cups?",
+    "correct": "None",
+    "options": ["None", "Pelé", "Ronaldo R7", "Messi"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which country has hosted the World Cup without winning it?",
+    "correct": "All of the above",
+    "options": ["Sweden", "Chile", "Mexico", "All of the above"]
+  },
+  {
+    "image": "img/mondial_images/wc_1974_host.jpg",
+    "question": "Who scored the fastest goal in a World Cup final?",
+    "correct": "Johan Neeskens",
+    "options": ["Pelé", "Johan Neeskens", "Geoff Hurst", "Kylian Mbappé"]
+  },
+  
+
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Which player has scored the most goals in a single WC edition?",
+    "correct": "Just Fontaine",
+    "options": ["Mpappe", "Gerd Müller", "Ronaldo", "Just Fontaine"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Who is the player to have scored in two different World Cup finals?",
+    "correct": "Pelé",
+    "options": ["Pelé", "Maradona", "Franz Beckenbauer", "Johan Cruyff"]
+  },
+  {
+    "image": "img/mondial_images/Battle.jpg",
+    "question": "Which team lost back-to-back World Cup finals?",
+    "correct": "Netherlands",
+    "options": ["Netherlands", "Brazil", "Argentina", "Italy"]
+  },
+  {
+    "image": "img/mondial_images/bobby_moore.jpg",
+    "question": "Who is the youngest captain to lift the World Cup trophy?",
+    "correct": "Bobby Moore",
+    "options": ["Pelé", "Bobby Moore", "Franz Beckenbauer", "Lionel Messi"]
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "Which player has made the most saves in a single World Cup match?",
+    "correct": "Tim Howard",
+    "options": ["Iker Casillas", "Manuel Neuer", "Tim Howard", "Gianluigi Buffon"]
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "Who is the only player to receive a red card in a World Cup final?",
+    "correct": "Zidane",
+    "options": ["Maradona", "Zidane", "Cafu", "Roy Keane"]
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "Which World Cup had the lowest average goals per match?",
+    "correct": "2010",
+    "options": ["2018", "2006", "2014", "2010"]
+  },
+  {
+    "image": "img/mondial_images/Italy.jpg",
+    "question": "Who scored the winning penalty for Italy in the 2006 final?",
+    "correct": "Fabio Grosso",
+    "options": ["Del Piero", "Francesco Totti", "Andrea Pirlo", "Fabio Grosso"]
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Which country has qualified for the World Cup the most times without ever winning it?",
+    "correct": "Mexico",
+    "options": ["Mexico", "Portugal", "Belgium", "Croatia"]
+  },
+  {
+    "image": "img/mondial_images/En_Nesyri.jpg",
+    "question": "Who is the only African player to win the Golden Ball?",
+    "correct": "None",
+    "options": ["Roger Milla", "George Weah", "None", "Samuel Eto'o"]
+  },
+  {
+    "image": "img/mondial_images/hungary.jpg",
+    "question": "Which team scored the most goals in a single World Cup tournament?",
+    "correct": "Hungary",
+    "options": ["Germany", "Brazil", "Hungary", "France"]
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Who is the only player to have won the World Cup, Champions League, and Ballon d'Or in the same year?",
+    "correct": "Beckenbauer",
+    "options": ["Beckenbauer", "Pelé", "Cruyff", "Platini"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which nation has the most runners-up finishes without ever winning?",
+    "correct": "Netherlands",
+    "options": ["Sweden", "Czech Republic", "Hungary", "Netherlands"]
+  },
+  {
+    "image": "img/mondial_images/wc_1930.jpg",
+    "question": "Who scored the first hat-trick in World Cup history?",
+    "correct": "Guillermo Stábile",
+    "options": ["Guillermo Stábile", "Pelé", "Giuseppe Meazza", "Oldřich Nejedlý"]
+  },
+  {
+    "image": "img/mondial_images/captain.jpg",
+    "question": "Which player has played the most World Cup matches as captain?",
+    "correct": "Lionel Messi",
+    "options": ["Lionel Messi", "Cafu", "Diego Maradona", "Philipp Lahm"]
+  },
+  {
+    "image": "img/mondial_images/red_card.jpg",
+    "question": "Which World Cup had the most red cards?",
+    "correct": "2006",
+    "options": ["2018", "2010", "2014", "2006"]
+  },
+  {
+    "image": "img/mondial_images/gotze.jpg",
+    "question": "Who is the only player to score 4 goals in a World Cup match twice?",
+    "correct": "None",
+    "options": ["None", "Just Fontaine", "Gerd Müller", "Sándor Kocsis"]
+  },
+  {
+    "image": "img/mondial_images/captain.jpg",
+    "question": "Which team conceded the most goals in a single World Cup tournament?",
+    "correct": "South Korea",
+    "options": ["South Korea", "Saudi Arabia", "El Salvador", "Haiti"]
+  },
+  {
+    "image": "img/mondial_images/wc_1986_host.jpg",
+    "question": "Who is the only goalkeeper to have saved 3 penalties in a World Cup shootout?",
+    "correct": "Subašić",
+    "options": ["Goycochea", "Subašić", "Schumacher", "Seaman"]
+  },
+  {
+    "image": "img/mondial_images/battle_bordeaux.jpg",
+    "question": "Which match is known as the 'Battle of Bordeaux'?",
+    "correct": "Germany vs France",
+    "options": ["Germany vs France", "Brazil vs Argentina", "Italy vs Poland", "England vs Spain"]
+  },
+  {
+    "image": "img/mondial_images/Geoff_Hurst.jpg",
+    "question": "Who scored the 'Ghost Goal' in the 1966 final?",
+    "correct": "Geoff Hurst",
+    "options": ["Bobby Charlton", "Geoff Hurst", "Martin Peters", "Roger Hunt"]
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Which player has scored the most WC goals from outside the box?",
+    "correct": "Lionel Messi",
+    "options": ["Lionel Messi", "Ronaldo R7", "Roberto Baggio", "Zidane"]
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "BAFANA BAFANA?",
+    "correct": "South Africa",
+    "options": ["China", "Qatar", "South Africa", "Canada"]
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Who is the only player to score a hat-trick in a WC final extra time?",
+    "correct": "Geoff Hurst",
+    "options": ["Mbappé", "Geoff Hurst", "Pelé", "R7"]
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "Which African team won its first World Cup match in 2022?",
+    "correct": "Morocco",
+    "options": ["Morocco", "Senegal", "Cameroon", "Tunisia"]
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "Who is the oldest player to score in a World Cup knockout match?",
+    "correct": "Pepe",
+    "options": ["Luka Modrić", "Roger Milla", "Pepe", "Alfredo Talavera"]
+  },
+  {
+    "image": "img/mondial_images/captain.jpg",
+    "question": "Which player has missed the most World Cups due to injury?",
+    "correct": "van Basten",
+    "options": ["van Basten", "Romário", "Marco Reus", "Michael Owen"]
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Which team has the best defensive record in a single World Cup?",
+    "correct": "Italy",
+    "options": ["Italy", "France", "Spain", "Germany"]
+  },
+  {
+    "image": "img/mondial_images/wc_1934.jpg",
+    "question": "Who scored the first World Cup goal in extra time?",
+    "correct": "Schiavio",
+    "options": ["Orsi", "Meazza", "Schiavio", "Nejedlý"]
+  },
+  {
+    "image": "img/mondial_images/Italy.jpg",
+    "question": "Most World Cup appearances (without scoring)?",
+    "correct": "Maldini",
+    "options": ["Philipp Lahm", "Mascherano", "Cafu", "Maldini"]
+  },
+  {
+    "image": "img/mondial_images/roberto-carlos-goal.gif",
+    "question": "Who scored this goal?",
+    "correct": "roberto carlos",
+    "options": ["roberto carlos", "Zaza", "Ziyesh", "aboutrika"]
+  },
+{
+    "image": "img/mondial_images/morocco_goal.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Bassir",
+    "options": ["Bassir", "Elhadji", "Tahar", "Neybat"]
+  },
+  {
+    "image": "img/mondial_images/bulgarian.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Negrete",
+    "options": ["Ilia Gruev", "Mitov", "Petkov", "Negrete"]
+  },
+  {
+    "image": "img/mondial_images/krose.gif",
+    "question": "Who scored this goal?",
+    "correct": "kroos",
+    "options": ["Beckham", "kroos", "Messi", "maradona"]
+  },
+  {
+    "image": "img/mondial_images/owen.jpg",
+    "question": "Who scored this goal?",
+    "correct": "Owen",
+    "options": ["Owen", "klose", "Beckham", "ronney"]
+  },
+  {
+    "image": "img/mondial_images/Joe_Cole.gif",
+    "question": "Who scored this goal?",
+    "correct": "Joe Cole",
+    "options": ["Bergkamp", "klose", "Beckham", "Joe Cole"]
+  },
+  {
+    "image": "img/mondial_images/Saeed_Al_Owairan.jpg",
+    "question": "Who is this player?",
+    "correct": "Al Owaira",
+    "options": ["Al Owaira", "Majed Abdullah", "Al-Jaber", "Al Dawsari"]
+  },
+  {
+    "image": "img/mondial_images/Cambiasso.jpg",
+    "question": "Who is this player?",
+    "correct": "Cambiasso",
+    "options": ["Messi", "Cambiasso", "Mascherano", "Passarella"]
+  },
+  
+{
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "What was the official song of the 2010 World Cup?",
+    "correct": "Waka Waka",
+    "options": ["Waka Waka", "The Cup of Life", "We Are One", "Live It Up"]
+  },
+  {
+    "image": "img/mondial_images/wc_2010.jpg",
+    "question": "Which instrument became famous during the 2010 World Cup in South Africa?",
+    "correct": "Vuvuzela",
+    "options": ["Bagpipes", "Didgeridoo", "Vuvuzela", "Trumpet"]
+  },
+  {
+    "image": "img/mondial_images/telstar.jpg",
+    "question": "What was the name of the first official World Cup ball in 1970?",
+    "correct": "Telstar",
+    "options": ["Azteca", "Tango", "Telstar", "Jabulani"]
+  },
+  {
+    "image": "img/mondial_images/zidane_98.jpg",
+    "question": "In which year did Zidane win his first World Cup?",
+    "correct": "1998",
+    "options": ["1998", "2002", "2006", "1994"]
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "Which country did Ronaldinho represent in the World Cup?",
+    "correct": "Brazil",
+    "options": ["Brazil", "Portugal", "Spain", "Argentina"]
+  },
+  {
+    "image": "img/mondial_images/wc_1970.jpg",
+    "question": "Which team won the 1970 World Cup with Pelé?",
+    "correct": "Brazil",
+    "options": ["Germany", "Italy", "Brazil", "England"]
+  },
+  {
+    "image": "img/mondial_images/klose.jpg",
+    "question": "How many World Cup goals did Klose score in total?",
+    "correct": "16",
+    "options": ["14", "15", "16", "17"]
+  },
+  {
+    "image": "img/mondial_images/wc_1966.jpg",
+    "question": "Which team did England beat in the 1966 World Cup final?",
+    "correct": "Germany",
+    "options": ["Italy", "Brazil", "Argentina", "Germany"]
+  },
+  {
+    "image": "img/mondial_images/ballon_dor.jpg",
+    "question": "Who is the only goalkeeper to have won the Ballon d'Or?",
+    "correct": "Lev Yashin",
+    "options": ["Lev Yashin", "Gianluigi Buffon", "Manuel Neuer", "Oliver Kahn"]
+  },
+  {
+    "image": "img/mondial_images/wc_2002.jpg",
+    "question": "Which two countries co-hosted the 2002 World Cup?",
+    "correct": "South Korea/Japan",
+    "options": ["Germany/France", "USA/Mexico", "South Korea/Japan", "Brazil/Argentina"]
+  },
+  {
+    "image": "img/mondial_images/wc_1950_host.jpg",
+    "question": "What was the decisive match of the 1950 World Cup called?",
+    "correct": "Maracanazo",
+    "options": ["Maracanazo", "Battle of Santiago", "Miracle of Bern", "Ghost Goal"]
+  },
+  {
+    "image": "img/mondial_images/r9.jpg",
+    "question": "Which Brazilian player was known as 'The Joy of the People'?",
+    "correct": "Garrincha",
+    "options": ["Pelé", "Garrincha", "R9", "Romário"]
+  },
+  {
+    "image": "img/mondial_images/cup.jpg",
+    "question": "Which player scored a famous hat-trick against Hungary in 1982?",
+    "correct": "László Kiss",
+    "options": ["László Kiss", "Michel Platini", "Paolo Rossi", "Rummenigge"]
+  },
+  {
+    "image": "img/mondial_images/wc_1998.jpg",
+    "question": "Who was the top scorer of the 1998 World Cup?",
+    "correct": "Davor Šuker",
+    "options": ["Zidane", "R9", "Davor Šuker", "Thierry Henry"]
+  },
+  {
+    "image": "img/mondial_images/wc_2006.jpg",
+    "question": "Which country finished third in the 2006 World Cup?",
+    "correct": "Germany",
+    "options": ["Germany", "Portugal", "France", "Italy"]
+  },
+  {
+    "image": "img/mondial_images/wc_2014.jpg",
+    "question": "What was the score of Germany vs Brazil in the 2014 semi-final?",
+    "correct": "7-1",
+    "options": ["5-0", "6-1", "7-1", "8-2"]
+  },
+  {
+    "image": "img/mondial_images/croatia.jpg",
+    "question": "Who scored for Croatia in the 2018 World Cup final?",
+    "correct": "Perišić/Mandžukić",
+    "options": ["Luka Modrić", "Perišić/Mandžukić", "Ante Rebić", "Dejan Lovren"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "What is the name of the current FIFA World Cup trophy?",
+    "correct": "FIFA World Cup Trophy",
+    "options": ["Jules Rimet Trophy", "FIFA World Cup Trophy", "Golden Cup", "Victory Trophy"]
+  },
+  {
+    "image": "img/mondial_images/wc_1930.jpg",
+    "question": "Who did Uruguay beat in the first World Cup final in 1930?",
+    "correct": "Argentina",
+    "options": ["Brazil", "Argentina", "USA", "Yugoslavia"]
+  },
+  {
+    "image": "img/mondial_images/Mpappe.gif",
+    "question": "Which goal he did this celebration(final)?",
+    "correct": "3",
+    "options": ["4", "1", "2", "3"]
+  },
+  {
+    "image": "img/mondial_images/croitia.gif",
+    "question": "Who scored this goal?",
+    "correct": "Mandžukić",
+    "options": ["Luka Modrić", "Mandžukić", "Ante Rebić", "Perišić"]
+  },
+  {
+    "image": "img/mondial_images/nazario.gif",
+    "question": "Who scored this goal?",
+    "correct": "R9",
+    "options": ["Adriano", "R9", "Romario", "Neymar"]
+  },
+  {
+    "image": "img/mondial_images/croitia.gif",
+    "question": "Which final is that?",
+    "correct": "2018",
+    "options": ["2022", "2018", "2006", "2002"]
+  },
+  {
+    "image": "img/mondial_images/nazario.gif",
+    "question": "Which world cup is that?",
+    "correct": "2006",
+    "options": ["2002", "1998", "2006", "1994"]
+  },
+  {"image":"img/mondial_images/lampard.gif",
+  "question":"Which world cup is this?","correct":"2010",
+  "options":["2010","2014","2018","2006"]
+  },
+  {
+    "image": "img/mondial_images/south_africa.gif",
+    "question": "Which scored this goal?",
+    "correct": "Tshabalala",
+    "options": ["Modise", "Sibaya", "Pienaar", "Tshabalala"]
+  },
+  {
+    "image": "img/mondial_images/cahil.gif",
+    "question": "Which scored this goal?",
+    "correct": "Cahill",
+    "options": ["Modise", "Cahill", "Leckie", "Kennedy"]
+  },
+  {
+    "image": "img/mondial_images/muntari.gif",
+    "question": "Which scored this goal?",
+    "correct": "Muntari",
+    "options": ["Gyan", "Kingson", "Muntari", "Essien"]
+  },
+  {
+    "image": "img/mondial_images/wc_2022.jpg",
+    "question": "What was the date of the 2022 FIFA World Cup final?",
+    "correct": "18/12/22",
+    "options": ["18/12/22","17/12/22","20/12/22","19/12/22"]
+  },
+  {
+    "image": "img/mondial_images/wc_1934.jpg",
+    "question": "Which country was the runner-up of the 1934 WC?",
+    "correct": "Czechoslovakia",
+    "options": ["Czechoslovakia","Germany","Austria","Hungary"]
+  },
+  {
+    "image": "img/mondial_images/wc.jpg",
+    "question": "Which is the worst injury in WC?",
+    "correct": "Neymar",
+    "options": ["Enrique","Neymar","Ozil","Battiston"]
+  },
+  {"image":"img/mondial_images/wc_1974.jpg","question":"Which country won the 1974 World Cup?","correct":"West Germany","options":["Netherlands","Poland","Brazil","West Germany"]},
+  {"image":"img/mondial_images/wc_1974.jpg","question":"Who was the runner-up of the 1974 World Cup?","correct":"Netherlands","options":["Poland","Netherlands","Brazil","Sweden"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which country hosted the 1978 World Cup?","correct":"Argentina","options":["Chile","Brazil","Uruguay","Argentina"]},
+  {"image":"img/mondial_images/wc_1982.jpg","question":"Which country hosted the 1982 World Cup?","correct":"Spain","options":["Italy","France","Spain","West Germany"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Which country hosted the 1990 World Cup?","correct":"Italy","options":["Spain","Germany","France","Italy"]},
+  {"image":"img/mondial_images/wc_1966.jpg","question":"Which country hosted the 1966 World Cup?","correct":"England","options":["Germany","France","England","Italy"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Which two countries co-hosted the 2002 World Cup?","correct":"South Korea & Japan","options":["China & Japan","South Korea & Japan","Australia & Japan","South Korea & China"]},
+  {"image":"img/mondial_images/wc_2018_host.jpg","question":"Who won the Golden Ball award in the 2018 World Cup?","correct":"Luka Modrić","options":["Harry Kane","Kylian Mbappé","Luka Modrić","Antoine Griezmann"]},
+  {"image":"img/mondial_images/wc_2006_host.jpg","question":"Who won the Golden Ball award in the 2006 World Cup?","correct":"Zinedine Zidane","options":["Fabio Cannavaro","Miroslav Klose","Gianluigi Buffon","Zinedine Zidane"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Who won the Golden Ball award in the 2002 World Cup?","correct":"Oliver Kahn","options":["R9","Rivaldo","Ronaldinho","Oliver Kahn"]},
+  {"image":"img/mondial_images/wc_1998.jpg","question":"Who won the Golden Ball award in the 1998 World Cup?","correct":"Ronaldo R9","options":["Zidane","Davor Suker","Dennis Bergkamp","Ronaldo R9"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Who won the Golden Ball award in the 1990 World Cup?","correct":"Salvatore Schillaci","options":["Lothar Matthäus","Salvatore Schillaci","Roberto Baggio","Gary Lineker"]},
+  {"image":"img/mondial_images/wc_1986.jpg","question":"Who won the Golden Ball award in the 1986 World Cup?","correct":"Diego Maradona","options":["Gary Lineker","Emilio Butragueño","Michel Platini","Diego Maradona"]},
+  {"image":"img/mondial_images/wc_2018.jpg","question":"Which country finished 3rd in the 2018 World Cup?","correct":"Belgium","options":["Uruguay","England","Belgium","Sweden"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"Which country finished 3rd in the 2022 World Cup?","correct":"Croatia","options":["Morocco","Netherlands","Croatia","Portugal"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Which country finished 3rd in the 2002 World Cup?","correct":"Turkey","options":["Senegal","USA","South Korea","Turkey"]},
+  {"image":"img/mondial_images/wc_1994.jpg","question":"Which country finished 3rd in the 1994 World Cup?","correct":"Sweden","options":["Bulgaria","Sweden","Romania","USA"]},
+  {"image":"img/mondial_images/r9_goal.gif","question":"How many goals did Ronaldo R9 score in total across all World Cups?","correct":"15","options":["12","13","15","17"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Which country knocked out France in the group stage of the 2002 World Cup?","correct":"Senegal","options":["Denmark","Senegal","Uruguay","South Korea"]},
+  {"image":"img/mondial_images/wc_1978.jpg","question":"Who was the runner-up of the 1978 World Cup?","correct":"Netherlands","options":["Brazil","Peru","Italy","Netherlands"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Which country did Cameroon shock in the 1990 World Cup opening match?","correct":"Argentina","options":["Italy","Brazil","Argentina","West Germany"]},
+  {"image":"img/mondial_images/wc_1994.jpg","question":"Who scored the famous diving header goal for Colombia vs Cameroon in 1994?","correct":"Freddy Rincón","options":["Carlos Valderrama","Faustino Asprilla","Adolfo Valencia","Freddy Rincón"]},
+  {"image":"img/mondial_images/wc_1994.jpg","question":"Which player scored the famous bicycle kick in the 1994 World Cup for Bulgaria?","correct":"Emil Kostadinov","options":["Hristo Stoichkov","Krasimir Balakov","Yordan Letchkov","Emil Kostadinov"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Who was the top scorer of the 2002 World Cup?","correct":"Ronaldo R9","options":["Oliver Neuville","Rivaldo","Miroslav Klose","Ronaldo R9"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Who was the top scorer of the 1990 World Cup?","correct":"Salvatore Schillaci","options":["Gary Lineker","Lothar Matthäus","Salvatore Schillaci","Roger Milla"]},
+  {"image":"img/mondial_images/wc_1998.jpg","question":"Which player scored the iconic header that won the 1998 World Cup final for France?","correct":"Zinedine Zidane","options":["Thierry Henry","Emmanuel Petit","Didier Deschamps","Zinedine Zidane"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Which African nation reached the quarter-finals for the first time in 1990?","correct":"Cameroon","options":["Nigeria","Senegal","Morocco","Cameroon"]},
+  {"image":"img/mondial_images/wc_1994_host.jpg","question":"Which player scored the winning penalty for Brazil against Italy in the 1994 final?","correct":"Dunga","options":["Romário","R9","Bebeto","Dunga"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Who scored the goal that eliminated defending champions France in the 2002 group stage?","correct":"Henri Camara","options":["El Hadji Diouf","Salif Diao","Papa Bouba Diop","Henri Camara"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"Which country was the first to be eliminated from the 2022 World Cup despite scoring 6 goals?","correct":"Germany","options":["Belgium","Denmark","Uruguay","Germany"]},
+  {"image": "img/mondial_images/argentina1990.gif","question": "Who scored this goal?","correct": "caniggia","options": ["caniggia", "maradona", "Battiston", "Burruchaga"]},
+  {"image": "img/mondial_images/belgique.gif","question": "Who scored this player?","correct": "Batshuayi","options": ["Dendoncker", "Batshuayi", "Lukaku", "Dembélé"]},
+  {"image": "img/mondial_images/chadli.gif","question": "Who scored this goal?","correct": "Chadli","options": ["Januzaj", "Mertens", "Thorgan Hazard", "Chadli"]},
+  {"image": "img/mondial_images/luiz.gif","question": "Who scored this goal?","correct": "David Luiz","options": ["Luiz Gustavo", "Maxwell", "Jô", "David Luiz"]},
+  {"image": "img/mondial_images/shakiri.gif","question": "Against wich team he did this celebration?","correct": "Serbia","options": ["Brazil", "Costa Rica", "Sweden", "Serbia"]},
+  {"image": "img/mondial_images/debruyn.gif","question": "Who scored this goal?","correct": "De Bruyne","options": ["Batshuayi", "Youri Tielemans", "Mertens", "De Bruyne"]},
+  {"image": "img/mondial_images/debruyn.gif","question": "In which minute was this goal scored?","correct": "31","options": ["87", "73", "43", "31"]},
+  {"image": "img/mondial_images/luiz.gif","question": "In which minute was this goal scored?","correct": "69","options": ["33", "69", "75", "60"]},
+  {"image": "img/mondial_images/chadli.gif","question": "In which minute was this goal scored?","correct": "94","options": ["94", "92", "90", "91"]},
+  {"image": "img/mondial_images/en_nesyri_22.jpg","question": "In which minute was this goal scored?","correct": "42","options": ["38", "40", "42", "45"]},
+  
+  {"image":"img/mondial_images/wc_1958.jpg","question":"Who was the top scorer of the 1958 World Cup?","correct":"Just Fontaine","options":["Pelé","Vavá","Just Fontaine","Garrincha"]},
+  {"image":"img/mondial_images/wc_1954.jpg","question":"Who was the top scorer of the 1954 World Cup?","correct":"Sándor Kocsis","options":["Morlock","Sándor Kocsis","Puskás","Rahn"]},
+  {"image":"img/mondial_images/wc_1962_host.jpg","question":"Who was the top scorer of the 1962 World Cup?","correct":"Garrincha/Vavá/Jerkovic/Albert","options":["Pelé","Garrincha/Vavá/Jerkovic/Albert","Eusébio","Kocsis"]},
+  {"image":"img/mondial_images/wc_1966.jpg","question":"Who was the top scorer of the 1966 World Cup?","correct":"Eusébio","options":["Geoff Hurst","Helmut Haller","Bobby Charlton","Eusébio"]},
+  {"image":"img/mondial_images/wc_1970.jpg","question":"Who was the top scorer of the 1970 World Cup?","correct":"Gerd Müller","options":["Gerd Müller","Jairzinho","Pelé","Rivera"]},
+  {"image":"img/mondial_images/wc_1974.jpg","question":"Who was the top scorer of the 1974 World Cup?","correct":"Grzegorz Lato","options":["Johan Cruyff","Gerd Müller","Grzegorz Lato","Rensenbrink"]},
+  {"image":"img/mondial_images/wc_1978.jpg","question":"Who was the top scorer of the 1978 World Cup?","correct":"Mario Kempes","options":["Rob Rensenbrink","Leopoldo Luque","Teófilo Cubillas","Mario Kempes"]},
+  {"image":"img/mondial_images/wc_1982.jpg","question":"Who was the top scorer of the 1982 World Cup?","correct":"Paolo Rossi","options":["Karl-Heinz Rummenigge","Zbigniew Boniek","Paolo Rossi","Zico"]},
+  {"image":"img/mondial_images/wc_1986.jpg","question":"Who was the top scorer of the 1986 World Cup?","correct":"Lineker","options":["Maradona","Emilio Butragueño","Igor Belanov","Lineker"]},
+  {"image":"img/mondial_images/wc_1994.jpg","question":"Who was the top scorer of the 1994 World Cup?","correct":"Oleg Salenko/Hristo Stoichkov","options":["Romário","Roberto Baggio","Oleg Salenko/Hristo Stoichkov","Bebeto"]},
+  {"image":"img/mondial_images/wc_1950_host.jpg","question":"Who scored the goal that shocked Brazil in the 1950 final round?","correct":"Alcides Ghiggia","options":["Juan Schiaffino","Alcides Ghiggia","Omar Míguez","Obdulio Varela"]},
+  {"image":"img/mondial_images/wc_1966.jpg","question":"Who scored England's first goal in the 1966 World Cup final?","correct":"Geoff Hurst","options":["Geoff Hurst","Martin Peters","Bobby Charlton","Roger Hunt"]},
+  {"image":"img/mondial_images/wc_1974.jpg","question":"Who scored the first penalty ever in a World Cup final?","correct":"Johan Neeskens","options":["Gerd Müller","Paul Breitner","Johan Cruyff","Johan Neeskens"]},
+  {"image":"img/mondial_images/wc_1986.jpg","question":"Who scored the winning goal in the 1986 World Cup final?","correct":"Jorge Burruchaga","options":["Diego Maradona","Jorge Valdano","José Luis Brown","Jorge Burruchaga"]},
+  {"image":"img/mondial_images/wc_1998.jpg","question":"Who scored the 3rd goal for France in the 1998 final?","correct":"Emmanuel Petit","options":["Thierry Henry","Patrick Vieira","Zinedine Zidane","Emmanuel Petit"]},
+  {"image":"img/mondial_images/wc_2006.jpg","question":"Who scored France's first goal in the 2006 final?","correct":"Zidane","options":["Ribery","Malouda","Henry","Zidane"]},
+  {"image":"img/mondial_images/wc_2010.jpg","question":"Who scored the goal that eliminated Brazil from the 2010 World Cup?","correct":"Robben","options":["Robben","Sneijder","Van Persie","Kuyt"]},
+  {"image":"img/mondial_images/wc_2014.jpg","question":"Which country did Germany beat in the 2014 semi-final 7-1?","correct":"Brazil","options":["Argentina","Brazil","France","Portugal"]},
+  {"image":"img/mondial_images/wc_2018.jpg","question":"Who scored the OG in the 2018 final for France?","correct":"Mandžukić","options":["Perišić","Vida","Lovren","Mandžukić"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"Which goalkeeper saved 3 penalties in the 2022 quarter-final shoot-out?","correct":"Bounou","options":["Bounou","Courtois","Lloris","Martinez"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Who is the only player to win the World Cup 3 times?","correct":"Pelé","options":["Messi","Cafu","Ronaldo R9","Pelé"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which country won the first ever World Cup penalty shootout?","correct":"West Germany","options":["Brazil","Argentina","France","West Germany"]},
+  {"image":"img/mondial_images/wc.jpg","question":"In which year was the golden goal rule used in the World Cup?","correct":"1998-2002","options":["1998-2002","1994-1998","2002-2006","2006-2010"]},
+  {"image":"img/mondial_images/wc_1950_host.jpg","question":"Which country won the 1950 World Cup?","correct":"Uruguay","options":["Brazil","Argentina","Uruguay","England"]},
+  {"image":"img/mondial_images/wc_1954.jpg","question":"What was the name of the famous 1954 final upset called?","correct":"Miracle of Bern","options":["Maracanazo","Battle of Santiago","Miracle of Bern","Ghost Goal"]},
+  {"image":"img/mondial_images/wc_1970.jpg","question":"Which country beat England in the 1970 World Cup quarter-final?","correct":"West Germany","options":["Brazil","Argentina","West Germany","Italy"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which player scored 9 goals in a single World Cup edition in 1954?","correct":"Sándor Kocsis","options":["Morlock","Puskás","Sándor Kocsis","Hidegkuti"]},
+  {"image":"img/mondial_images/Roger_Milla.jpg","question":"Which player did Roger Milla famously taunt after scoring against at the 1990 WC?","correct":"René Higuita","options":["René Higuita","Thomas N'Kono","Jorge Campos","Bonetti"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"Who scored the last goal for Morocco against Canada in 2022?","correct":"Youssef En-Nesyri","options":["Hakim Ziyech","Achraf Hakimi","Youssef En-Nesyri","Sofiane Boufal"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which country caused the biggest upset by beating Italy in 1966 group stage?","correct":"North Korea","options":["North Korea","South Korea","China","Japan"]},
+  {"image":"img/mondial_images/argentina1990.gif","question":"Which player earned the nickname 'El Pibe de Oro'?","correct":"Diego Maradona","options":["Carlos Valderrama","Diego Maradona","Jorge Burruchaga","Ricky Villa"]},
+  {"image":"img/mondial_images/r9_goal.gif","question":"Which country was disqualified from the 1994 World Cup for match-fixing?","correct":"None","options":["Yugoslavia","Bulgaria","None","Albania"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which team finished 4th in the 2022 World Cup?","correct":"Morocco","options":["Morocco","Portugal","England","Netherlands"]},
+  {"image":"img/mondial_images/wc_2014.jpg","question":"Which goalkeeper had 16 saves vs Belgium in the 2014 Round of 16?","correct":"Tim Howard","options":["De Gea","Neuer","Buffon","Tim Howard"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"What was the name of the 2022 World Cup official ball?","correct":"Al Rihla","options":["Jabulani","Brazuca","Telstar 18","Al Rihla"]},
+  {"image":"img/mondial_images/wc_2018.jpg","question":"What was the name of the 2018 World Cup official ball?","correct":"Telstar 18","options":["Brazuca","Jabulani","Telstar 18","Al Rihla"]},
+  {"image":"img/mondial_images/wc_2014.jpg","question":"What was the name of the 2014 World Cup official ball?","correct":"Brazuca","options":["Jabulani","Brazuca","Teamgeist","Fevernova"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which country has been eliminated the most times on penalties in the WC?","correct":"Spain","options":["Spain","France","Netherlands","England"]},
+  {"image":"img/mondial_images/wc_1974_host.jpg","question":"Which country invented the 'Total Football' style seen in the 1974 World Cup?","correct":"Netherlands","options":["Germany","Brazil","Netherlands","France"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Who scored the 2000th goal in World Cup history?","correct":"Klose","options":["Ronaldo","Messi","Zidane","Klose"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which player scored in 5 consecutive World Cups?","correct":"Goat CR7","options":["Klose","Messi","Mbappe","Goat CR7"]},
+
+
+  {"image":"img/mondial_images/wc_1930.jpg","question":"Who was the top scorer of the 1930 World Cup?","correct":"Guillermo Stábile","options":["Pedro Cea","Preguinho","Guillermo Stábile","Bert Patenaude"]},
+  {"image":"img/mondial_images/wc_1934.jpg","question":"Who was the top scorer of the 1934 World Cup?","correct":"Oldřich Nejedlý","options":["Angelo Schiavio","Edmund Conen","Oldřich Nejedlý","Raimundo Orsi"]},
+  {"image":"img/mondial_images/wc_1938.jpg","question":"Who was the top scorer of the 1938 World Cup?","correct":"Leônidas","options":["Silvio Piola","Gino Colaussi","Leônidas","György Sárosi"]},
+  {"image":"img/mondial_images/wc_1950_host.jpg","question":"Who was the top scorer of the 1950 World Cup?","correct":"Ademir","options":["Ademir","Alcides Ghiggia","Zizinho","Juan Schiaffino"]},
+  {"image":"img/mondial_images/wc_1958.jpg","question":"How many goals did Just Fontaine score in the 1958 World Cup?","correct":"13","options":["9","11","13","15"]},
+  {"image":"img/mondial_images/wc_1966.jpg","question":"How many goals did Eusébio score in the 1966 World Cup?","correct":"9","options":["6","7","8","9"]},
+  {"image":"img/mondial_images/wc_1970.jpg","question":"Who was the top scorer of the 1970 World Cup with 10 goals?","correct":"Gerd Müller","options":["Jairzinho","Pelé","Gerd Müller","Roberto Boninsegna"]},
+  {"image":"img/mondial_images/wc_2002.jpg","question":"Who won the Golden Boot at the 2002 World Cup?","correct":"R9","options":["R9","Miroslav Klose","Rivaldo","Raul"]},
+  {"image":"img/mondial_images/wc_2006.jpg","question":"Who won the Golden Boot at the 2006 World Cup?","correct":"Klose","options":["Zidane","Ronaldo","Klose","Toni"]},
+  {"image":"img/mondial_images/wc_2010.jpg","question":"Who won the Golden Boot at the 2010 World Cup?","correct":"Thomas Müller","options":["David Villa","Wesley Sneijder","Thomas Müller","Diego Forlán"]},
+  {"image":"img/mondial_images/wc_2014.jpg","question":"Who was the top scorer of the 2014 World Cup with 6 goals?","correct":"James Rodríguez","options":["Neymar","Klose","Messi","James Rodríguez"]},
+  {"image":"img/mondial_images/wc_2018.jpg","question":"Who won the Golden Boot at the 2018 World Cup?","correct":"Harry Kane","options":["Lukaku","Mbappé","Griezmann","Harry Kane"]},
+  {"image":"img/mondial_images/never_lost_semi.jpg","question":"Who is the only manager to win the World Cup twice?","correct":"Vittorio Pozzo","options":["Didier Deschamps","Mario Zagallo","Franz Beckenbauer","Vittorio Pozzo"]},
+  {"image":"img/mondial_images/wc_1966.jpg","question":"Which dog famously found the stolen Jules Rimet trophy in 1966?","correct":"Pickles","options":["Rex","Buddy","Pickles","Max"]},
+  {"image":"img/mondial_images/wc_1974.jpg","question":"Who scored the first penalty kick ever in a World Cup final in 1974?","correct":"Johan Neeskens","options":["Johan Cruyff","Paul Breitner","Gerd Müller","Johan Neeskens"]},
+  {"image":"img/mondial_images/wc_1974.jpg","question":"Which country invented the 'Total Football' style famous in 1974?","correct":"Netherlands","options":["Germany","Brazil","Netherlands","France"]},
+  {"image":"img/mondial_images/wc_1994.jpg","question":"Which player scored twice in the 2002 World Cup final against Germany?","correct":"R9","options":["R9","Rivaldo","Ronaldinho","Roberto Carlos"]},
+  {"image":"img/mondial_images/wc_2006.jpg","question":"Who was sent off in the 2006 World Cup final against Italy?","correct":"Zinedine Zidane","options":["Patrick Vieira","Thierry Henry","Franck Ribéry","Zinedine Zidane"]},
+  {"image":"img/mondial_images/wc_2014.jpg","question":"In which minute did Germany score the 7th goal vs Brazil in 2014?","correct":"79","options":["69","76","79","88"]},
+  {"image":"img/mondial_images/oscar.jpg","question":"In which minute did Oscar score the first goal vs germany 2014?","correct":"90","options":["94","85","88","90"]},
+  {"image":"img/mondial_images/oscar.jpg","question":"Who scored a hat-trick for Germany vs Brazil in the 2014 semi-final?","correct":"None","options":["Müller","Toni Kroos","None","Klose"]},
+  {"image":"img/mondial_images/wc_2018.jpg","question":"Who scored twice in the 2018 World Cup final for Croatia?","correct":"None","options":["None","Rakitić","Vida","Mandžukić"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"How many goals did Kylian Mbappé score at the 2022 World Cup?","correct":"8","options":["8","7","6","9"]},
+  {"image":"img/mondial_images/r9_goal.gif","question":"Which country caused the biggest upset by beating Hungary 3-2 in the 1954 final despite Hungary having won 8-3 in the group?","correct":"West Germany","options":["Brazil","Austria","Uruguay","West Germany"]},
+  {"image":"img/mondial_images/wc.jpg","question":"What is the record for the most goals scored in a single World Cup match?","correct":"10-1","options":["9-0","8-0","11-0","10-1"]},
+  {"image":"img/mondial_images/gotze.gif","question":"Who scored the 2,000th goal in World Cup history in 2006?","correct":"Marcus Allbäck","options":["Ronaldo","Zidane","Marcus Allbäck","Klose"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Who won the Golden Boot at the 1990 World Cup?","correct":"Salvatore Schillaci","options":["Lothar Matthäus","Gary Lineker","Diego Maradona","Salvatore Schillaci"]},
+  {"image":"img/mondial_images/wc_1998.jpg","question":"Who was the captain of the 1998 World Cup-winning France team?","correct":"Didier Deschamps","options":["Marcel Desailly","Laurent Blanc","Emmanuel Petit","Didier Deschamps"]},
+  {"image":"img/mondial_images/wc_2018_host.jpg","question":"Which country scored the most goals at the 2018 World Cup?","correct":"Belgium","options":["France","England","Belgium","Germany"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which Brazilian legend was nicknamed 'Little Bird' (Garrincha)?","correct":"dos Santos","options":["Zizinho","Leônidas","Didi","dos Santos"]},
+  {"image":"img/mondial_images/wc_1994.jpg","question":"Who was the first player to be sent off in a World Cup match in 1974?","correct":"Carlos Caszely","options":["Billy Bremner","Rivelino","Johann Neeskens","Carlos Caszely"]},
+  {"image":"img/mondial_images/wc.jpg","question":"How many times has the World Cup Final ended in a penalty shootout?","correct":"3","options":["1","2","3","4"]},
+  {"image":"img/mondial_images/wc.jpg","question":"Which country has the most runner-up finishes in World Cup history?","correct":"Germany","options":["Netherlands","Argentina","Brazil","Germany"]},
+  {"image":"img/mondial_images/wc_2010.jpg","question":"Which octopus famously predicted all of Germany's 2010 World Cup results?","correct":"Paul","options":["Otto","Fritz","Paul","Hans"]},
+  {"image":"img/mondial_images/wc_1990.jpg","question":"Who scored the only goal in the 1990 World Cup final?","correct":"Andreas Brehme","options":["Rudi Völler","Lothar Matthäus","Jürgen Klinsmann","Andreas Brehme"]},
+  {"image":"img/mondial_images/wc_1978.jpg","question":"Who scored twice in the 1978 World Cup final for Argentina?","correct":"Mario Kempes","options":["Daniel Bertoni","Leopoldo Luque","Alberto Tarantini","Mario Kempes"]},
+  {"image":"img/mondial_images/cr7_hattrick.gif","question":"Who scored a hat-trick for Portugal vs Spain at the 2018 World Cup?","correct":"Cristiano Ronaldo","options":["Quaresma","Guedes","André Silva","Cristiano Ronaldo"]},
+  {"image":"img/mondial_images/wc_1982.jpg","question":"Who scored a hat-trick in the second group stage of the 1982 WC for Italy?","correct":"Paolo Rossi","options":["Marco Tardelli","Bruno Conti","Francesco Graziani","Paolo Rossi"]},
+  {"image":"img/mondial_images/wc_2022.jpg","question":"Who scored Argentina's first goal in the 2022 World Cup final?","correct":"Lionel Messi","options":["Di María","Mac Allister","Enzo Fernández","Lionel Messi"]},
+  {"image":"img/mondial_images/wc_2026.jpg","question":"Who will win WC 2026?","correct":"Portugal","options":["Mexico","Algeria","Morocco","Portugal"]},
+
+
+
+
+
+  {"image":"img/mondial_images/Weston_McKennie.jpg","question":"Who is this player?","correct":"Weston McKennie","options":["Weston McKennie","Cristian Roldan","Timothy Weah","Brenden Aaronson"]},
+  {"image":"img/mondial_images/Kim_Min_jae.jpg","question":"Who is this player?","correct":"Kim Min jae","options":["Oh Hyeon-gyu","Cho Gue-sung","Kim Min jae","Eom Ji-sung"]},
+  {"image":"img/mondial_images/Kaoru_Mitoma.jpg","question":"Who is this player?","correct":"Kaoru Mitoma","options":["Daizen Maeda","Koki Ogawa","Ao Tanaka","Kaoru Mitoma"]},
+  {"image":"img/mondial_images/Ferenc_Puskas.jpg","question":"Who is this player?","correct":"Ferenc Puskas","options":["Sándor Kocsis","Zoltán Czibor","Gyula Lóránt","Ferenc Puskas"]},
+  {"image":"img/mondial_images/Lothar_Matthaus.jpg","question":"Who is this player?","correct":"Lothar Matthaus","options":["Lothar Matthaus","Thomas Häßler","Pierre Littbarski","Andreas Möller"]},
+  {"image":"img/mondial_images/Antoine_Semenyo.jpg","question":"Who is this player?","correct":"Antoine Semenyo","options":["Iñaki Williams","Caleb Yirenkyi","Antoine Semenyo","Mohammed Kudus"]},
+  {"image":"img/mondial_images/Moisés_Caicedo.jpg","question":"Who is this player?","correct":"Moisés Caicedo","options":["Kevin Rodríguez","Anthony Valencia","Jeremy Arévalo","Moisés Caicedo"]},
+  {"image":"img/mondial_images/Lamine_Yamal.jpg","question":"Who is this player?","correct":"Lamine Yamal","options":["Lamine Jamal","Lamine Yamal","Pedri","amine yamal"]},
+  {"image":"img/mondial_images/Achraf_Hakimi.jpg","question":"Who is this player?","correct":"Achraf Hakimi","options":["Hakim Ziyech","Achraf Hamimi","Achraf Hakimi","En-Nesyri"]},
+  {"image":"img/mondial_images/Cristiano_Ronaldo.jpg","question":"Who is this player?","correct":"Cristiano Ronaldo","options":["R9","Cristian Ronaldo","Cristiano Ronaldo","Messi"]},
+  {"image":"img/mondial_images/Scott_McTominay.jpg","question":"Who is this player?","correct":"Scott McTominay","options":["Scott McTominay","Ross Stewart","Ché Adams","Billy Gilmour"]},
+  {"image":"img/mondial_images/Mohamed_Salah.jpg","question":"Who is this player?","correct":"Mohamed Salah","options":["Zizo","Mahmmod Salah","Mohamed Salah","Houssam hassan"]},
+  {"image":"img/mondial_images/Ibrahima_Konat.jpg","question":"Who is this player?","correct":"Ibrahima Konaté","options":["Malo Gusto","Marcus Thuram","Saliba","Ibrahima Konaté"]},
+  {"image":"img/mondial_images/Pervis_Estupiñán.jpg","question":"Who is this player?","correct":"Pervis Estupiñán","options":["Pervis Estupiñán","Hernán Galíndez","Nilson Angulo","Kevin Rodríguez"]},
+  {"image":"img/mondial_images/Djabou.jpg","question":"Who is this player?","correct":"Djabou","options":["Djabou","Slimani","Mahrez","brahimi"]},
+  {"image":"img/mondial_images/Drogba.jpg","question":"Who is this player?","correct":"Drogba","options":["Pape Gueye","gervenho","sadoi mane","Drogba"]},
+  {"image":"img/mondial_images/El_Hadji_Diouf.jpg","question":"Who is this player?","correct":"El Hadji Diouf","options":["El Hadji Diouf","Camara","N'Diaye","Thiaw"]}
+]
+
+

@@ -1,0 +1,1385 @@
+[
+  {
+    "image": "img/food_images/couscous.png",
+    "question": "من أي بلد يأتي الكسكس؟",
+    "correct": "المغرب",
+    "options": [
+      "المغرب",
+      "الجزائر",
+      "تونس",
+      "مصر"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/tajine.png",
+    "question": "من أي بلد يأتي الطاجين؟",
+    "correct": "المغرب",
+    "options": [
+      "إيران",
+      "الأردن",
+      "المغرب",
+      "تركيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/sushi.png",
+    "question": "من أي بلد يأتي السوشي؟",
+    "correct": "اليابان",
+    "options": [
+      "الصين",
+      "اليابان",
+      "تايلاند",
+      "فيتنام"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/ramen.png",
+    "question": "من أي بلد يأتي الرامن؟",
+    "correct": "اليابان",
+    "options": [
+      "كوريا الجنوبية",
+      "الصين",
+      "اليابان",
+      "ماليزيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/pizza.png",
+    "question": "من أي بلد تأتي البيتزا؟",
+    "correct": "إيطاليا",
+    "options": [
+      "فرنسا",
+      "إيطاليا",
+      "إسبانيا",
+      "ألمانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/pasta.png",
+    "question": "من أي بلد تأتي المعكرونة؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إيطاليا",
+      "البرتغال",
+      "اليونان",
+      "النمسا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/paella.png",
+    "question": "من أي بلد تأتي الباييلا؟",
+    "correct": "إسبانيا",
+    "options": [
+      "فرنسا",
+      "البرتغال",
+      "إيطاليا",
+      "إسبانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/tacos.png",
+    "question": "من أي بلد تأتي التاكوس؟",
+    "correct": "المكسيك",
+    "options": [
+      "المكسيك",
+      "البرازيل",
+      "بيرو",
+      "شيلي"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/burger.png",
+    "question": "من أي بلد يأتي البرغر؟",
+    "correct": "الولايات المتحدة",
+    "options": [
+      "كندا",
+      "الولايات المتحدة",
+      "أستراليا",
+      "المملكة المتحدة"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/hotdog.png",
+    "question": "من أي بلد يأتي الهوت دوج؟",
+    "correct": "الولايات المتحدة",
+    "options": [
+      "الولايات المتحدة",
+      "ألمانيا",
+      "كندا",
+      "الدنمارك"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/poutine.png",
+    "question": "من أي بلد يأتي البوتين؟",
+    "correct": "كندا",
+    "options": [
+      "الولايات المتحدة",
+      "كندا",
+      "أيرلندا",
+      "المملكة المتحدة"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/feijoada.png",
+    "question": "من أي بلد تأتي الفيجوادا؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "كولومبيا",
+      "بيرو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/empanadas.png",
+    "question": "من أي بلد تأتي الإمباناداس؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "شيلي",
+      "المكسيك",
+      "إسبانيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/biryani.png",
+    "question": "من أي بلد يأتي البريياني؟",
+    "correct": "الهند",
+    "options": [
+      "باكستان",
+      "الهند",
+      "نيبال",
+      "بنغلاديش"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/kebab.png",
+    "question": "من أي بلد يأتي الكباب؟",
+    "correct": "تركيا",
+    "options": [
+      "لبنان",
+      "إيران",
+      "العراق",
+      "تركيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/falafel.png",
+    "question": "من أي بلد يأتي الفلافل؟",
+    "correct": "لبنان",
+    "options": [
+      "الأردن",
+      "لبنان",
+      "مصر",
+      "سوريا"
+    ],
+    "difficulty": 1
+  },
+  {"image":"img/food_images/shawarma.png","question":"من أي بلد أصل الشاورما؟","correct":"الأردن","options":["السعودية","الإمارات","الأردن","قطر"],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/dim_sum.png",
+    "question": "من أي بلد يأتي الدم سم؟",
+    "correct": "الصين",
+    "options": [
+      "الصين",
+      "اليابان",
+      "تايلاند",
+      "فيتنام"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pho.png",
+    "question": "من أي بلد يأتي الفو؟",
+    "correct": "فيتنام",
+    "options": [
+      "فيتنام",
+      "تايلاند",
+      "الصين",
+      "لاوس"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pad_thai.png",
+    "question": "من أي بلد يأتي الباد تاي؟",
+    "correct": "تايلاند",
+    "options": [
+      "إندونيسيا",
+      "ماليزيا",
+      "تايلاند",
+      "الفلبين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/nasi_goreng.png",
+    "question": "من أي بلد يأتي ناسي غورينغ؟",
+    "correct": "إندونيسيا",
+    "options": [
+      "ماليزيا",
+      "إندونيسيا",
+      "سنغافورة",
+      "بروناي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/satay.png",
+    "question": "من أي بلد يأتي الساتاي؟",
+    "correct": "ماليزيا",
+    "options": [
+      "إندونيسيا",
+      "تايلاند",
+      "ماليزيا",
+      "الفلبين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/kimchi.png",
+    "question": "من أي بلد يأتي الكيمتشي؟",
+    "correct": "كوريا الجنوبية",
+    "options": [
+      "اليابان",
+      "كوريا الجنوبية",
+      "الصين",
+      "منغوليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/goulash.png",
+    "question": "من أي بلد يأتي الغولاش؟",
+    "correct": "المجر",
+    "options": [
+      "التشيك",
+      "النمسا",
+      "بولندا",
+      "المجر"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/schnitzel.png",
+    "question": "من أي بلد يأتي الشنيتزل؟",
+    "correct": "النمسا",
+    "options": [
+      "ألمانيا",
+      "النمسا",
+      "سويسرا",
+      "بلجيكا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/bratwurst.png",
+    "question": "من أي بلد يأتي البراتفورست؟",
+    "correct": "ألمانيا",
+    "options": [
+      "بولندا",
+      "الدنمارك",
+      "هولندا",
+      "ألمانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/crepe.png",
+    "question": "من أي بلد تأتي الكريب؟",
+    "correct": "فرنسا",
+    "options": [
+      "فرنسا",
+      "بلجيكا",
+      "إيطاليا",
+      "إسبانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/waffle.png",
+    "question": "من أي بلد تأتي الوافل؟",
+    "correct": "بلجيكا",
+    "options": [
+      "فرنسا",
+      "بلجيكا",
+      "هولندا",
+      "ألمانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/haggis.png",
+    "question": "من أي بلد يأتي الهاغيس؟",
+    "correct": "اسكتلندا",
+    "options": [
+      "أيرلندا",
+      "اسكتلندا",
+      "المملكة المتحدة",
+      "النرويج"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/fish_and_chips.png",
+    "question": "من أي بلد تأتي السمك والبطاطس؟",
+    "correct": "المملكة المتحدة",
+    "options": [
+      "كندا",
+      "أيرلندا",
+      "أستراليا",
+      "المملكة المتحدة"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/moussaka.png",
+    "question": "من أي بلد تأتي الموساكا؟",
+    "correct": "اليونان",
+    "options": [
+      "تركيا",
+      "اليونان",
+      "قبرص",
+      "إيطاليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/ceviche.png",
+    "question": "من أي بلد يأتي السيفيتشي؟",
+    "correct": "بيرو",
+    "options": [
+      "كولومبيا",
+      "شيلي",
+      "الإكوادور",
+      "بيرو"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/arepa.png",
+    "question": "من أي بلد تأتي الأريبا؟",
+    "correct": "فنزويلا",
+    "options": [
+      "البرازيل",
+      "كولومبيا",
+      "فنزويلا",
+      "المكسيك"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/pierogi.png",
+    "question": "من أي بلد تأتي البيروغي؟",
+    "correct": "بولندا",
+    "options": [
+      "أوكرانيا",
+      "بولندا",
+      "روسيا",
+      "ليتوانيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/borscht.png",
+    "question": "من أي بلد تأتي البورشت؟",
+    "correct": "أوكرانيا",
+    "options": [
+      "أوكرانيا",
+      "روسيا",
+      "بولندا",
+      "بيلاروسيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/pavlova.png",
+    "question": "من أي بلد تأتي البافلوفا؟",
+    "correct": "نيوزيلندا",
+    "options": [
+      "أستراليا",
+      "نيوزيلندا",
+      "المملكة المتحدة",
+      "كندا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/meat_pie.png",
+    "question": "من أي بلد تأتي فطيرة اللحم؟",
+    "correct": "أستراليا",
+    "options": [
+      "كندا",
+      "المملكة المتحدة",
+      "الولايات المتحدة",
+      "أستراليا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/bunny_chow.png",
+    "question": "من أي بلد يأتي باني تشاو؟",
+    "correct": "جنوب أفريقيا",
+    "options": [
+      "جنوب أفريقيا",
+      "كينيا",
+      "نيجيريا",
+      "غانا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/jollof_rice.png",
+    "question": "من أي بلد يأتي أرز جولوف؟",
+    "correct": "نيجيريا",
+    "options": [
+      "السنغال",
+      "غانا",
+      "نيجيريا",
+      "الكامرون"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/injera.png",
+    "question": "من أي بلد تأتي الإنجيرا؟",
+    "correct": "إثيوبيا",
+    "options": [
+      "كينيا",
+      "إثيوبيا",
+      "السودان",
+      "الصومال"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/samosa.png",
+    "question": "من أي بلد تأتي السمبوسة؟",
+    "correct": "الهند",
+    "options": [
+      "نيبال",
+      "باكستان",
+      "الهند",
+      "سريلانكا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pastilla.png",
+    "question": "من أي بلد تأتي البسطيلة؟",
+    "correct": "المغرب",
+    "options": [
+      "ليبيا",
+      "الجزائر",
+      "تونس",
+      "المغرب"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/dolma.png",
+    "question": "من أي بلد تأتي الدولمة؟",
+    "correct": "تركيا",
+    "options": [
+      "تركيا",
+      "اليونان",
+      "إيران",
+      "العراق"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/pancakes.png",
+    "question": "من أي بلد تأتي البانكيك؟",
+    "correct": "الولايات المتحدة",
+    "options": [
+      "الولايات المتحدة",
+      "كندا",
+      "فرنسا",
+      "المملكة المتحدة"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/risotto.png",
+    "question": "من أي بلد يأتي الريزوتو؟",
+    "correct": "إيطاليا",
+    "options": [
+      "البرتغال",
+      "إسبانيا",
+      "فرنسا",
+      "إيطاليا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/tiramisu.png",
+    "question": "من أي بلد يأتي التيراميسو؟",
+    "correct": "إيطاليا",
+    "options": [
+      "النمسا",
+      "فرنسا",
+      "إيطاليا",
+      "ألمانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/gyros.png",
+    "question": "من أي بلد يأتي الجيروس؟",
+    "correct": "اليونان",
+    "options": [
+      "قبرص",
+      "تركيا",
+      "اليونان",
+      "لبنان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/laksa.png",
+    "question": "من أي بلد تأتي اللاكسا؟",
+    "correct": "سنغافورة",
+    "options": [
+      "تايلاند",
+      "ماليزيا",
+      "سنغافورة",
+      "إندونيسيا"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/harira.png",
+    "question": "من أي بلد تأتي الحريرة؟",
+    "correct": "المغرب",
+    "options": [
+      "المغرب",
+      "الجزائر",
+      "تونس",
+      "مصر"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/fondue.png",
+    "question": "من أي بلد تأتي الفوندو؟",
+    "correct": "سويسرا",
+    "options": [
+      "ألمانيا",
+      "فرنسا",
+      "النمسا",
+      "سويسرا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/guacamole.jpg",
+    "question": "من أي بلد يأتي الغواكامولي؟",
+    "correct": "المكسيك",
+    "options": [
+      "كولومبيا",
+      "المكسيك",
+      "إسبانيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/churros.jpg",
+    "question": "من أي بلد تأتي الشوروس؟",
+    "correct": "إسبانيا",
+    "options": [
+      "البرتغال",
+      "المكسيك",
+      "إسبانيا",
+      "الأرجنتين"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/croissant.jpg",
+    "question": "من أي بلد يأتي الكرواسان؟",
+    "correct": "فرنسا",
+    "options": [
+      "فرنسا",
+      "النمسا",
+      "بلجيكا",
+      "إيطاليا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/focaccia.jpg",
+    "question": "من أي بلد تأتي الفوكاتشيا؟",
+    "correct": "إيطاليا",
+    "options": [
+      "اليونان",
+      "إيطاليا",
+      "إسبانيا",
+      "فرنسا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/macarons.jpg",
+    "question": "من أي بلد تأتي الماكارون؟",
+    "correct": "فرنسا",
+    "options": [
+      "إيطاليا",
+      "فرنسا",
+      "بلجيكا",
+      "سويسرا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/baklava.jpg",
+    "question": "من أي بلد تأتي البقلاوة؟",
+    "correct": "تركيا",
+    "options": [
+      "اليونان",
+      "لبنان",
+      "تركيا",
+      "إيران"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/spring_rolls.jpg",
+    "question": "من أي بلد تأتي لفائف الربيع؟",
+    "correct": "الصين",
+    "options": [
+      "فيتنام",
+      "الصين",
+      "تايلاند",
+      "اليابان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/fajitas.jpg",
+    "question": "من أي بلد تأتي الفاهيتاس؟",
+    "correct": "المكسيك",
+    "options": [
+      "إسبانيا",
+      "الولايات المتحدة",
+      "المكسيك",
+      "البرازيل"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/panna_cotta.jpg",
+    "question": "من أي بلد تأتي البانا كوتا؟",
+    "correct": "إيطاليا",
+    "options": [
+      "فرنسا",
+      "إسبانيا",
+      "إيطاليا",
+      "اليونان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/gazpacho.jpg",
+    "question": "من أي بلد يأتي الغازباتشو؟",
+    "correct": "إسبانيا",
+    "options": [
+      "البرتغال",
+      "إسبانيا",
+      "إيطاليا",
+      "المكسيك"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/tom_yum.jpg",
+    "question": "من أي بلد يأتي توم يم؟",
+    "correct": "تايلاند",
+    "options": [
+      "فيتنام",
+      "ماليزيا",
+      "تايلاند",
+      "كمبوديا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/peking_duck.jpg",
+    "question": "من أي بلد تأتي بطة بكين؟",
+    "correct": "الصين",
+    "options": [
+      "الصين",
+      "تايوان",
+      "كوريا الجنوبية",
+      "اليابان"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/chimichurri.jpg",
+    "question": "من أي بلد يأتي التشيميتشوري؟",
+    "correct": "الأرجنتين",
+    "options": [
+      "البرازيل",
+      "الأرجنتين",
+      "شيلي",
+      "بيرو"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/hummus.jpg",
+    "question": "من أي بلد يأتي الحمص؟",
+    "correct": "لبنان",
+    "options": [
+      "مصر",
+      "تركيا",
+      "لبنان",
+      "اليونان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/tempura.jpg",
+    "question": "من أي بلد تأتي التمبورا؟",
+    "correct": "اليابان",
+    "options": [
+      "الصين",
+      "كوريا الجنوبية",
+      "اليابان",
+      "تايوان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/udon.jpg",
+    "question": "من أي بلد تأتي الأودون؟",
+    "correct": "اليابان",
+    "options": [
+      "اليابان",
+      "الصين",
+      "فيتنام",
+      "تايلاند"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/gnocchi.jpg",
+    "question": "من أي بلد تأتي النيوكي؟",
+    "correct": "إيطاليا",
+    "options": [
+      "فرنسا",
+      "إيطاليا",
+      "ألمانيا",
+      "النمسا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/bruschetta.jpg",
+    "question": "من أي بلد تأتي البروسكيتا؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إسبانيا",
+      "اليونان",
+      "إيطاليا",
+      "البرتغال"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/souvlaki.jpg",
+    "question": "من أي بلد يأتي السوفلاكي؟",
+    "correct": "اليونان",
+    "options": [
+      "تركيا",
+      "لبنان",
+      "قبرص",
+      "اليونان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/churrasco.jpg",
+    "question": "من أي بلد يأتي التشوراسكو؟",
+    "correct": "البرازيل",
+    "options": [
+      "الأرجنتين",
+      "البرازيل",
+      "البرتغال",
+      "إسبانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pesto.jpg",
+    "question": "من أي بلد يأتي البيستو؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إيطاليا",
+      "فرنسا",
+      "اليونان",
+      "إسبانيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/bibimbap.jpg",
+    "question": "من أي بلد يأتي البيبيمباب؟",
+    "correct": "كوريا الجنوبية",
+    "options": [
+      "اليابان",
+      "الصين",
+      "كوريا الجنوبية",
+      "فيتنام"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/bulgogi.jpg",
+    "question": "من أي بلد يأتي البولغوغي؟",
+    "correct": "كوريا الجنوبية",
+    "options": [
+      "كوريا الجنوبية",
+      "اليابان",
+      "منغوليا",
+      "الصين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/naan.jpg",
+    "question": "من أي بلد يأتي الخبز النان؟",
+    "correct": "الهند",
+    "options": [
+      "باكستان",
+      "إيران",
+      "الهند",
+      "تركيا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/baba_ganoush.jpg",
+    "question": "من أي بلد يأتي بابا غنوج؟",
+    "correct": "لبنان",
+    "options": [
+      "لبنان",
+      "سوريا",
+      "الأردن",
+      "مصر"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/tamales.jpg",
+    "question": "من أي بلد تأتي التامالس؟",
+    "correct": "المكسيك",
+    "options": [
+      "كولومبيا",
+      "المكسيك",
+      "بيرو",
+      "غواتيمالا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/enchiladas.jpg",
+    "question": "من أي بلد تأتي الإنتشيلاداس؟",
+    "correct": "المكسيك",
+    "options": [
+      "المكسيك",
+      "إسبانيا",
+      "شيلي",
+      "هندوراس"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/baozi.jpg",
+    "question": "من أي بلد تأتي الباوزي؟",
+    "correct": "الصين",
+    "options": [
+      "اليابان",
+      "كوريا الجنوبية",
+      "الصين",
+      "تايوان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/mapo_tofu.jpg",
+    "question": "من أي بلد يأتي مابو توفو؟",
+    "correct": "الصين",
+    "options": [
+      "تايوان",
+      "الصين",
+      "اليابان",
+      "سنغافورة"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/miso_soup.jpg",
+    "question": "من أي بلد تأتي شوربة ميسو؟",
+    "correct": "اليابان",
+    "options": [
+      "الصين",
+      "كوريا الجنوبية",
+      "اليابان",
+      "تايلاند"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/tonkatsu.jpg",
+    "question": "من أي بلد يأتي التونكاتسو؟",
+    "correct": "اليابان",
+    "options": [
+      "اليابان",
+      "الصين",
+      "كوريا الجنوبية",
+      "فيتنام"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pad_kra_pao.jpg",
+    "question": "من أي بلد يأتي باد كرا باو؟",
+    "correct": "تايلاند",
+    "options": [
+      "فيتنام",
+      "تايلاند",
+      "لاوس",
+      "كمبوديا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/som_tum.jpg",
+    "question": "من أي بلد يأتي سوم تم؟",
+    "correct": "تايلاند",
+    "options": [
+      "ماليزيا",
+      "إندونيسيا",
+      "تايلاند",
+      "الفلبين"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/rendang.jpg",
+    "question": "من أي بلد يأتي الريندانغ؟",
+    "correct": "إندونيسيا",
+    "options": [
+      "ماليزيا",
+      "إندونيسيا",
+      "سنغافورة",
+      "بروناي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/gado_gado.jpg",
+    "question": "من أي بلد يأتي غادو غادو؟",
+    "correct": "إندونيسيا",
+    "options": [
+      "الفلبين",
+      "إندونيسيا",
+      "ماليزيا",
+      "تايلاند"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/roti_canai.jpg",
+    "question": "من أي بلد يأتي روتي كاناي؟",
+    "correct": "ماليزيا",
+    "options": [
+      "الهند",
+      "سريلانكا",
+      "ماليزيا",
+      "سنغافورة"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/chili_crab.jpg",
+    "question": "من أي بلد يأتي كراب الفلفل الحار؟",
+    "correct": "سنغافورة",
+    "options": [
+      "ماليزيا",
+      "سنغافورة",
+      "إندونيسيا",
+      "تايلاند"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/banh_mi.jpg",
+    "question": "من أي بلد يأتي البانه مي؟",
+    "correct": "فيتنام",
+    "options": [
+      "فيتنام",
+      "كمبوديا",
+      "لاوس",
+      "تايلاند"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/summer_rolls.jpg",
+    "question": "من أي بلد تأتي لفائف الصيف؟",
+    "correct": "فيتنام",
+    "options": [
+      "الصين",
+      "تايلاند",
+      "فيتنام",
+      "اليابان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/halo_halo.jpg",
+    "question": "من أي بلد يأتي هالو-هالو؟",
+    "correct": "الفلبين",
+    "options": [
+      "إندونيسيا",
+      "ماليزيا",
+      "الفلبين",
+      "هاواي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/adobo.jpg",
+    "question": "من أي بلد يأتي الأدوبو؟",
+    "correct": "الفلبين",
+    "options": [
+      "المكسيك",
+      "إسبانيا",
+      "الفلبين",
+      "كوبا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/lamington.jpg",
+    "question": "من أي بلد يأتي اللامينغتون؟",
+    "correct": "أستراليا",
+    "options": [
+      "نيوزيلندا",
+      "المملكة المتحدة",
+      "أستراليا",
+      "جنوب أفريقيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/vegemite.jpg",
+    "question": "من أي بلد يأتي الفيجيمايت؟",
+    "correct": "أستراليا",
+    "options": [
+      "المملكة المتحدة",
+      "نيوزيلندا",
+      "أستراليا",
+      "كندا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pretzel.jpg",
+    "question": "من أي بلد يأتي البريتزل؟",
+    "correct": "ألمانيا",
+    "options": [
+      "النمسا",
+      "ألمانيا",
+      "سويسرا",
+      "بلجيكا"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/stroopwafel.jpg",
+    "question": "من أي بلد يأتي السترووبوافل؟",
+    "correct": "هولندا",
+    "options": [
+      "بلجيكا",
+      "ألمانيا",
+      "هولندا",
+      "الدنمارك"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/cannoli.jpg",
+    "question": "من أي بلد تأتي الكانولي؟",
+    "correct": "إيطاليا",
+    "options": [
+      "إيطاليا",
+      "اليونان",
+      "فرنسا",
+      "إسبانيا"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/katsu_curry.jpg",
+    "question": "من أي بلد يأتي كاتسو كاري؟",
+    "correct": "اليابان",
+    "options": [
+      "الهند",
+      "المملكة المتحدة",
+      "اليابان",
+      "تايلاند"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/poke_bowl.jpg",
+    "question": "من أي بلد يأتي طبق البوكي؟",
+    "correct": "الولايات المتحدة",
+    "options": [
+      "اليابان",
+      "الولايات المتحدة",
+      "فيجي",
+      "الفلبين"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pao_de_queijo.jpg",
+    "question": "من أي بلد يأتي خبز الجبن البرازيلي؟",
+    "correct": "البرازيل",
+    "options": [
+      "البرتغال",
+      "البرازيل",
+      "الأرجنتين",
+      "كولومبيا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/biltong.jpg",
+    "question": "من أي بلد يأتي البيلتونغ؟",
+    "correct": "جنوب أفريقيا",
+    "options": [
+      "أستراليا",
+      "الولايات المتحدة",
+      "جنوب أفريقيا",
+      "نيوزيلندا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/sushi_roll.jpg",
+    "question": "من أي بلد تأتي لفائف السوشي؟",
+    "correct": "اليابان",
+    "options": [
+      "الصين",
+      "اليابان",
+      "كوريا",
+      "تايلاند"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/currywurst.jpg",
+    "question": "من أي بلد يأتي الكاري فورست؟",
+    "correct": "ألمانيا",
+    "options": [
+      "ألمانيا",
+      "النمسا",
+      "بولندا",
+      "هولندا"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/moules_frites.jpg",
+    "question": "من أي بلد تأتي مول-فريت؟",
+    "correct": "بلجيكا",
+    "options": [
+      "فرنسا",
+      "بلجيكا",
+      "هولندا",
+      "لوكسمبورغ"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/quesadilla.jpg",
+    "question": "من أي بلد تأتي الكيساديا؟",
+    "correct": "المكسيك",
+    "options": [
+      "المكسيك",
+      "إسبانيا",
+      "كولومبيا",
+      "بيرو"
+    ],
+    "difficulty": 1
+  },
+  {
+    "image": "img/food_images/ceviche_peru.jpg",
+    "question": "أي بلد اشتهر بالسيفيتشي بالأسماك المتبلة بالليمون؟",
+    "correct": "بيرو",
+    "options": [
+      "بيرو",
+      "الإكوادور",
+      "شيلي",
+      "المكسيك"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/pierogi_poland.jpg",
+    "question": "من أي بلد تأتي البيروغي المحشوة تقليدياً بالبطاطس والجبن؟",
+    "correct": "بولندا",
+    "options": [
+      "بولندا",
+      "أوكرانيا",
+      "روسيا",
+      "التشيك"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/ramen_bowl.jpg",
+    "question": "أي مدينة تشتهر برامن التونكوتسو؟",
+    "correct": "فوكوكا",
+    "options": [
+      "طوكيو",
+      "أوساكا",
+      "فوكوكا",
+      "كيوتو"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/tandoori.jpg",
+    "question": "من أي بلد تأتي الدجاجة التندورية؟",
+    "correct": "الهند",
+    "options": [
+      "باكستان",
+      "الهند",
+      "بنغلاديش",
+      "نيبال"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/gyoza.jpg",
+    "question": "من أي بلد تأتي الغيوزا؟",
+    "correct": "اليابان",
+    "options": [
+      "الصين",
+      "اليابان",
+      "كوريا",
+      "تايوان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/bouillabaisse.jpg",
+    "question": "أي مدينة فرنسية تشتهر بالبوياباس؟",
+    "correct": "مرسيليا",
+    "options": [
+      "نيس",
+      "مرسيليا",
+      "ليون",
+      "بوردو"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/mole_poblano.jpg",
+    "question": "من أي ولاية مكسيكية يأتي مولي بوبلانو؟",
+    "correct": "بويبلا",
+    "options": [
+      "واهاكا",
+      "بويبلا",
+      "خاليسكو",
+      "يوكاتان"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/tzatziki.jpg",
+    "question": "من أي بلد يأتي التزاتزيكي؟",
+    "correct": "اليونان",
+    "options": [
+      "تركيا",
+      "اليونان",
+      "قبرص",
+      "لبنان"
+    ],
+    "difficulty": 2
+  },
+  {
+    "image": "img/food_images/schnitzel.png",
+    "question": "ما نوع اللحم المستخدم في شنيتزل فيينا؟",
+    "correct": "لحم العجل",
+    "options": [
+      "لحم الخنزير",
+      "دجاج",
+      "لحم العجل",
+      "لحم البقر"
+    ],
+    "difficulty": 4
+  },
+  {
+    "image": "img/food_images/halal_cart.jpg",
+    "question": "أي مدينة تشتهر بدجاج العربة الحلال مع الأرز؟",
+    "correct": "نيويورك",
+    "options": [
+      "لندن",
+      "نيويورك",
+      "باريس",
+      "دبي"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/okonomiyaki.jpg",
+    "question": "من أي بلد يأتي الأوكونوميياكي؟",
+    "correct": "اليابان",
+    "options": [
+      "اليابان",
+      "كوريا",
+      "الصين",
+      "تايوان"
+    ],
+    "difficulty": 3
+  },
+  {
+    "image": "img/food_images/ceviche_leche_tigre.jpg",
+    "question": "ما هو 'ليتشي دي تيغري' في السيفيتشي البيروفي؟",
+    "correct": "ماريناد الحمضيات",
+    "options": [
+      "حليب جوز الهند",
+      "ماريناد الحمضيات",
+      "مرق السمك",
+      "صلصة الكريمة"
+    ],
+    "difficulty": 4
+  }
+]

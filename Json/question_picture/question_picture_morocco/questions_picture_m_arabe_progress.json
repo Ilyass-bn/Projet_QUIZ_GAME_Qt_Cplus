@@ -1,0 +1,1689 @@
+[
+  {
+    "question": "                 أين تقع حديقة ماجوريل؟ ",
+    "image": "img/picture_m/majorelle_garden.jpg",
+    "options": ["فاس", "مكناس", "مراكش", "شفشاون"],
+    "correct": "مراكش",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع جامعة القرويين؟ ",
+    "image": "img/picture_m/al_quaraouiyine.jpg",
+    "options": ["مراكش", "الرباط", "فاس", "الدار البيضاء"],
+    "correct": "فاس",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع كهوف هرقل؟ ",
+    "image": "img/picture_m/hercules_caves.jpg",
+    "options": ["طنجة", "أصيلا", "العرائش", "الحسيمة"],
+    "correct": "طنجة",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع مسجد الكتبية؟ ",
+    "image": "img/picture_m/koutoubia_mosque.jpg",
+    "options": ["الدار البيضاء", "الرباط", "مراكش", "فاس"],
+    "correct": "مراكش",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع شلالات عكشور؟ ",
+    "image": "img/picture_m/akchour_waterfalls.jpg",
+    "options": ["تطوان", "وزان", "طنجة", "شفشاون"],
+    "correct": "شفشاون",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع دباغة الشوارة؟ ",
+    "image": "img/picture_m/chouara_tannery.jpg",
+    "options": ["مراكش", "فاس", "الصويرة", "تطوان"],
+    "correct": "فاس",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع قصر آيت بنحدو؟ ",
+    "image": "img/picture_m/ait_benhaddou.jpg",
+    "options": ["زاكورة", "تنغير", "ورزازات", "الراشيدية"],
+    "correct": "ورزازات",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع شلالات أوزود؟ ",
+    "image": "img/picture_m/ouzoud_falls.jpg",
+    "options": ["إفران", "بني ملال", "مراكش", "أزيلال"],
+    "correct": "أزيلال",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع شاطئ لكزيرة؟ ",
+    "image": "img/picture_m/legzira_beach.jpg",
+    "options": ["سيدي إفني", "أكادير", "الداخلة", "تيزنيت"],
+    "correct": "سيدي إفني",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع الموقع الأثري وليلي؟ ",
+    "image": "img/picture_m/volubilis.jpg",
+    "options": ["فاس", "تازة", "مكناس", "الرباط"],
+    "correct": "مكناس",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع باب بوجلود؟ ",
+    "image": "img/picture_m/bab_boujloud.jpg",
+    "options": ["مكناس", "مراكش", "فاس", "تارودانت"],
+    "correct": "فاس",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع حدائق المنارة؟ ",
+    "image": "img/picture_m/menara_gardens.jpg",
+    "options": ["فاس", "مراكش", "مكناس", "الرباط"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع قصبة الأوداية؟ ",
+    "image": "img/picture_m/kasbah_udayas.jpg",
+    "options": ["الرباط", "طنجة", "الصويرة", "أصيلا"],
+    "correct": "الرباط",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع أوفيلا؟ ",
+    "image": "img/picture_m/agadir_oufella.jpg",
+    "options": ["الصويرة", "أكادير", "سيدي إفني", "تيزنيت"],
+    "correct": "أكادير",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع كثبان مرزوكة الرملية؟ ",
+    "image": "img/picture_m/merzouga_dunes.jpg",
+    "options": ["زاكورة", "أرفود", "مرزوكة", "ريصاني"],
+    "correct": "مرزوكة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع قصر الباهية؟ ",
+    "image": "img/picture_m/bahia_palace.jpg",
+    "options": ["فاس", "مكناس", "ورزازات", "مراكش"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع المتنزه الوطني؟ ",
+    "image": "img/picture_m/ifrane_national_park.jpg",
+    "options": ["أزرو", "خنيفرة", "ميدلت", "إفران"],
+    "correct": "إفران",
+    "difficulty": 2
+  },
+  { 
+    "question": "                 أين يقع قصر البديع؟ ",
+    "image": "img/picture_m/el_badi_palace.jpg",
+    "options": ["تارودانت", "مراكش", "تيزنيت", "كلميم"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع هذا الملعب الكبير؟ ",
+    "image": "img/picture_m/AlHoceima_Grand_Stadium.jpg",
+    "options": ["الحسيمة", "الناظور", "طنجة", "تطوان"],
+    "correct": "الحسيمة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين تقع كالا إيريس؟ ",
+    "image": "img/picture_m/cala_iris.jpg",
+    "options": ["الناظور", "الحسيمة", "السعيدية", "تطوان"],
+    "correct": "الحسيمة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا الميناء؟ ",
+    "image": "img/picture_m/minae_hoceima.jpg",
+    "options": ["طنجة", "الحسيمة", "أكادير", "الداخلة"],
+    "correct": "الحسيمة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا المتنزه الوطني؟",
+    "image": "img/picture_m/national_park.jpg",
+    "options": ["إفران", "سوس ماسة", "توبقال", "الحسيمة"],
+    "correct": "الحسيمة",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع شاطئ الصفيحة؟",
+    "image": "img/picture_m/safiha_beach.jpg",
+    "options": ["القنيطرة", "الحسيمة", "المحمدية", "بوزنيقة"],
+    "correct": "الحسيمة",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع سقالة المدينة؟",
+    "image": "img/picture_m/skala_de_la_ville.jpg",
+    "options": ["آسفي", "الصويرة", "الجديدة", "أكادير"],
+    "correct": "الصويرة",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع وادي تودرة؟",
+    "image": "img/picture_m/todra_gorge.jpg",
+    "options": ["تنغير", "ورزازات", "ميدلت", "الراشيدية"],
+    "correct": "تنغير",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع شالة؟",
+    "image": "img/picture_m/chellah_necropolis.jpg",
+    "options": ["سلا", "الدار البيضاء", "المحمدية", "الرباط"],
+    "correct": "الرباط",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع رأس سبارتيل؟",
+    "image": "img/picture_m/cap_spartel.jpg",
+    "options": ["تطوان", "طنجة", "الناظور", "الحسيمة"],
+    "correct": "طنجة",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع شاطئ تغازوت؟",
+    "image": "img/picture_m/taghazout_beach.jpg",
+    "options": ["تغازوت", "أكادير", "الصويرة", "ميرلفت"],
+    "correct": "تغازوت",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع الموقع الأثري لكسوس؟",
+    "image": "img/picture_m/lixus_site.jpg",
+    "options": ["العرائش", "أصيلا", "طنجة", "القنيطرة"],
+    "correct": "العرائش",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع سد بين الويدان؟",
+    "image": "img/picture_m/bin_el_ouidane.jpg",
+    "options": ["بني ملال", "خريبكة", "أزيلال", "سطات"],
+    "correct": "أزيلال",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع هذا المسجد العتيق؟",
+    "image": "img/picture_m/ancient_mosque.jpg",
+    "options": ["فاس", "إمزورن", "الحسيمة", "وجدة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ بادس؟",
+    "image": "img/picture_m/bades_beach.jpg",
+    "options": ["الحسيمة", "أكادير", "تطوان", "طنجة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع مسجد بوسكور؟",
+    "image": "img/picture_m/boscor_mosque.jpg",
+    "options": ["تيزنيت", "الحسيمة", "تارودانت", "شفشاون"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ بومهدي؟",
+    "image": "img/picture_m/boumahdi_beach.jpg",
+    "options": ["طنجة", "الحسيمة", "الرباط", "القنيطرة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ ماتاديرو؟",
+    "image": "img/picture_m/matadero_beach.jpg",
+    "options": ["تطوان", "الحسيمة", "الجديدة", "آسفي"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع موقع مزمة؟",
+    "image": "img/picture_m/mazama.jpg",
+    "options": ["إفران", "مكناس", "أكادير", "الحسيمة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين تقع حديقة ميرادور؟",
+    "image": "img/picture_m/Mirador_Garden.jpg",
+    "options": ["الرباط", "الحسيمة", "الدريوش", "الجديدة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ الرمود؟",
+    "image": "img/picture_m/Rmod_beach.jpg",
+    "options": ["الحسيمة", "الناظور", "الجبهة", "الدريوش"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ السواني؟",
+    "image": "img/picture_m/Souani_beach.jpg",
+    "options": ["الحسيمة", "طنجة", "تطوان", "الفنيدق"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع قصر تاوريرت؟",
+    "image": "img/picture_m/Taourirt_Castle.jpg",
+    "options": ["ورزازات", "تاوريرت", "الحسيمة", "زاكورة"],
+    "correct": "تاوريرت",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ تاوسارت؟",
+    "image": "img/picture_m/taousart_beach.jpg",
+    "options": ["تطوان", "الحسيمة", "الفنيدق", "مارتيل"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  { 
+    "question": "                  أين يقع شاطئ تيعث؟",
+    "image": "img/picture_m/Tayath_Beach.jpg",
+    "options": ["سيدي إفني", "كلميم", "ميرلفت", "الحسيمة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ ثارة يوسف؟",
+    "image": "img/picture_m/Thara_Youssef_beach.jpg",
+    "options": ["الحسيمة", "الناظور", "السعيدية", "طنجة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع شاطئ تورس؟",
+    "image": "img/picture_m/Torres_beach.jpg",
+    "options": ["شفشاون", "الحسيمة", "وجدة", "تازة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع قلعة تورس؟",
+    "image": "img/picture_m/torres_castle.jpg",
+    "options": ["طنجة", "الرباط", "سلا", "الحسيمة"],
+    "correct": "الحسيمة",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع هذا المكان؟",
+    "image": "img/picture_m/agadir_oufella.jpg",
+    "options": ["الصويرة", "أكادير", "سيدي إفني", "تيزنيت"],
+    "correct": "أكادير",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين يقع هذا الشاطئ؟",
+    "image": "img/picture_m/taghazout_beach.jpg",
+    "options": ["تغازوت", "أكادير", "الصويرة", "ميرلفت"],
+    "correct": "تغازوت",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين تقع وديان دادس؟",
+    "image": "img/picture_m/dades_gorges.jpg",
+    "options": ["تنغير", "بومالن دادس", "قلعة مكونة", "سكورة"],
+    "correct": "بومالن دادس",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع هذا المكان؟",
+    "image": "img/picture_m/dakhla_bay.jpg",
+    "options": ["العيون", "الداخلة", "بوجدور", "طرفاية"],
+    "correct": "الداخلة",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين تقع المدينة الزرقاء؟",
+    "image": "img/picture_m/chefchaouen_blue_city.jpg",
+    "options": ["تطوان", "شفشاون", "وزان", "العرائش"],
+    "correct": "شفشاون",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين تقع الأضرحة السعدية؟",
+    "image": "img/picture_m/saadian_tombs.jpg",
+    "options": ["فاس", "مكناس", "مراكش", "ورزازات"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين تقع مدرسة بو عنانية؟",
+    "image": "img/picture_m/bou_inania_madrasa.jpg",
+    "options": ["فاس", "الرباط", "مراكش", "تلمسان"],
+    "correct": "فاس",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع متحف دار الباطا؟",
+    "image": "img/picture_m/dar_batha_museum.jpg",
+    "options": ["مكناس", "مراكش", "فاس", "مولاي إدريس زرهون"],
+    "correct": "فاس",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين يقع هذا المكان؟",
+    "image": "img/picture_m/moulay_idriss_mausoleum.jpg",
+    "options": ["مكناس", "فاس", "الرباط", "مولاي إدريس زرهون"],
+    "correct": "مولاي إدريس زرهون",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع باب منصور؟",
+    "image": "img/picture_m/bab_mansour.jpg",
+    "options": ["فاس", "الرباط", "مراكش", "مكناس"],
+    "correct": "مكناس",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع هري السواني؟",
+    "image": "img/picture_m/heri_souani.jpg",
+    "options": ["فاس", "مراكش", "مكناس", "تازة"],
+    "correct": "مكناس",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع هذا المكان؟",
+    "image": "img/picture_m/asilah_ramparts.jpg",
+    "options": ["أصيلا", "طنجة", "العرائش", "القنيطرة"],
+    "correct": "أصيلا",
+    "difficulty": 3
+  },
+  {
+    "question": "                  أين توجد الصهريج البرتغالي؟",
+    "image": "img/picture_m/portuguese_cistern.jpg",
+    "options": ["أصيلا", "طنجة", "الجديدة", "الحسيمة"],
+    "correct": "الجديدة",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع مسجد سيدي بولعباس؟",
+    "image": "img/picture_m/sidi_boulbaba.jpg",
+    "options": ["سلا", "بني ملال", "الدار البيضاء", "الخميسات"],
+    "correct": "سلا",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين تقع شلالات أوزود؟",
+    "image": "img/picture_m/cascades_ouzoud.jpg",
+    "options": ["إفران", "بني ملال", "خنيفرة", "أزيلال"],
+    "correct": "أزيلال",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين تقع ساحة جامع الفنا؟",
+    "image": "img/picture_m/jemaa_el_fna.jpg",
+    "options": ["فاس", "الدار البيضاء", "الرباط", "مراكش"],
+    "correct": "مراكش",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين يقع مسجد القرويين؟",
+    "image": "img/picture_m/kairaouine_mosque.jpg",
+    "options": ["الرباط", "مكناس", "فاس", "الدار البيضاء"],
+    "correct": "فاس",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع هذا المكان؟",
+    "image": "img/picture_m/rabat_medina.jpg",
+    "options": ["الرباط", "مكناس", "سلا", "القنيطرة"],
+    "correct": "الرباط",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين يقع هذا المسجد؟",
+    "image": "img/picture_m/tinmel_mosque.jpg",
+    "options": ["أكادير", "أجدير", "تينمل", "تارودانت"],
+    "correct": "تينمل",
+    "difficulty": 4
+  },
+  {
+    "question": "                  أين يقع متحف تسكيوين؟",
+    "image": "img/picture_m/tiskiwin_museum.jpg",
+    "options": ["مراكش", "ورزازات", "فاس", "الرباط"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع متحف دار سي سعيد؟",
+    "image": "img/picture_m/dar_si_said.jpg",
+    "options": ["تينمل", "مكناس", "مراكش", "أكادير"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع شاطئ عين الذياب؟",
+    "image": "img/picture_m/ain_diab_beach.jpg",
+    "options": ["الرباط", "القنيطرة", "الجديدة", "الدار البيضاء"],
+    "correct": "الدار البيضاء",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين يقع هذا الكورنيش؟",
+    "image": "img/picture_m/casablanca_corniche.jpg",
+    "options": ["المحمدية", "القنيطرة", "الدار البيضاء", "أكادير"],
+    "correct": "الدار البيضاء",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين تقع جزيرة سيدي عبد الرحمان؟",
+    "image": "img/picture_m/sidi_abderrahmane.jpg",
+    "options": ["الرباط", "الدار البيضاء", "طنجة", "الجديدة"],
+    "correct": "الدار البيضاء",
+    "difficulty": 2
+  },
+  {
+    "question": "                  أين يقع خليج تمودة؟",
+    "image": "img/picture_m/tamuda_bay.jpg",
+    "options": ["الفنيدق", "تطوان", "مارتيل", "المضيق"],
+    "correct": "المضيق",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين يقع هذا الشاطئ؟",
+    "image": "img/picture_m/cabo_negro.jpg",
+    "options": ["تطوان", "كابو نيغرو", "طنجة", "الحسيمة"],
+    "correct": "كابو نيغرو",
+    "difficulty": 1
+  },
+  {
+    "question": "                  أين يقع هذا المكان؟",
+    "image": "img/picture_m/tetouan_medina.jpg",
+    "options": ["شفشاون", "طنجة", "تطوان", "الحسيمة"],
+    "correct": "تطوان",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع متحف الآثار؟",
+    "image": "img/picture_m/archaeology_museum_tetouan.jpg",
+    "options": ["تطوان", "شفشاون", "طنجة", "الحسيمة"],
+    "correct": "تطوان",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع السوق الكبير؟",
+    "image": "img/picture_m/grand_socco_tangier.jpg",
+    "options": ["أصيلا", "تطوان", "شفشاون", "طنجة"],
+    "correct": "طنجة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع متحف اللجنة الأمريكية بطنجة؟",
+    "image": "img/picture_m/american_legation_tangier.jpg",
+    "options": ["الحسيمة", "تازة", "طنجة", "العرائش"],
+    "correct": "طنجة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع منارة رأس مالاباطا؟",
+    "image": "img/picture_m/cape_malabata.jpg",
+    "options": ["سبتة", "تطوان", "طنجة", "الفنيدق"],
+    "correct": "طنجة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع شاطئ السعيدية؟",
+    "image": "img/picture_m/saidia_beach.jpg",
+    "options": ["الناظور", "الدريوش", "بركان", "السعيدية"],
+    "correct": "السعيدية",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين تقع البحيرة؟",
+    "image": "img/picture_m/nador_lagoon.jpg",
+    "options": ["أجدير", "الدريوش", "الحسيمة", "الناظور"],
+    "correct": "الناظور",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع شاطئ كارية أركمان؟",
+    "image": "img/picture_m/kariet_arkmane.jpg",
+    "options": ["الناظور", "الدريوش", "السعيدية", "الحسيمة"],
+    "correct": "الناظور",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع جبال بني سناسن؟",
+    "image": "img/picture_m/ben_snassen.jpg",
+    "options": ["الناظور", "الحسيمة", "وجدة", "بركان"],
+    "correct": "بركان",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع مصب نهر ملوية؟",
+    "image": "img/picture_m/moulouya_estuary.jpg",
+    "options": ["الصويرة", "السعيدية", "الدريوش", "تافراوت"],
+    "correct": "السعيدية",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/taza_gorge.jpg",
+    "options": ["الحسيمة", "مكناس", "فاس", "تازة"],
+    "correct": "تازة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا الكهف؟",
+    "image": "img/picture_m/friouato_cave.jpg",
+    "options": ["فاس", "الحسيمة", "مكناس", "تازة"],
+    "correct": "تازة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/oujda_medina.jpg",
+    "options": ["بركان", "تازة", "الناظور", "وجدة"],
+    "correct": "وجدة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/bou_arfa_desert.jpg",
+    "options": ["فكيك", "الراشيدية", "بوعرفة", "زاكورة"],
+    "correct": "بوعرفة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/figuig_oasis.jpg",
+    "options": ["وجدة", "بني ونيف", "فكيك", "الراشيدية"],
+    "correct": "فكيك",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/ziz_valley.jpg",
+    "options": ["زاكورة", "تنغير", "الراشيدية", "ميدلت"],
+    "correct": "الراشيدية",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين ينبع نهر زيز؟",
+    "image": "img/picture_m/ziz_source.jpg",
+    "options": ["الراشيدية", "ميدلت", "الريش", "بني ملال"],
+    "correct": "ميدلت",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين تقع أطلال سجلماسة؟",
+    "image": "img/picture_m/sijilmasa_ruins.jpg",
+    "options": ["ريصاني", "زاكورة", "أرفود", "الراشيدية"],
+    "correct": "ريصاني",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يُقام مهرجان التمر (تمار)؟",
+    "image": "img/picture_m/erfoud_date_festival.jpg",
+    "options": ["ريصاني", "زاكورة", "تنغير", "أرفود"],
+    "correct": "أرفود",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع وادي درعة؟",
+    "image": "img/picture_m/draa_valley.jpg",
+    "options": ["الراشيدية", "تنغير", "زاكورة", "ورزازات"],
+    "correct": "زاكورة",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/agdz_kasbah.jpg",
+    "options": ["زاكورة", "ورزازات", "تنغير", "أكدز"],
+    "correct": "أكدز",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/tamnougalt_kasbah.jpg",
+    "options": ["زاكورة", "تامنوغالت", "ورزازات", "أكدز"],
+    "correct": "تامنوغالت",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/skoura_palm_grove.jpg",
+    "options": ["سكورة", "بومالن دادس", "تنغير", "ورزازات"],
+    "correct": "سكورة",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين تقع استوديوهات أطلس للأفلام؟",
+    "image": "img/picture_m/atlas_film_studios.jpg",
+    "options": ["أكادير", "مراكش", "ورزازات", "الرباط"],
+    "correct": "ورزازات",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين تقع قصبة تاوريرت؟",
+    "image": "img/picture_m/taourirt_kasbah_ouarzazate.jpg",
+    "options": ["تنغير", "أكدز", "زاكورة", "ورزازات"],
+    "correct": "ورزازات",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع وادي الورود في قلعة مكونة؟",
+    "image": "img/picture_m/rose_valley.jpg",
+    "options": ["تنغير", "بومالن دادس", "سكورة", "قلعة مكونة"],
+    "correct": "قلعة مكونة",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين تقع غابة أرز أزرو؟",
+    "image": "img/picture_m/azrou_cedar_forest.jpg",
+    "options": ["إفران", "ميدلت", "خنيفرة", "أزرو"],
+    "correct": "أزرو",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين تقع بحيرة أكلمام أزيكزا؟",
+    "image": "img/picture_m/aguelmam_azigza.jpg",
+    "options": ["خنيفرة", "إفران", "أزرو", "ميدلت"],
+    "correct": "خنيفرة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع بحيرة أكلمام سيدي علي؟",
+    "image": "img/picture_m/aguelmam_sidi_ali.jpg",
+    "options": ["إفران", "ميدلت", "خنيفرة", "أزرو"],
+    "correct": "ميدلت",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/toubkal_summit.jpg",
+    "options": ["إفران", "شفشاون", "توبقال", "أوكايمدن"],
+    "correct": "توبقال",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/oukaïmeden_ski.jpg",
+    "options": ["أوكايمدن", "إفران", "أزرو", "ميدلت"],
+    "correct": "أوكايمدن",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع هذه الوادي؟",
+    "image": "img/picture_m/imlil_valley.jpg",
+    "options": ["تارودانت", "ورزازات", "تنغير", "إمليل"],
+    "correct": "إمليل",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع قصر آيت بنحدو؟",
+    "image": "img/picture_m/ait_benhaddou_ksar.jpg",
+    "options": ["زاكورة", "سكورة", "أكدز", "ورزازات"],
+    "correct": "ورزازات",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/oukaimeden_petroglyphs.jpg",
+    "options": ["أوكايمدن", "توبقال", "أكادير", "تارودانت"],
+    "correct": "أوكايمدن",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع وادي أملن؟",
+    "image": "img/picture_m/ameln_valley.jpg",
+    "options": ["تافراوت", "تيزنيت", "سيدي إفني", "أكادير"],
+    "correct": "تافراوت",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/tafraout_painted_rocks.jpg",
+    "options": ["كلميم", "تيزنيت", "أكادير", "تافراوت"],
+    "correct": "تافراوت",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا السوق؟",
+    "image": "img/picture_m/tiznit_silver_souq.jpg",
+    "options": ["أكادير", "كلميم", "سيدي إفني", "تيزنيت"],
+    "correct": "تيزنيت",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/sidi_ifni_colonial.jpg",
+    "options": ["تيزنيت", "أكادير", "سيدي إفني", "ميرلفت"],
+    "correct": "سيدي إفني",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا الشاطئ؟",
+    "image": "img/picture_m/mirleft_beach.jpg",
+    "options": ["ميرلفت", "تيزنيت", "سيدي إفني", "كلميم"],
+    "correct": "ميرلفت",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين تقع الشاطئ الأبيض؟",
+    "image": "img/picture_m/plage_blanche.jpg",
+    "options": ["أكادير", "سيدي إفني", "كلميم", "طان طان"],
+    "correct": "كلميم",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع هذا الشاطئ؟",
+    "image": "img/picture_m/tan_tan_plage.jpg",
+    "options": ["طرفاية", "العيون", "طان طان", "كلميم"],
+    "correct": "طان طان",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين تقع هذه المنارة؟",
+    "image": "img/picture_m/tarfaya_lighthouse.jpg",
+    "options": ["العيون", "طان طان", "طرفاية", "الداخلة"],
+    "correct": "طرفاية",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا الجامع الكبير؟",
+    "image": "img/picture_m/laayoune_mosque.jpg",
+    "options": ["الداخلة", "طان طان", "طرفاية", "العيون"],
+    "correct": "العيون",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/dakhla_kite.jpg",
+    "options": ["العيون", "طرفاية", "بوجدور", "الداخلة"],
+    "correct": "الداخلة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/tata_oases.jpg",
+    "options": ["كلميم", "أكادير", "زاكورة", "تاتا"],
+    "correct": "تاتا",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع حقل كثبان إرج الشبي؟",
+    "image": "img/picture_m/erg_chebbi.jpg",
+    "options": ["زاكورة", "ريصاني", "مرزوكة", "أرفود"],
+    "correct": "مرزوكة",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع إرج شكاكة؟",
+    "image": "img/picture_m/erg_chigaga.jpg",
+    "options": ["مرزوكة", "أرفود", "ريصاني", "مامد"],
+    "correct": "مامد",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا سوق الحد؟",
+    "image": "img/picture_m/agadir_souk.jpg",
+    "options": ["تيزنيت", "تارودانت", "أكادير", "إينزكان"],
+    "correct": "أكادير",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/taroudant_ramparts.jpg",
+    "options": ["أكادير", "تيزنيت", "ورزازات", "تارودانت"],
+    "correct": "تارودانت",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع هذه الأسواق؟",
+    "image": "img/picture_m/marrakech_souks.jpg",
+    "options": ["فاس", "الدار البيضاء", "مكناس", "مراكش"],
+    "correct": "مراكش",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع متحف إيف سان لوران؟",
+    "image": "img/picture_m/musee_ysl.jpg",
+    "options": ["الدار البيضاء", "الرباط", "الصويرة", "مراكش"],
+    "correct": "مراكش",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع مدرسة علي بن يوسف؟",
+    "image": "img/picture_m/ali_ben_youssef_madrasa.jpg",
+    "options": ["فاس", "الرباط", "مكناس", "مراكش"],
+    "correct": "مراكش",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع حدائق النخيل؟",
+    "image": "img/picture_m/marrakech_palmeraie.jpg",
+    "options": ["زاكورة", "أكادير", "ورزازات", "مراكش"],
+    "correct": "مراكش",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/essaouira_ramparts.jpg",
+    "options": ["أكادير", "آسفي", "الجديدة", "الصويرة"],
+    "correct": "الصويرة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين يُقام مهرجان موسيقى الكناوة؟",
+    "image": "img/picture_m/gnaoua_festival.jpg",
+    "options": ["الصويرة", "الدار البيضاء", "أكادير", "مراكش"],
+    "correct": "الصويرة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين تقع جزيرة موكادور؟",
+    "image": "img/picture_m/mogador_island.jpg",
+    "options": ["أكادير", "آسفي", "الجديدة", "الصويرة"],
+    "correct": "الصويرة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/el_jadida_ramparts.jpg",
+    "options": ["آسفي", "الصويرة", "الجديدة", "الدار البيضاء"],
+    "correct": "الجديدة",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع حي الفخار؟",
+    "image": "img/picture_m/safi_pottery.jpg",
+    "options": ["آسفي", "مراكش", "الصويرة", "الجديدة"],
+    "correct": "آسفي",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع قلعة دار البحر؟",
+    "image": "img/picture_m/dar_el_bahar.jpg",
+    "options": ["الجديدة", "الصويرة", "آسفي", "أصيلا"],
+    "correct": "آسفي",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع البحيرة؟",
+    "image": "img/picture_m/oualidia_lagoon.jpg",
+    "options": ["الجديدة", "آسفي", "الدار البيضاء", "أوليدية"],
+    "correct": "أوليدية",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع القصبة القديمة؟",
+    "image": "img/picture_m/khenifra_kasbah.jpg",
+    "options": ["بني ملال", "أزيلال", "خنيفرة", "ميدلت"],
+    "correct": "خنيفرة",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع قصبة رأس العين؟",
+    "image": "img/picture_m/beni_mellal_kasbah.jpg",
+    "options": ["خنيفرة", "أزيلال", "بني ملال", "سطات"],
+    "correct": "بني ملال",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع القصر الملكي؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["الدار البيضاء", "مكناس", "فاس", "الرباط"],
+    "correct": "الرباط",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين يقع المتحف الوطني للتاريخ والحضارات؟",
+    "image": "img/picture_m/musee_histoire_rabat.jpg",
+    "options": ["الدار البيضاء", "فاس", "الرباط", "سلا"],
+    "correct": "الرباط",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع الحدائق الاستوائية؟",
+    "image": "img/picture_m/jardins_exotiques.jpg",
+    "options": ["الرباط", "الدار البيضاء", "سلا", "بوقنادل"],
+    "correct": "بوقنادل",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع شاطئ الأمم؟",
+    "image": "img/picture_m/plage_des_nations.jpg",
+    "options": ["القنيطرة", "سلا", "المحمدية", "الرباط"],
+    "correct": "الرباط",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أين تقع غابة المعمورة؟",
+    "image": "img/picture_m/mamora_forest.jpg",
+    "options": ["الرباط", "سلا", "القنيطرة", "سيدي قاسم"],
+    "correct": "القنيطرة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع شاطئ مهدية؟",
+    "image": "img/picture_m/mehdia_beach.jpg",
+    "options": ["الرباط", "سلا", "المحمدية", "القنيطرة"],
+    "correct": "القنيطرة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أين تقع القصبة؟",
+    "image": "img/picture_m/larache_kasbah.jpg",
+    "options": ["أصيلا", "القنيطرة", "طنجة", "العرائش"],
+    "correct": "العرائش",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أين يقع هذا السوق؟",
+    "image": "img/picture_m/souk_el_arba.jpg",
+    "options": ["سيدي سليمان", "القنيطرة", "سيدي قاسم", "سوق الأربعاء"],
+    "correct": "سوق الأربعاء",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع هذا المكان؟",
+    "image": "img/picture_m/moulay_bousselham_lagoon.jpg",
+    "options": ["القنيطرة", "العرائش", "أصيلا", "مولاي بوسلهام"],
+    "correct": "مولاي بوسلهام",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين يقع شاطئ إيسلي؟",
+    "image": "img/picture_m/plage_isly.jpg",
+    "options": ["الناظور", "الدريوش", "السعيدية", "الحسيمة"],
+    "correct": "الحسيمة",
+    "difficulty": 1
+  },
+  {
+    "question": "                 من أسس الدولة الإدريسية في المغرب؟",
+    "image": "img/picture_m/moulay_idriss_mausoleum.jpg",
+    "options": ["إدريس الأول", "إدريس الثاني", "يوسف بن تاشفين", "عبد المؤمن"],
+    "correct": "إدريس الأول",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أين أسس إدريس الأول أول سلالة إسلامية في المغرب؟",
+    "image": "img/picture_m/moulay_idriss_mausoleum.jpg",
+    "options": ["فاس", "مراكش", "مكناس", "وليلي"],
+    "correct": "وليلي",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي سلالة أسست مدينة فاس عام 808 م؟",
+    "image": "img/picture_m/bab_boujloud.jpg",
+    "options": ["المرابطون", "الموحدون", "الأدارسة", "المرينيون"],
+    "correct": "الأدارسة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 ما هي أقدم جامعة في العالم؟",
+    "image": "img/picture_m/al_quaraouiyine.jpg",
+    "options": ["الأزهر", "القرويين", "بو عنانية", "دار الحديث"],
+    "correct": "القرويين",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي سلالة بنت مسجد الكتبية في مراكش؟",
+    "image": "img/picture_m/koutoubia_mosque.jpg",
+    "options": ["الأدارسة", "المرابطون", "الموحدون", "السعديون"],
+    "correct": "الموحدون",
+    "difficulty": 4
+  },
+  {
+    "question": "                 من أسس مدينة مراكش عام 1062 م؟",
+    "image": "img/picture_m/menara_gardens.jpg",
+    "options": ["عبد المؤمن", "يوسف بن تاشفين", "أحمد المنصور", "مولاي إسماعيل"],
+    "correct": "يوسف بن تاشفين",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي سلالة مغربية فتحت الأندلس في القرن 11؟",
+    "image": "img/picture_m/chefchaouen_blue_city.jpg",
+    "options": ["الموحدون", "المرينيون", "المرابطون", "السعديون"],
+    "correct": "المرابطون",
+    "difficulty": 4
+  },
+  {
+    "question": "                 ما كانت عاصمة الدولة الموحدية؟",
+    "image": "img/picture_m/koutoubia_mosque.jpg",
+    "options": ["فاس", "مكناس", "مراكش", "الرباط"],
+    "correct": "مراكش",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي سلالة بنت صومعة حسان بالرباط في القرن 12؟",
+    "image": "img/picture_m/rabat_medina.jpg",
+    "options": ["المرابطون", "المرينيون", "السعديون", "الموحدون"],
+    "correct": "الموحدون",
+    "difficulty": 2
+  },
+  {
+    "question": "                 مدرسة بو عنانية بفاس بناها أي سلالة؟",
+    "image": "img/picture_m/bou_inania_madrasa.jpg",
+    "options": ["السعديون", "المرينيون", "المرابطون", "الموحدون"],
+    "correct": "المرينيون",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي سلطان هزم البرتغال في معركة الملوك الثلاثة؟",
+    "image": "img/picture_m/el_badi_palace.jpg",
+    "options": ["مولاي إسماعيل", "أحمد المنصور", "عبد الملك", "محمد الشيخ"],
+    "correct": "عبد الملك",
+    "difficulty": 4
+  },
+  {
+    "question": "                 قصر البديع بمراكش بناه أي سلطان سعدي؟",
+    "image": "img/picture_m/el_badi_palace.jpg",
+    "options": ["محمد الشيخ", "أحمد المنصور", "مولاي إسماعيل", "مولاي رشيد"],
+    "correct": "أحمد المنصور",
+    "difficulty": 2
+  },
+  {
+    "question": "                 في أي عام أُعيد اكتشاف الأضرحة السعدية؟",
+    "image": "img/picture_m/saadian_tombs.jpg",
+    "options": ["1917", "1925", "1930", "1945"],
+    "correct": "1917",
+    "difficulty": 4
+  },
+  {
+    "question": "                 من أسس الأسرة العلوية التي تحكم المغرب حتى اليوم؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["مولاي إسماعيل", "مولاي رشيد", "محمد الأول", "مولاي علي الشريف"],
+    "correct": "مولاي علي الشريف",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي سلطان جعل مكناس عاصمته الإمبراطورية؟",
+    "image": "img/picture_m/bab_mansour.jpg",
+    "options": ["مولاي رشيد", "مولاي إسماعيل", "محمد الثالث", "مولاي سليمان"],
+    "correct": "مولاي إسماعيل",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي سلطان أتم بناء باب منصور؟",
+    "image": "img/picture_m/bab_mansour.jpg",
+    "options": ["مولاي إسماعيل", "مولاي عبد الله", "محمد الثالث", "مولاي سليمان"],
+    "correct": "مولاي عبد الله",
+    "difficulty": 2
+  },
+  {
+    "question": "                 هري السواني بمكناس بُني لتخزين ماذا؟",
+    "image": "img/picture_m/heri_souani.jpg",
+    "options": ["الماء", "الذهب", "الحبوب والطعام", "الأسلحة"],
+    "correct": "الحبوب والطعام",
+    "difficulty": 4
+  },
+  {
+    "question": "                 في أي عام أصبح المغرب محمية فرنسية وإسبانية؟",
+    "image": "img/picture_m/sidi_ifni_colonial.jpg",
+    "options": ["1904", "1912", "1920", "1930"],
+    "correct": "1912",
+    "difficulty": 2
+  },
+  {
+    "question": "                 من وقّع معاهدة فاس 1912 باسم المغرب؟",
+    "image": "img/picture_m/bab_boujloud.jpg",
+    "options": ["الحسن الأول", "عبد العزيز", "مولاي حفيظ", "محمد الخامس"],
+    "correct": "مولاي حفيظ",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي ملك مغربي قاد البلاد نحو الاستقلال عام 1956؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["الحسن الثاني", "محمد الخامس", "محمد السادس", "مولاي عبد الله"],
+    "correct": "محمد الخامس",
+    "difficulty": 1
+  },
+  {
+    "question": "                 في أي عام نال المغرب استقلاله عن فرنسا؟",
+    "image": "img/picture_m/rabat_medina.jpg",
+    "options": ["1952", "1954", "1956", "1960"],
+    "correct": "1956",
+    "difficulty": 1
+  },
+  {
+    "question": "                 من كان أول مقيم عام فرنسي في المغرب؟",
+    "image": "img/picture_m/sidi_ifni_colonial.jpg",
+    "options": ["الجنرال ليوطي", "الجنرال ديغول", "الجنرال فوش", "الجنرال جوفر"],
+    "correct": "الجنرال ليوطي",
+    "difficulty": 2
+  },
+  {
+    "question": "                 لكسوس كانت في الأصل مستوطنة لأي حضارة قديمة؟",
+    "image": "img/picture_m/lixus_site.jpg",
+    "options": ["الرومان", "الإغريق", "الفينيقيون", "القرطاجيون"],
+    "correct": "الفينيقيون",
+    "difficulty": 3
+  },
+  {
+    "question": "                 في أي قرن بلغت المدينة الرومانية وليلي ذروتها؟",
+    "image": "img/picture_m/volubilis.jpg",
+    "options": ["القرن 1 ق م", "القرن 2-3 م", "القرن 4 م", "القرن 5 م"],
+    "correct": "القرن 2-3 م",
+    "difficulty": 3
+  },
+  {
+    "question": "                 شالة بُنيت على أنقاض أي مدينة قديمة؟",
+    "image": "img/picture_m/chellah_necropolis.jpg",
+    "options": ["لكسوس", "سلا كولونيا", "وليلي", "تنجيس"],
+    "correct": "سلا كولونيا",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي رحالة من طنجة اشتُهر برحلاته حول العالم؟",
+    "image": "img/picture_m/grand_socco_tangier.jpg",
+    "options": ["الإدريسي", "ابن خلدون", "ابن بطوطة", "ليو الأفريقي"],
+    "correct": "ابن بطوطة",
+    "difficulty": 1
+  },
+  {
+    "question": "                 كانت سجلماسة مركزاً مهماً على أي طريق تجاري؟",
+    "image": "img/picture_m/sijilmasa_ruins.jpg",
+    "options": ["الحرير", "الصحراء الكبرى", "البحر الأبيض المتوسط", "التوابل"],
+    "correct": "طريق الصحراء الكبرى",
+    "difficulty": 2
+  },
+  {
+    "question": "                 في أي قرن بُنيت قصبة الأوداية بالرباط؟",
+    "image": "img/picture_m/kasbah_udayas.jpg",
+    "options": ["القرن 10", "القرن 12", "القرن 14", "القرن 16"],
+    "correct": "القرن 12",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي عالم ديني أسس حركة الموحدين؟",
+    "image": "img/picture_m/tinmel_mosque.jpg",
+    "options": ["أحمد المنصور", "ابن تومرت", "يوسف بن تاشفين", "أبو يوسف يعقوب"],
+    "correct": "ابن تومرت",
+    "difficulty": 2
+  },
+  {
+    "question": "                 مسجد تينمل كان مهد أي سلالة؟",
+    "image": "img/picture_m/tinmel_mosque.jpg",
+    "options": ["المرابطون", "المرينيون", "الموحدون", "السعديون"],
+    "correct": "الموحدون",
+    "difficulty": 3
+  },
+  {
+    "question": "                 في أي قرن بنى البرتغاليون صهريج الجديدة؟",
+    "image": "img/picture_m/portuguese_cistern.jpg",
+    "options": ["القرن 14", "القرن 15", "القرن 16", "القرن 17"],
+    "correct": "القرن 16",
+    "difficulty": 4
+  },
+  {
+    "question": "                 سقالة المدينة بالصويرة بُنيت للدفاع ضد هجمات من أي اتجاه؟",
+    "image": "img/picture_m/skala_de_la_ville.jpg",
+    "options": ["الشرق (البر)", "الغرب (الأطلسي)", "الجنوب", "الشمال"],
+    "correct": "الغرب (الأطلسي)",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي سلطان مغربي بنى الصويرة كمدينة مخططة في القرن 18؟",
+    "image": "img/picture_m/mogador_island.jpg",
+    "options": ["مولاي إسماعيل", "مولاي عبد الله", "محمد الثالث", "مولاي سليمان"],
+    "correct": "محمد الثالث",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أسوار أصيلا بناها أصلاً أي طرف أوروبي؟",
+    "image": "img/picture_m/asilah_ramparts.jpg",
+    "options": ["الإسبان", "الفرنسيون", "البريطانيون", "البرتغاليون"],
+    "correct": "البرتغاليون",
+    "difficulty": 2
+  },
+  {
+    "question": "                 المغرب كان أول دولة تفعل ماذا للولايات المتحدة؟",
+    "image": "img/picture_m/american_legation_tangier.jpg",
+    "options": ["الاعتراف بالاستقلال", "توقيع اتفاقية تجارية", "استضافة جامعة", "بناء سفارة"],
+    "correct": "الاعتراف بالاستقلال",
+    "difficulty": 2
+  },
+  {
+    "question": "                 متى اعترف المغرب باستقلال الولايات المتحدة؟",
+    "image": "img/picture_m/american_legation_tangier.jpg",
+    "options": ["1776", "1777", "1783", "1800"],
+    "correct": "1777",
+    "difficulty": 4
+  },
+  {
+    "question": "                 في أي عام وقعت معركة الملوك الثلاثة؟",
+    "image": "img/picture_m/larache_kasbah.jpg",
+    "options": ["1492", "1578", "1610", "1672"],
+    "correct": "1578",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي سلالة بنت قصر دار الباطا بفاس؟",
+    "image": "img/picture_m/dar_batha_museum.jpg",
+    "options": ["المرينيون", "السعديون", "العلويون", "الموحدون"],
+    "correct": "العلويون",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي ملك مغربي بنى المسجد الكبير بالدار البيضاء؟",
+    "image": "img/picture_m/ain_diab_beach.jpg",
+    "options": ["محمد الخامس", "الحسن الأول", "الحسن الثاني", "محمد السادس"],
+    "correct": "الحسن الثاني",
+    "difficulty": 1
+  },
+  {
+    "question": "                 كان آيت بنحدو محطة رئيسية على أي طريق تجاري تاريخي؟",
+    "image": "img/picture_m/ait_benhaddou.jpg",
+    "options": ["طريق الحرير", "طريق الصحراء الكبرى", "الطريق الروماني", "الطريق الساحلي"],
+    "correct": "طريق الصحراء الكبرى",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي رسام فرنسي أنشأ الحديقة الزرقاء الشهيرة بمراكش؟",
+    "image": "img/picture_m/majorelle_garden.jpg",
+    "options": ["هنري ماتيس", "جاك ماجوريل", "أوجين دولاكروا", "بول غوغان"],
+    "correct": "جاك ماجوريل",
+    "difficulty": 3
+  },
+  {
+    "question": "                 دباغة الشوارة بفاس تعمل منذ أي قرن؟",
+    "image": "img/picture_m/chouara_tannery.jpg",
+    "options": ["القرن 9", "القرن 11", "القرن 14", "القرن 16"],
+    "correct": "القرن 11",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي مدينة مغربية كانت عاصمة الدولة المرينية؟",
+    "image": "img/picture_m/bab_boujloud.jpg",
+    "options": ["مراكش", "فاس", "مكناس", "الرباط"],
+    "correct": "فاس",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أي سلالة بنت أصلاً مدرسة علي بن يوسف؟",
+    "image": "img/picture_m/ali_ben_youssef_madrasa.jpg",
+    "options": ["المرابطون", "المرينيون", "السعديون", "العلويون"],
+    "correct": "المرينيون",
+    "difficulty": 2
+  },
+  {
+    "question": "                 السلالة السعدية نشأت من أي منطقة في المغرب؟",
+    "image": "img/picture_m/draa_valley.jpg",
+    "options": ["جبال الريف", "وادي درعة", "وادي سوس", "فكيك"],
+    "correct": "وادي درعة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 في أي عام أصبح الحسن الثاني ملكاً للمغرب؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["1956", "1961", "1965", "1970"],
+    "correct": "1961",
+    "difficulty": 3
+  },
+  {
+    "question": "                 في أي عام أصبح محمد السادس ملكاً للمغرب؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["1995", "1997", "1999", "2001"],
+    "correct": "1999",
+    "difficulty": 1
+  },
+  {
+    "question": "                 نُظمت المسيرة الخضراء عام 1975 للمطالبة بأي إقليم؟",
+    "image": "img/picture_m/dakhla_bay.jpg",
+    "options": ["سبتة ومليلية", "الصحراء الغربية", "موريتانيا", "تندوف"],
+    "correct": "الصحراء الغربية",
+    "difficulty": 2
+  },
+  {
+    "question": "                 من قاد المسيرة الخضراء عام 1975؟",
+    "image": "img/picture_m/laayoune_mosque.jpg",
+    "options": ["محمد الخامس", "محمد السادس", "الحسن الثاني", "ولي العهد عبد الله"],
+    "correct": "الحسن الثاني",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أي قوى حاربت المغرب في حرب الريف (1921-1926)؟",
+    "image": "img/picture_m/AlHoceima_Grand_Stadium.jpg",
+    "options": ["فرنسا وبريطانيا", "إسبانيا وفرنسا", "البرتغال وإسبانيا", "إيطاليا وفرنسا"],
+    "correct": "إسبانيا وفرنسا",
+    "difficulty": 1
+  },
+  {
+    "question": "                 من قاد مقاومة الريف ضد الاستعمار الإسباني في العشرينات؟",
+    "image": "img/picture_m/national_park.jpg",
+    "options": ["علال الفاسي", "محمد الخامس", "عبد الكريم الخطابي", "مولاي إدريس"],
+    "correct": "عبد الكريم الخطابي",
+    "difficulty": 1
+  },
+  {
+    "question": "                 متى تأسس حزب الاستقلال؟",
+    "image": "img/picture_m/rabat_medina.jpg",
+    "options": ["1934", "1943", "1948", "1952"],
+    "correct": "1943",
+    "difficulty": 1
+  },
+  {
+    "question": "                 إلى أي دولة نُفي الملك محمد الخامس عام 1953؟",
+    "image": "img/picture_m/menara_gardens.jpg",
+    "options": ["الجزائر", "السنغال", "مدغشقر", "تونس"],
+    "correct": "مدغشقر",
+    "difficulty": 2
+  },
+  {
+    "question": "                 زلزال أكادير عام 1960 وقع في عهد أي حاكم؟",
+    "image": "img/picture_m/agadir_oufella.jpg",
+    "options": ["الحسن الأول", "محمد الخامس", "الحسن الثاني", "محمد السادس"],
+    "correct": "محمد الخامس",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أكادير أوفيلا هي أطلال قصبة قديمة. في أي قرن بُنيت أصلاً؟",
+    "image": "img/picture_m/agadir_oufella.jpg",
+    "options": ["القرن 12", "القرن 14", "القرن 16", "القرن 18"],
+    "correct": "القرن 16",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أطلق الفينيقيون على مدينة طنجة أي اسم قديم؟",
+    "image": "img/picture_m/grand_socco_tangier.jpg",
+    "options": ["سلا", "تنجيس", "لكسوس", "وليلي"],
+    "correct": "تنجيس",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي ملك قديم يرتبط بأسطورة كهوف هرقل؟",
+    "image": "img/picture_m/hercules_caves.jpg",
+    "options": ["يوغرطة", "يوبا الثاني", "تاكفاريناس", "ماسينيسا"],
+    "correct": "يوبا الثاني",
+    "difficulty": 4
+  },
+  {
+    "question": "                 في أي عام أُدرجت وليلي ضمن مواقع التراث العالمي لليونسكو؟",
+    "image": "img/picture_m/volubilis.jpg",
+    "options": ["1982", "1990", "1997", "2001"],
+    "correct": "1997",
+    "difficulty": 3
+  },
+  {
+    "question": "                 وصلت الدولة المرينية إلى السلطة في المغرب في أي قرن؟",
+    "image": "img/picture_m/bou_inania_madrasa.jpg",
+    "options": ["القرن 11", "القرن 12", "القرن 13", "القرن 14"],
+    "correct": "القرن 13",
+    "difficulty": 4
+  },
+  {
+    "question": "                 في أي عام أُعيدت سيدي إفني إلى المغرب؟",
+    "image": "img/picture_m/sidi_ifni_colonial.jpg",
+    "options": ["1956", "1960", "1969", "1975"],
+    "correct": "1969",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي ميناء كان مركز التجارة السعدية مع أفريقيا جنوب الصحراء؟",
+    "image": "img/picture_m/draa_valley.jpg",
+    "options": ["أكادير", "الصويرة", "آسفي", "الدار البيضاء"],
+    "correct": "أكادير",
+    "difficulty": 3
+  },
+  {
+    "question": "                 بدأت حركة المرابطين في أي منطقة؟",
+    "image": "img/picture_m/plage_blanche.jpg",
+    "options": ["جبال الريف", "جبال الأطلس الصغير", "منطقة الصحراء ونهر السنغال", "وادي درعة"],
+    "correct": "منطقة الصحراء ونهر السنغال",
+    "difficulty": 4
+  },
+  {
+    "question": "                 اعتُمد أول دستور مغربي في أي عام؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["1956", "1962", "1970", "1976"],
+    "correct": "1962",
+    "difficulty": 3
+  },
+  {
+    "question": "                 قصر دار سي سعيد بمراكش ينتمي لأي سلالة؟",
+    "image": "img/picture_m/dar_si_said.jpg",
+    "options": ["السعديون", "المرينيون", "العلويون", "الموحدون"],
+    "correct": "العلويون",
+    "difficulty": 3
+  },
+  {
+    "question": "                 مدينة فاس أُسست في أي عام؟",
+    "image": "img/picture_m/bab_boujloud.jpg",
+    "options": ["700 م", "789 م", "808 م", "850 م"],
+    "correct": "789 م",
+    "difficulty": 4
+  },
+  {
+    "question": "                 النقوش الصخرية الأمازيغية القديمة في أوكايمدن تعود إلى أي حقبة تقريباً؟",
+    "image": "img/picture_m/oukaimeden_petroglyphs.jpg",
+    "options": ["3000-1000 ق م", "1000-500 ق م", "500 ق م-0", "القرن 1-3 م"],
+    "correct": "3000-1000 ق م",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي سلطان أغلق الأضرحة السعدية لطمس ذكراها؟",
+    "image": "img/picture_m/saadian_tombs.jpg",
+    "options": ["مولاي رشيد", "مولاي إسماعيل", "محمد الثالث", "مولاي سليمان"],
+    "correct": "مولاي إسماعيل",
+    "difficulty": 1
+  },
+  {
+    "question": "                 من أدار طنجة كمنطقة دولية من 1923 إلى 1956؟",
+    "image": "img/picture_m/cap_spartel.jpg",
+    "options": ["فرنسا", "بريطانيا", "لجنة مشتركة", "إسبانيا"],
+    "correct": "لجنة مشتركة",
+    "difficulty": 2
+  },
+  {
+    "question": "                 ما معنى اسم قصر 'الباهية' بمراكش؟",
+    "image": "img/picture_m/bahia_palace.jpg",
+    "options": ["قصر الحكمة", "قصر البهاء", "قصر البحر", "قصر الملوك"],
+    "correct": "قصر البهاء",
+    "difficulty": 4
+  },
+  {
+    "question": "                 متى أُدرجت ساحة جامع الفنا ضمن تراث اليونسكو غير المادي؟",
+    "image": "img/picture_m/jemaa_el_fna.jpg",
+    "options": ["1985", "1996", "2001", "2008"],
+    "correct": "2001",
+    "difficulty": 4
+  },
+  {
+    "question": "                 الدولة المرابطية اشتُهرت ببناء أول مسجد كبير بمراكش. ما اسمه؟",
+    "image": "img/picture_m/menara_gardens.jpg",
+    "options": ["مسجد الكتبية", "مسجد ابن يوسف", "مسجد القبة", "مسجد تينمل"],
+    "correct": "مسجد ابن يوسف",
+    "difficulty": 3
+  },
+  {
+    "question": "                 مسجد القرويين بفاس من أكبر المساجد في أفريقيا. أي سلالة بنته؟",
+    "image": "img/picture_m/kairaouine_mosque.jpg",
+    "options": ["الموحدون", "الأدارسة", "المرينيون", "المرابطون"],
+    "correct": "الأدارسة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 في أي عام تنازلت إسبانيا عن إقليم طرفاية للمغرب؟",
+    "image": "img/picture_m/tarfaya_lighthouse.jpg",
+    "options": ["1956", "1958", "1969", "1975"],
+    "correct": "1958",
+    "difficulty": 4
+  },
+  {
+    "question": "                 مسجد تينمل في الأطلس الكبير بُني في أي قرن؟",
+    "image": "img/picture_m/tinmel_mosque.jpg",
+    "options": ["القرن 10", "القرن 11", "القرن 12", "القرن 13"],
+    "correct": "القرن 12",
+    "difficulty": 3
+  },
+  {
+    "question": "                 خدمت شالة بالرباط مقبرة ملكية لأي سلالة؟",
+    "image": "img/picture_m/chellah_necropolis.jpg",
+    "options": ["الموحدون", "السعديون", "المرينيون", "المرابطون"],
+    "correct": "المرينيون",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي مدينة تجارية مغربية قديمة على طرق الصحراء تأسست نحو القرن 8 قرب ريصاني الحالية؟",
+    "image": "img/picture_m/sijilmasa_ruins.jpg",
+    "options": ["درعة", "أغمات", "سجلماسة", "تامدولت"],
+    "correct": "سجلماسة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 الصهريج البرتغالي بالجديدة بُني أصلاً كنوع من أي منشأة؟",
+    "image": "img/picture_m/portuguese_cistern.jpg",
+    "options": ["مسجد", "مخزن أسلحة", "كنيسة", "مستودع"],
+    "correct": "كنيسة",
+    "difficulty": 3
+  },
+  {
+    "question": "                 أي معركة عام 1844 أجبرت المغرب على وقف دعم الجزائريين؟",
+    "image": "img/picture_m/oujda_medina.jpg",
+    "options": ["معركة إيسلي", "معركة وجدة", "معركة تازة", "معركة سيدي براهيم"],
+    "correct": "معركة إيسلي",
+    "difficulty": 1
+  },
+  {
+    "question": "                 في أي عام أُعلنت جمهورية الريف على يد عبد الكريم؟",
+    "image": "img/picture_m/AlHoceima_Grand_Stadium.jpg",
+    "options": ["1919", "1921", "1923", "1926"],
+    "correct": "1921",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي مدينة كانت العاصمة إبان الحماية الفرنسية؟",
+    "image": "img/picture_m/rabat_royal_palace.jpg",
+    "options": ["الدار البيضاء", "فاس", "مراكش", "الرباط"],
+    "correct": "الرباط",
+    "difficulty": 1
+  },
+  {
+    "question": "                 الحركة الوطنية المغربية (السلفية) كانت تتمركز أساساً في أي مدينة؟",
+    "image": "img/picture_m/bab_boujloud.jpg",
+    "options": ["الدار البيضاء", "الرباط", "فاس", "مكناس"],
+    "correct": "فاس",
+    "difficulty": 2
+  },
+  {
+    "question": "                 أي سلطان استولى على العرش خلال أزمة الحفيظية عام 1907؟",
+    "image": "img/picture_m/bab_mansour.jpg",
+    "options": ["محمد الخامس", "عبد العزيز", "الحسن الأول", "مولاي حفيظ"],
+    "correct": "مولاي حفيظ",
+    "difficulty": 3
+  },
+  {
+    "question": "                 عُقد مؤتمر الجزيرة الخضراء عام 1906 لمناقشة مستقبل أي دولة؟",
+    "image": "img/picture_m/cap_spartel.jpg",
+    "options": ["الجزائر", "تونس", "المغرب", "ليبيا"],
+    "correct": "المغرب",
+    "difficulty": 1
+  },
+  {
+    "question": "                 في أي قرن بُني قصر دار الباطا بفاس؟",
+    "image": "img/picture_m/dar_batha_museum.jpg",
+    "options": ["القرن 17", "القرن 18", "القرن 19", "القرن 20"],
+    "correct": "القرن 19",
+    "difficulty": 2
+  },
+  {
+    "question": "                 سنة تصنيف مدينة مراكش في اليونسكو؟",
+    "image": "img/picture_m/marrakech_souks.jpg",
+    "options": ["1978", "1985", "1992", "2000"],
+    "correct": "1985",
+    "difficulty": 2
+  },
+  {
+    "question": "                 سنة تصنيف فاس البالي في اليونسكو؟",
+    "image": "img/picture_m/dar_batha_museum.jpg",
+    "options": ["1980", "1981", "1985", "1990"],
+    "correct": "1981",
+    "difficulty": 3
+  },
+  {
+    "question": "                 سنة تصنيف مدينة تطوان في اليونسكو؟",
+    "image": "img/picture_m/tetouan_medina.jpg",
+    "options": ["1990", "1995", "1997", "2000"],
+    "correct": "1997",
+    "difficulty": 3
+  },
+  {
+    "question": "                 ما التقليد الذي يُحيي موسم أصيلا؟",
+    "image": "img/picture_m/asilah_ramparts.jpg",
+    "options": ["التجارة الفينيقية", "الثقافة الأندلسية", "الموسيقى الأمازيغية", "التراث البرتغالي"],
+    "correct": "الثقافة الأندلسية",
+    "difficulty": 4
+  },
+  {
+    "question": "                 أي سلطان لُقب بـ'الذهبي'؟",
+    "image": "img/picture_m/el_badi_palace.jpg",
+    "options": ["مولاي إسماعيل", "أحمد المنصور", "محمد الثالث", "مولاي رشيد"],
+    "correct": "أحمد المنصور",
+    "difficulty": 1
+  },
+  {
+    "question": "                 من أسس متحف تسكيوين؟",
+    "image": "img/picture_m/tiskiwin_museum.jpg",
+    "options": ["بيرت فلينت", "يان فان دير بيرغ", "بيت موندريان", "ويليم دي كونينغ"],
+    "correct": "بيرت فلينت",
+    "difficulty": 2
+  },
+  {
+    "question": "                 شعب الكناوة من أحفاد أي فئة تاريخية؟",
+    "image": "img/picture_m/gnaoua_festival.jpg",
+    "options": ["الرُّحَّل", "العبيد المُحرَّرون", "اللاجئون", "المستوطنون"],
+    "correct": "العبيد المُحرَّرون",
+    "difficulty": 3
+  },
+  {
+    "question": "                 لماذا توقف بناء صومعة حسان؟",
+    "image": "img/picture_m/kasbah_udayas.jpg",
+    "options": ["نفاد الأموال", "وفاة السلطان", "زلزال", "غزو"],
+    "correct": "وفاة السلطان",
+    "difficulty": 2
+  },
+  {
+    "question": "                 في أي عام افتُتح متحف التاريخ والحضارات بالرباط؟",
+    "image": "img/picture_m/musee_histoire_rabat.jpg",
+    "options": ["1985", "1995", "2014", "2020"],
+    "correct": "2014",
+    "difficulty": 2
+  },
+  {
+    "question": "                 متحف إيف سان لوران بمراكش افتُتح في أي عام؟",
+    "image": "img/picture_m/musee_ysl.jpg",
+    "options": ["2010", "2015", "2017", "2019"],
+    "correct": "2017",
+    "difficulty": 1
+  },
+  {
+    "question": "                 أي من هذه الأعمال صُوِّر في استوديوهات أطلس بورزازات؟",
+    "image": "img/picture_m/atlas_film_studios.jpg",
+    "options": ["لورانس العرب", "صراع العروش", "حرب النجوم", "إنديانا جونز"],
+    "correct": "صراع العروش",
+    "difficulty": 1
+  },
+  {
+    "question": "                 إلى أي حقبة تعود معظم أحافير أرفود؟",
+    "image": "img/picture_m/erfoud_date_festival.jpg",
+    "options": ["الجوراسي", "الديفوني والكريتاسي", "البرمي", "الكمبري"],
+    "correct": "الديفوني والكريتاسي",
+    "difficulty": 1
+  },
+  {
+    "question": "                 وادي درعة كان تاريخياً ممراً مهماً لأي تجارة؟",
+    "image": "img/picture_m/draa_valley.jpg",
+    "options": ["التوابل", "عبر الصحراء الكبرى", "الأسماك", "الحرير"],
+    "correct": "عبر الصحراء الكبرى",
+    "difficulty": 2
+  },
+  {
+    "question": "                 في أي عام أُدرج قصر آيت بنحدو في قائمة التراث العالمي لليونسكو؟",
+    "image": "img/picture_m/ait_benhaddou.jpg",
+    "options": ["1980", "1987", "1993", "2000"],
+    "correct": "1987",
+    "difficulty": 3
+  }
+]

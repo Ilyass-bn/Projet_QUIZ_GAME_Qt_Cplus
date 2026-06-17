@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="app_en.qm">C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/app_en.qm</file>
+    <file alias="app_ar.qm">C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/app_ar.qm</file>
+  </qresource>
+</RCC>
+

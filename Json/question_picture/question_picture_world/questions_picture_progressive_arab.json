@@ -1,0 +1,1382 @@
+[
+  {
+    "question": "حدد الدولة التي يوجد فيها هذا المعلم",
+    "image": "img/picture_world/eiffel_tower.jpg",
+    "options": ["فرنسا", "إيطاليا", "ألمانيا", "إسبانيا"],
+    "correct": "فرنسا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع هذا المعلم؟",
+    "image": "img/picture_world/colosseum.jpg",
+    "options": ["فرنسا", "إيطاليا", "اليونان", "البرتغال"],
+    "correct": "إيطاليا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/big_ben.jpg",
+    "options": ["إيرلندا", "بلجيكا", "المملكة المتحدة", "هولندا"],
+    "correct": "المملكة المتحدة",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع هذا المعلم؟",
+    "image": "img/picture_world/brandenburg_gate.jpg",
+    "options": ["سويسرا", "النمسا", "بولندا", "ألمانيا"],
+    "correct": "ألمانيا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/sagrada_familia.jpg",
+    "options": ["إسبانيا", "إيطاليا", "المكسيك", "البرازيل"],
+    "correct": "إسبانيا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة التي يوجد فيها هذا المعلم",
+    "image": "img/picture_world/hassan_ii_mosque.jpg",
+    "options": ["الجزائر", "المغرب", "تونس", "مصر"],
+    "correct": "المغرب",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع أهرامات الجيزة؟",
+    "image": "img/picture_world/pyramids_giza.jpg",
+    "options": ["السودان", "مصر", "المغرب", "الأردن"],
+    "correct": "مصر",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/table_mountain.jpg",
+    "options": ["كينيا", "غانا", "نيجيريا", "جنوب أفريقيا"],
+    "correct": "جنوب أفريقيا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع حديقة سيرينغيتي الوطنية؟",
+    "image": "img/picture_world/serengeti.jpg",
+    "options": ["كينيا", "تنزانيا", "إثيوبيا", "أوغندا"],
+    "correct": "تنزانيا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/timgad.jpg",
+    "options": ["ليبيا", "المغرب", "الجزائر", "تونس"],
+    "correct": "الجزائر",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة التي يوجد فيها هذا المعلم",
+    "image": "img/picture_world/christ_redeemer.jpg",
+    "options": ["الأرجنتين", "البرازيل", "تشيلي", "بيرو"],
+    "correct": "البرازيل",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع ماتشو بيتشو؟",
+    "image": "img/picture_world/machu_picchu.jpg",
+    "options": ["بيرو", "بوليفيا", "كولومبيا", "الإكوادور"],
+    "correct": "بيرو",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/iguazu_falls.jpg",
+    "options": ["البرازيل", "الأرجنتين", "الأرجنتين/البرازيل", "باراغواي"],
+    "correct": "الأرجنتين/البرازيل",
+    "difficulty": 3
+  },
+  {
+    "question": "أين تقع باتاغونيا؟",
+    "image": "img/picture_world/patagonia.jpg",
+    "options": ["تشيلي", "الأرجنتين", "تشيلي/الأرجنتين", "أوروغواي"],
+    "correct": "تشيلي/الأرجنتين",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/salar_de_uyuni.jpg",
+    "options": ["بوليفيا", "بيرو", "تشيلي", "كولومبيا"],
+    "correct": "بوليفيا",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة التي يوجد فيها هذا المعلم",
+    "image": "img/picture_world/great_wall.jpg",
+    "options": ["كوريا", "اليابان", "الصين", "فيتنام"],
+    "correct": "الصين",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع جبل فوجي؟",
+    "image": "img/picture_world/mount_fuji.jpg",
+    "options": ["تايلاند", "الصين", "نيبال", "اليابان"],
+    "correct": "اليابان",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/taj_mahal.jpg",
+    "options": ["بنغلاديش", "باكستان", "الهند", "سريلانكا"],
+    "correct": "الهند",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع البتراء؟",
+    "image": "img/picture_world/petra.jpg",
+    "options": ["السعودية", "الأردن", "الإمارات", "عُمان"],
+    "correct": "الأردن",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/angkor_wat.jpg",
+    "options": ["تايلاند", "لاوس", "كمبوديا", "فيتنام"],
+    "correct": "كمبوديا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/kremlin.jpg",
+    "options": ["روسيا", "أوكرانيا", "بولندا", "فنلندا"],
+    "correct": "روسيا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع قلعة نويشفانشتاين؟",
+    "image": "img/picture_world/neuschwanstein.jpg",
+    "options": ["ألمانيا", "النمسا", "فرنسا", "التشيك"],
+    "correct": "ألمانيا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/acropolis.jpg",
+    "options": ["قبرص", "إيطاليا", "تركيا", "اليونان"],
+    "correct": "اليونان",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع المسجد الأزرق؟",
+    "image": "img/picture_world/blue_mosque.jpg",
+    "options": ["العراق", "إيران", "تركيا", "مصر"],
+    "correct": "تركيا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/burj_khalifa.jpg",
+    "options": ["قطر", "الإمارات", "السعودية", "الكويت"],
+    "correct": "الإمارات",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/opera_house_sydney.jpg",
+    "options": ["أستراليا", "نيوزيلندا", "الولايات المتحدة", "كندا"],
+    "correct": "أستراليا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع شلالات نياجرا؟",
+    "image": "img/picture_world/niagara_falls.jpg",
+    "options": ["الولايات المتحدة", "بيرو", "الولايات المتحدة/كندا", "المكسيك"],
+    "correct": "الولايات المتحدة/كندا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/statue_of_liberty.jpg",
+    "options": ["الولايات المتحدة", "فرنسا", "المملكة المتحدة", "كندا"],
+    "correct": "الولايات المتحدة",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع تشيتشن إيتزا؟",
+    "image": "img/picture_world/chichen_itza.jpg",
+    "options": ["بيرو", "المكسيك", "البرازيل", "كوبا"],
+    "correct": "المكسيك",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/cn_tower.jpg",
+    "options": ["الولايات المتحدة", "كندا", "المملكة المتحدة", "أستراليا"],
+    "correct": "كندا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/fez_medina.jpg",
+    "options": ["المغرب", "الجزائر", "تونس", "ليبيا"],
+    "correct": "المغرب",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/oran.jpg",
+    "options": ["الجزائر", "المغرب", "مصر", "السودان"],
+    "correct": "الجزائر",
+    "difficulty": 3
+  },
+  {
+    "question": "أين تقع شلالات فيكتوريا؟",
+    "image": "img/picture_world/victoria_falls.jpg",
+    "options": ["زامبيا/كينيا", "زيمبابوي", "زامبيا/زيمبابوي", "كينيا"],
+    "correct": "زامبيا/زيمبابوي",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/kilimanjaro.jpg",
+    "options": ["كينيا", "تنزانيا", "إثيوبيا", "أوغندا"],
+    "correct": "تنزانيا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع جبل إيفرست؟",
+    "image": "img/picture_world/everest.jpg",
+    "options": ["نيبال", "الهند", "الصين", "نيبال/الصين"],
+    "correct": "نيبال/الصين",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/seoul_tower.jpg",
+    "options": ["كوريا الجنوبية", "اليابان", "الصين", "تايلاند"],
+    "correct": "كوريا الجنوبية",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/singapore_skyline.jpg",
+    "options": ["ماليزيا", "سنغافورة", "إندونيسيا", "الفلبين"],
+    "correct": "سنغافورة",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع المدينة المحرمة؟",
+    "image": "img/picture_world/forbidden_city.jpg",
+    "options": ["اليابان", "منغوليا", "الصين", "فيتنام"],
+    "correct": "الصين",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/ha_long_bay.jpg",
+    "options": ["تايلاند", "فيتنام", "لاوس", "كمبوديا"],
+    "correct": "فيتنام",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع جبل أرارات؟",
+    "image": "img/picture_world/ararat.jpg",
+    "options": ["تركيا", "إيران", "أرمينيا", "جورجيا"],
+    "correct": "تركيا",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/prague_castle.jpg",
+    "options": ["سلوفاكيا", "بولندا", "المجر", "التشيك"],
+    "correct": "التشيك",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع جسر تشارلز؟",
+    "image": "img/picture_world/charles_bridge.jpg",
+    "options": ["النمسا", "ألمانيا", "التشيك", "سويسرا"],
+    "correct": "التشيك",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/budapest_parliament.jpg",
+    "options": ["المجر", "رومانيا", "بلغاريا", "كرواتيا"],
+    "correct": "المجر",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع مونت سان ميشيل؟",
+    "image": "img/picture_world/mont_saint_michel.jpg",
+    "options": ["إيطاليا", "بلجيكا", "إسبانيا", "فرنسا"],
+    "correct": "فرنسا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/lisbon_belem.jpg",
+    "options": ["إسبانيا", "البرتغال", "إيطاليا", "اليونان"],
+    "correct": "البرتغال",
+    "difficulty": 4
+  },
+
+
+
+
+
+
+
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/tower_bridge.jpg",
+    "options": ["المملكة المتحدة", "فرنسا", "ألمانيا", "هولندا"],
+    "correct": "المملكة المتحدة",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع هذا النصب التذكاري؟",
+    "image": "img/picture_world/arc_de_triomphe.jpg",
+    "options": ["بلجيكا", "فرنسا", "سويسرا", "لوكسمبورغ"],
+    "correct": "فرنسا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/manneken_pis.jpg",
+    "options": ["هولندا", "بلجيكا", "ألمانيا", "فرنسا"],
+    "correct": "بلجيكا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع هذا المعلم؟",
+    "image": "img/picture_world/atomium.jpg",
+    "options": ["هولندا", "بلجيكا", "فرنسا", "المملكة المتحدة"],
+    "correct": "بلجيكا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/windmills_kinderdijk.jpg",
+    "options": ["الدنمارك", "هولندا", "ألمانيا", "بلجيكا"],
+    "correct": "هولندا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/alhambra.jpg",
+    "options": ["المغرب", "إسبانيا", "البرتغال", "إيطاليا"],
+    "correct": "إسبانيا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع هذا المكان؟",
+    "image": "img/picture_world/santorini.jpg",
+    "options": ["قبرص", "اليونان", "تركيا", "إيطاليا"],
+    "correct": "اليونان",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/matterhorn.jpg",
+    "options": ["النمسا", "سويسرا", "فرنسا", "إيطاليا"],
+    "correct": "سويسرا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع هذا النصب التذكاري؟",
+    "image": "img/picture_world/sacre_coeur.jpg",
+    "options": ["بلجيكا", "فرنسا", "سويسرا", "موناكو"],
+    "correct": "فرنسا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/vatican_city.jpg",
+    "options": ["إيطاليا", "مدينة الفاتيكان", "سان مارينو", "مالطا"],
+    "correct": "مدينة الفاتيكان",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/petra_jordan.jpg",
+    "options": ["مصر", "الأردن", "المملكة العربية السعودية", "الإمارات"],
+    "correct": "الأردن",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع هذا المكان؟",
+    "image": "img/picture_world/djemma_el_fna.jpg",
+    "options": ["تونس", "المغرب", "الجزائر", "ليبيا"],
+    "correct": "المغرب",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/cairo_citadel.jpg",
+    "options": ["الأردن", "مصر", "سوريا", "العراق"],
+    "correct": "مصر",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع هذا النصب التذكاري؟",
+    "image": "img/picture_world/carthage.jpg",
+    "options": ["الجزائر", "تونس", "المغرب", "ليبيا"],
+    "correct": "تونس",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/robens_island.jpg",
+    "options": ["جنوب أفريقيا", "ناميبيا", "كينيا", "تنزانيا"],
+    "correct": "جنوب أفريقيا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/rio_carnival.jpg",
+    "options": ["الأرجنتين", "البرازيل", "كولومبيا", "فنزويلا"],
+    "correct": "البرازيل",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع هذا المكان؟",
+    "image": "img/picture_world/easter_island.jpg",
+    "options": ["بيرو", "تشيلي", "البرازيل", "الأرجنتين"],
+    "correct": "تشيلي",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/galapagos.jpg",
+    "options": ["بيرو", "الإكوادور", "كولومبيا", "تشيلي"],
+    "correct": "الإكوادور",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع هذا النصب التذكاري؟",
+    "image": "img/picture_world/teotihuacan.jpg",
+    "options": ["غواتيمالا", "المكسيك", "بيرو", "بوليفيا"],
+    "correct": "المكسيك",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/havana_cuba.jpg",
+    "options": ["جامايكا", "كوبا", "جمهورية الدومينيكان", "هايتي"],
+    "correct": "كوبا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/borobudur.jpg",
+    "options": ["تايلاند", "إندونيسيا", "ماليزيا", "الفلبين"],
+    "correct": "إندونيسيا",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع هذا المكان؟",
+    "image": "img/picture_world/bagan.jpg",
+    "options": ["تايلاند", "ميانمار", "لاوس", "كمبوديا"],
+    "correct": "ميانمار",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/potala_palace.jpg",
+    "options": ["نيبال", "الصين/التبت", "الهند", "بوتان"],
+    "correct": "الصين/التبت",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع هذا النصب التذكاري؟",
+    "image": "img/picture_world/fushimi_inari.jpg",
+    "options": ["الصين", "اليابان", "كوريا الجنوبية", "تايوان"],
+    "correct": "اليابان",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/mount_kinabalu.jpg",
+    "options": ["إندونيسيا", "ماليزيا", "الفلبين", "تايلاند"],
+    "correct": "ماليزيا",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/milford_sound.jpg",
+    "options": ["أستراليا", "نيوزيلندا", "فيجي", "بابوا غينيا الجديدة"],
+    "correct": "نيوزيلندا",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع هذا المكان؟",
+    "image": "img/picture_world/uluru.jpg",
+    "options": ["نيوزيلندا", "أستراليا", "جنوب أفريقيا", "ناميبيا"],
+    "correct": "أستراليا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/yellowstone.jpg",
+    "options": ["كندا", "الولايات المتحدة", "المكسيك", "ألاسكا"],
+    "correct": "الولايات المتحدة",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع هذا النصب التذكاري؟",
+    "image": "img/picture_world/banff.jpg",
+    "options": ["الولايات المتحدة", "كندا", "ألاسكا", "غرينلاند"],
+    "correct": "كندا",
+    "difficulty": 3
+  },
+  {
+    "question": "أي معلم بُني أصلاً كمعرض للمعرض الدولي؟",
+    "image": "img/picture_world/eiffel_tower.jpg",
+    "options": ["برج إيفل", "بيغ بن", "الكولوسيوم", "تمثال الحرية"],
+    "correct": "برج إيفل",
+    "difficulty": 1
+  },
+  {
+    "question": "هذه الأعجوبة القديمة كانت مقبرة لأي فرعون؟",
+    "image": "img/picture_world/pyramids_giza.jpg",
+    "options": ["خوفو", "توت عنخ آمون", "رمسيس الثاني", "كليوباترا"],
+    "correct": "خوفو",
+    "difficulty": 2
+  },
+  {
+    "question": "كم استغرق بناء سور الصين العظيم؟",
+    "image": "img/picture_world/great_wall.jpg",
+    "options": ["أكثر من 2000 سنة", "500 سنة", "100 سنة", "50 سنة"],
+    "correct": "أكثر من 2000 سنة",
+    "difficulty": 2
+  },
+  {
+    "question": "أي من هذه المعالم ليس في روما؟",
+    "image": "img/picture_world/colosseum.jpg",
+    "options": ["الكولوسيوم", "البانثيون", "الأكروبوليس", "نافورة تريفي"],
+    "correct": "الأكروبوليس",
+    "difficulty": 2
+  },
+  {
+    "question": "ما الذي يجعل برج بيزا المائل يميل؟",
+    "image": "img/picture_world/pisa_tower.jpg",
+    "options": ["تربة هشة في الأساس", "زلزال", "تصميم سيئ", "أضرار حرب"],
+    "correct": "تربة هشة في الأساس",
+    "difficulty": 2
+  },
+  {
+    "question": "أي حيوان مقدس في هذا المعبد؟",
+    "image": "img/picture_world/taj_mahal.jpg",
+    "options": ["القرود", "الفيلة", "الأبقار", "الثعابين"],
+    "correct": "القرود",
+    "difficulty": 4
+  },
+  {
+    "question": "تاج محل بُني ليكون...",
+    "image": "img/picture_world/taj_mahal.jpg",
+    "options": ["ضريحاً", "قصراً", "معبداً", "قلعة"],
+    "correct": "ضريحاً",
+    "difficulty": 1
+  },
+  {
+    "question": "كم عدد العمال الذين لقوا حتفهم أثناء بناء قناة بنما؟",
+    "image": "img/picture_world/panama_canal.jpg",
+    "options": ["حوالي 25,000", "حوالي 5,000", "حوالي 1,000", "حوالي 100,000"],
+    "correct": "حوالي 25,000",
+    "difficulty": 3
+  },
+  {
+    "question": "أي معلم نجا من قنبلتين ذريتين؟",
+    "image": "img/picture_world/hiroshima_dome.jpg",
+    "options": ["قبة هيروشيما", "برج طوكيو", "قلعة أوساكا", "معبد كيوتو"],
+    "correct": "قبة هيروشيما",
+    "difficulty": 3
+  },
+  {
+    "question": "ما الذي يميز هذا الجسر؟",
+    "image": "img/picture_world/golden_gate.jpg",
+    "options": ["لونه البرتقالي الدولي", "أطول جسر في العالم", "يطفو على الماء", "مصنوع من الذهب"],
+    "correct": "لونه البرتقالي الدولي",
+    "difficulty": 3
+  },
+  {
+    "question": "أي إمبراطورية بنت ماتشو بيتشو؟",
+    "image": "img/picture_world/machu_picchu.jpg",
+    "options": ["الإنكا", "الأزتيك", "المايا", "الأولمك"],
+    "correct": "الإنكا",
+    "difficulty": 1
+  },
+  {
+    "question": "على أي ارتفاع تقع ماتشو بيتشو؟",
+    "image": "img/picture_world/machu_picchu.jpg",
+    "options": ["2,430 متر", "1,500 متر", "3,500 متر", "4,000 متر"],
+    "correct": "2,430 متر",
+    "difficulty": 4
+  },
+  {
+    "question": "أي مدينة بُنيت على 118 جزيرة؟",
+    "image": "img/picture_world/venice.jpg",
+    "options": ["البندقية", "أمستردام", "ستوكهولم", "كوبنهاغن"],
+    "correct": "البندقية",
+    "difficulty": 3
+  },
+  {
+    "question": "ما هو أكبر بركان نشط في العالم؟",
+    "image": "img/picture_world/mauna_loa.jpg",
+    "options": ["موانا لوا", "جبل إتنا", "كيلاويا", "جبل فوجي"],
+    "correct": "موانا لوا",
+    "difficulty": 3
+  },
+  {
+    "question": "أي صحراء هي الأكبر في العالم؟",
+    "image": "img/picture_world/sahara.jpg",
+    "options": ["صحراء أنتاركتيكا", "الصحراء الكبرى", "الصحراء العربية", "صحراء جوبي"],
+    "correct": "صحراء أنتاركتيكا",
+    "difficulty": 4
+  },
+  {
+    "question": "كم عدد المناطق الزمنية التي تمتد عبرها روسيا؟",
+    "image": "img/picture_world/kremlin.jpg",
+    "options": ["11", "9", "7", "5"],
+    "correct": "11",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة تمتلك أكبر عدد من البحيرات الطبيعية؟",
+    "image": "img/picture_world/great_lakes.jpg",
+    "options": ["كندا", "الولايات المتحدة", "روسيا", "فنلندا"],
+    "correct": "كندا",
+    "difficulty": 3
+  },
+  {
+    "question": "ما نسبة المياه العذبة من إجمالي مياه الأرض؟",
+    "image": "img/picture_world/niagara_falls.jpg",
+    "options": ["3%", "10%", "25%", "50%"],
+    "correct": "3%",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة أفريقية لم تُستعمر قط؟",
+    "image": "img/picture_world/ethiopia.jpg",
+    "options": ["إثيوبيا", "كينيا", "نيجيريا", "غانا"],
+    "correct": "إثيوبيا",
+    "difficulty": 3
+  },
+  {
+    "question": "ما هي أعمق نقطة على سطح الأرض؟",
+    "image": "img/picture_world/mariana_trench.jpg",
+    "options": ["خندق ماريانا", "البحر الميت", "بحر قزوين", "بحيرة بايكال"],
+    "correct": "خندق ماريانا",
+    "difficulty": 1
+  },
+  {
+    "question": "أي لغة لديها أكبر عدد من المتحدثين الأصليين؟",
+    "image": "img/picture_world/china_map.jpg",
+    "options": ["الماندرين الصينية", "الإنجليزية", "الإسبانية", "الهندية"],
+    "correct": "الماندرين الصينية",
+    "difficulty": 2
+  },
+  {
+    "question": "كم عدد الدول في أفريقيا؟",
+    "image": "img/picture_world/africa_map.jpg",
+    "options": ["54", "47", "62", "50"],
+    "correct": "54",
+    "difficulty": 3
+  },
+  {
+    "question": "ما هي أصغر دولة في العالم؟",
+    "image": "img/picture_world/vatican_city.jpg",
+    "options": ["مدينة الفاتيكان", "موناكو", "سان مارينو", "ليختنشتاين"],
+    "correct": "مدينة الفاتيكان",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي عاصمة أستراليا؟",
+    "image": "img/picture_world/canberra.jpg",
+    "options": ["كانبيرا", "سيدني", "ملبورن", "بيرث"],
+    "correct": "كانبيرا",
+    "difficulty": 2
+  },
+  {
+    "question": "أي دولة أهدت تمثال الحرية للولايات المتحدة؟",
+    "image": "img/picture_world/statue_of_liberty.jpg",
+    "options": ["فرنسا", "إنجلترا", "إسبانيا", "ألمانيا"],
+    "correct": "فرنسا",
+    "difficulty": 1
+  },
+  {
+    "question": "كم عدد الحلقات على العلم الأولمبي؟",
+    "image": "img/picture_world/olympic_rings.jpg",
+    "options": ["5", "6", "4", "7"],
+    "correct": "5",
+    "difficulty": 3
+  },
+  {
+    "question": "أي كوكب يُعرف بالكوكب الأحمر؟",
+    "image": "img/picture_world/mars.jpg",
+    "options": ["المريخ", "الزهرة", "المشتري", "زحل"],
+    "correct": "المريخ",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هو أكبر محيط على سطح الأرض؟",
+    "image": "img/picture_world/pacific_ocean.jpg",
+    "options": ["المحيط الهادئ", "المحيط الأطلسي", "المحيط الهندي", "المحيط المتجمد الشمالي"],
+    "correct": "المحيط الهادئ",
+    "difficulty": 1
+  },
+  {
+    "question": "أي أعجوبة من عجائب الدنيا القديمة لا تزال قائمة حتى اليوم؟",
+    "image": "img/picture_world/pyramids_giza.jpg",
+    "options": ["هرم الجيزة الأكبر", "تمثال رودس العملاق", "الحدائق المعلقة", "منارة الإسكندرية"],
+    "correct": "هرم الجيزة الأكبر",
+    "difficulty": 1
+  },
+  {
+    "question": "في أي عام سقط جدار برلين؟",
+    "image": "img/picture_world/berlin_wall.jpg",
+    "options": ["1989", "1991", "1987", "1990"],
+    "correct": "1989",
+    "difficulty": 1
+  },
+  {
+    "question": "أي دولة اخترعت البيتزا؟",
+    "image": "img/picture_world/pizza.jpg",
+    "options": ["إيطاليا", "اليونان", "فرنسا", "الولايات المتحدة"],
+    "correct": "إيطاليا",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي اللغة الأكثر تحدثاً في العالم (بما فيها غير الناطقين بها أصلاً)؟",
+    "image": "img/picture_world/languages.jpg",
+    "options": ["الإنجليزية", "الماندرين", "الإسبانية", "الهندية"],
+    "correct": "الإنجليزية",
+    "difficulty": 2
+  },
+
+
+  {
+    "question": "حدد دولة هذا المعلم الشهير",
+    "image": "img/picture_world/petronas_towers.jpg",
+    "options": ["ماليزيا", "إندونيسيا", "تايلاند", "سنغافورة"],
+    "correct": "ماليزيا",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع هذا الموقع الأثري الشهير؟",
+    "image": "img/picture_world/pompeii.jpg",
+    "options": ["اليونان", "إيطاليا", "إسبانيا", "تركيا"],
+    "correct": "إيطاليا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/mount_cook.jpg",
+    "options": ["أستراليا", "كندا", "نيوزيلندا", "سويسرا"],
+    "correct": "نيوزيلندا",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع قصر فرساي التاريخي؟",
+    "image": "img/picture_world/versailles.jpg",
+    "options": ["بلجيكا", "فرنسا", "النمسا", "ألمانيا"],
+    "correct": "فرنسا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد دولة هذه المناظر الطبيعية الخلابة",
+    "image": "img/picture_world/geirangerfjord.jpg",
+    "options": ["آيسلندا", "السويد", "النرويج", "كندا"],
+    "correct": "النرويج",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع مدينة بابل الأثرية؟",
+    "image": "img/picture_world/babylon.jpg",
+    "options": ["العراق", "مصر", "إيران", "سوريا"],
+    "correct": "العراق",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/sigiriya.jpg",
+    "options": ["الهند", "سريلانكا", "تايلاند", "نيبال"],
+    "correct": "سريلانكا",
+    "difficulty": 4
+  },
+  {
+    "question": "أين يقع شاطئ بوندي الشهير؟",
+    "image": "img/picture_world/bondi_beach.jpg",
+    "options": ["الولايات المتحدة الأمريكية", "أستراليا", "جنوب إفريقيا", "نيوزيلندا"],
+    "correct": "أستراليا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/meteora.jpg",
+    "options": ["اليونان", "قبرص", "بلغاريا", "مقدونيا"],
+    "correct": "اليونان",
+    "difficulty": 3
+  },
+  {
+    "question": "أي حضارة بنيت مدينة تيوتيهواكان الأثرية؟",
+    "image": "img/picture_world/teotihuacan.jpg",
+    "options": ["الأزتك", "المايا", "الإنكا", "التولتك"],
+    "correct": "الأزتك",
+    "difficulty": 4
+  },
+  {
+    "question": "تربط هذه القناة الشهيرة بين البحر الأبيض المتوسط والبحر الأحمر:",
+    "image": "img/picture_world/suez_canal.jpg",
+    "options": ["قناة بنما", "قناة السويس", "قناة كيل", "قناة كورنث"],
+    "correct": "قناة السويس",
+    "difficulty": 2
+  },
+  {
+    "question": "ما هي عاصمة البرازيل؟",
+    "image": "img/picture_world/brasilia.jpg",
+    "options": ["ريو دي جانيرو", "ساو باولو", "برازيليا", "سالفادور"],
+    "correct": "برازيليا",
+    "difficulty": 1
+  },
+  {
+    "question": "أي دولة أوروبية تُعرف باسم أرض الألف بحيرة؟",
+    "image": "img/picture_world/finland_lakes.jpg",
+    "options": ["السويد", "النرويج", "فنلندا", "إستونيا"],
+    "correct": "فنلندا",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة تعد أكبر منتج للقهوة في العالم؟",
+    "image": "img/picture_world/coffee_plantation.jpg",
+    "options": ["كولومبيا", "فيتنام", "إثيوبيا", "البرازيل"],
+    "correct": "البرازيل",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هو أطول نهر في أوروبا؟",
+    "image": "img/picture_world/volga_river.jpg",
+    "options": ["الدانوب", "الفولغا", "الراين", "السين"],
+    "correct": "الفولغا",
+    "difficulty": 2
+  },
+  {
+    "question": "أي دولة تحتوي على أكبر عدد من الأهرامات في العالم؟",
+    "image": "img/picture_world/sudan_pyramids.jpg",
+    "options": ["مصر", "السودان", "المكسيك", "البيرو"],
+    "correct": "السودان",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي عاصمة كندا؟",
+    "image": "img/picture_world/ottawa.jpg",
+    "options": ["تورونتو", "فانكوفر", "مونتريال", "أوتاوا"],
+    "correct": "أوتاوا",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة محاطة بالكامل بدولة جنوب إفريقيا؟",
+    "image": "img/picture_world/lesotho.jpg",
+    "options": ["ليسوتو", "إسواتيني", "ناميبيا", "بوتسوانا"],
+    "correct": "ليسوتو",
+    "difficulty": 4
+  },
+  {
+    "question": "أين تقع شلالات آنجل، وهي أعلى شلالات متواصلة في العالم؟",
+    "image": "img/picture_world/angel_falls.jpg",
+    "options": ["البرازيل", "فنزويلا", "كولومبيا", "غويانا"],
+    "correct": "فنزويلا",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة جزرية تعد موطناً لشبكة الطرق الدائرية الفريدة؟",
+    "image": "img/picture_world/iceland_road.jpg",
+    "options": ["جرينلاند", "آيسلندا", "نيوزيلندا", "مدغشقر"],
+    "correct": "آيسلندا",
+    "difficulty": 2
+  },
+  {
+    "question": "ما هي العملة الرسمية لليابان؟",
+    "image": "img/picture_world/yen.jpg",
+    "options": ["اليوان", "الوون", "الين", "البات"],
+    "correct": "الين",
+    "difficulty": 1
+  },
+  {
+    "question": "أي محيط يعد موطناً للحاجز المرجاني العظيم؟",
+    "image": "img/picture_world/great_barrier_reef.jpg",
+    "options": ["المحيط الهندي", "المحيط الهادئ", "المحيط الأطلسي", "المحيط المتجمد الجنوبي"],
+    "correct": "المحيط الهادئ",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة تشتهر بأنها منشأ فن السوشي؟",
+    "image": "img/picture_world/sushi.jpg",
+    "options": ["الصين", "كوريا الجنوبية", "اليابان", "تايلاند"],
+    "correct": "اليابان",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي عاصمة المغرب؟",
+    "image": "img/picture_world/rabat.jpg",
+    "options": ["الدار البيضاء", "مراكش", "فاس", "الرباط"],
+    "correct": "الرباط",
+    "difficulty": 1
+  },
+  {
+    "question": "أي دولة تمتد عبر قارتي أوروبا وآسيا؟",
+    "image": "img/picture_world/turkey_map.jpg",
+    "options": ["تركيا", "اليونان", "مصر", "أوكرانيا"],
+    "correct": "تركيا",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي أكبر صحراء حارة في العالم؟",
+    "image": "img/picture_world/sahara.jpg",
+    "options": ["صحراء جوبي", "صحراء كالاهاري", "الصحراء الكبرى", "الصحراء العربية"],
+    "correct": "الصحراء الكبرى",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة تشتهر بمدينة قرطاج الأثرية؟",
+    "image": "img/picture_world/carthage.jpg",
+    "options": ["المغرب", "تونس", "الجزائر", "ليبيا"],
+    "correct": "تونس",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي عاصمة أستراليا؟",
+    "image": "img/picture_world/canberra_city.jpg",
+    "options": ["سيدني", "ملبورن", "بريزبان", "كانبرا"],
+    "correct": "كانبرا",
+    "difficulty": 2
+  },
+  {
+    "question": "أي منطقة زمنية قياسية تُستخدم كأساس رئيسي للتوقيت العالمي؟",
+    "image": "img/picture_world/gmt.jpg",
+    "options": ["(GMT/UTC)", "(EST)", "(CET)", "(PST)"],
+    "correct": "(GMT/UTC)",
+    "difficulty": 1
+  },
+
+
+
+
+
+
+  {
+    "question": "حدد دولة هذا المعلم السياحي",
+    "image": "img/picture_world/loch_ness.jpg",
+    "options": ["أيرلندا", "إسكتلندا", "ويلز", "إنجلترا"],
+    "correct": "إسكتلندا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين يقع معبد البارثينون؟",
+    "image": "img/picture_world/parthenon.jpg",
+    "options": ["روما", "أثينا", "إسطنبول", "القاهرة"],
+    "correct": "أثينا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/red_square.jpg",
+    "options": ["أوكرانيا", "بيلاروسيا", "روسيا", "بولندا"],
+    "correct": "روسيا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع آيا صوفيا؟",
+    "image": "img/picture_world/hagia_sophia.jpg",
+    "options": ["اليونان", "مصر", "تركيا", "لبنان"],
+    "correct": "تركيا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد دولة هذا المعلم السياحي",
+    "image": "img/picture_world/anne_frank_house.jpg",
+    "options": ["بلجيكا", "ألمانيا", "الدنمارك", "هولندا"],
+    "correct": "هولندا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع فوهة نجورونجورو؟",
+    "image": "img/picture_world/ngorongoro.jpg",
+    "options": ["تنزانيا", "أوغندا", "كينيا", "رواندا"],
+    "correct": "تنزانيا",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/lalibela.jpg",
+    "options": ["السودان", "كينيا", "إريتريا", "إثيوبيا"],
+    "correct": "إثيوبيا",
+    "difficulty": 4
+  },
+  {
+    "question": "أين تقع مدينة تمبكتو الصحراوية؟",
+    "image": "img/picture_world/timbuktu.jpg",
+    "options": ["النيجر", "مالي", "تشاد", "موريتانيا"],
+    "correct": "مالي",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/zanzibar.jpg",
+    "options": ["موزمبيق", "كينيا", "تنزانيا", "مدغشقر"],
+    "correct": "تنزانيا",
+    "difficulty": 4
+  },
+  {
+    "question": "أين يقع رأس الرجاء الصالح؟",
+    "image": "img/picture_world/cape_good_hope.jpg",
+    "options": ["جنوب أفريقيا", "ناميبيا", "موزمبيق", "أنغولا"],
+    "correct": "جنوب أفريقيا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد دولة هذا المعلم السياحي",
+    "image": "img/picture_world/nazca_lines.jpg",
+    "options": ["بوليفيا", "تشيلي", "بيرو", "الأرجنتين"],
+    "correct": "بيرو",
+    "difficulty": 3
+  },
+  {
+    "question": "أين تقع مدينة قرطاجنة المسورة؟",
+    "image": "img/picture_world/cartagena.jpg",
+    "options": ["فنزويلا", "بنما", "كوبا", "كولومبيا"],
+    "correct": "كولومبيا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/torres_del_pain.jpg",
+    "options": ["الأرجنتين", "بوليفيا", "أوروغواي", "تشيلي"],
+    "correct": "تشيلي",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع غابات أمازون المطيرة بشكل أساسي؟",
+    "image": "img/picture_world/amazon.jpg",
+    "options": ["كولومبيا", "بيرو", "البرازيل", "فنزويلا"],
+    "correct": "البرازيل",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/suriname_capital.jpg",
+    "options": ["غويانا", "غويانا الفرنسية", "سورينام", "ترينيداد"],
+    "correct": "سورينام",
+    "difficulty": 3
+  },
+  {
+    "question": "أين تقع مدينة تخت جمشيد (برسبوليس) الأثرية؟",
+    "image": "img/picture_world/persepolis.jpg",
+    "options": ["إيران", "أفغانستان", "العراق", "باكستان"],
+    "correct": "إيران",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/baku_skyline.jpg",
+    "options": ["جورجيا", "أرمينيا", "كازاخستان", "أذربيجان"],
+    "correct": "أذربيجان",
+    "difficulty": 4
+  },
+  {
+    "question": "أين يقع البحر الميت؟",
+    "image": "img/picture_world/dead_sea.jpg",
+    "options": ["الأردن", "مصر", "لبنان", "سوريا"],
+    "correct": "الأردن",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/wadi_rum.jpg",
+    "options": ["المملكة العربية السعودية", "عُمان", "الأردن", "الإمارات العربية المتحدة"],
+    "correct": "الأردن",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع جزر المالديف؟",
+    "image": "img/picture_world/maldives.jpg",
+    "options": ["المحيط الهندي", "المحيط الهادئ", "البحر الكاريبي", "البحر الأحمر"],
+    "correct": "المحيط الهندي",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/preah_vihear.jpg",
+    "options": ["تايلاند", "فيتنام", "لاوس", "كمبوديا"],
+    "correct": "كمبوديا",
+    "difficulty": 3
+  },
+  {
+    "question": "أين تقع تلال الشوكولاتة؟",
+    "image": "img/picture_world/chocolate_hills.jpg",
+    "options": ["إندونيسيا", "ماليزيا", "الفلبين", "فيتنام"],
+    "correct": "الفلبين",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/paro_taktsang.jpg",
+    "options": ["نيبال", "الهند", "التبت", "بوتان"],
+    "correct": "بوتان",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع ممر خيبر؟",
+    "image": "img/picture_world/khyber_pass.jpg",
+    "options": ["أفغانستان/باكستان", "الهند/نيبال", "إيران/العراق", "طاجيكستان"],
+    "correct": "أفغانستان/باكستان",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/varanasi.jpg",
+    "options": ["نيبال", "بغلاديش", "باكستان", "الهند"],
+    "correct": "الهند",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع ساحل سينك تير (القرى الخمس)؟",
+    "image": "img/picture_world/cinque_terre.jpg",
+    "options": ["إسبانيا", "كرواتيا", "اليونان", "إيطاليا"],
+    "correct": "إيطاليا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/aurora_borealis_iceland.jpg",
+    "options": ["النرويج", "جرينلاند", "آيسلندا", "كندا"],
+    "correct": "آيسلندا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع قرية هالستات؟",
+    "image": "img/picture_world/hallstatt.jpg",
+    "options": ["سويسرا", "ألمانيا", "النمسا", "جمهورية التشيك"],
+    "correct": "النمسا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/plitvice_lakes.jpg",
+    "options": ["سلوفينيا", "البوسنة", "صربيا", "كرواتيا"],
+    "correct":  "كرواتيا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع منجم فيليتشكا للملح؟",
+    "image": "img/picture_world/wieliczka.jpg",
+    "options": ["جمهورية التشيك", "المجر", "بولندا", "رومانيا"],
+    "correct": "بولندا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/great_ocean_road.jpg",
+    "options": ["نيوزيلندا", "جنوب أفريقيا", "أستراليا", "كندا"],
+    "correct": "أستراليا",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع كهوف وايتومو المضيئة؟",
+    "image": "img/picture_world/waitomo.jpg",
+    "options": ["أستراليا", "نيوزيلندا", "بابوا غينيا الجديدة", "فيجي"],
+    "correct": "نيوزيلندا",
+    "difficulty": 3
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/antananarivo.jpg",
+    "options": ["موريشيوس", "جزر القمر", "سيشل", "مدغشقر"],
+    "correct": "مدغشقر",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع ساحل الهياكل العظمية؟",
+    "image": "img/picture_world/skeleton_coast.jpg",
+    "options": ["أنغولا", "جنوب أفريقيا", "ناميبيا", "موزمبيق"],
+    "correct": "ناميبيا",
+    "difficulty": 4
+  },
+  {
+    "question": "حدد دولة جزيرة سقطرى",
+    "image": "img/picture_world/socotra.jpg",
+    "options": ["عُمان", "الصومال", "اليمن", "إثيوبيا"],
+    "correct": "اليمن",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هو أطول مبنى في العالم؟",
+    "image": "img/picture_world/burj_khalifa_tall.jpg",
+    "options": ["برج خليفة", "برج شانغهاي", "برج سي إن", "مبنى إمباير ستيت"],
+    "correct": "برج خليفة",
+    "difficulty": 1
+  },
+  {
+    "question": "كم عدد الدول التي تشترك في الحدود مع الصين؟",
+    "image": "img/picture_world/china_borders.jpg",
+    "options": ["14", "10", "8", "12"],
+    "correct": "14",
+    "difficulty": 2
+  },
+  {
+    "question": "ما هي أطول سلسلة جبال في العالم؟",
+    "image": "img/picture_world/andes.jpg",
+    "options": ["جبال الهيمالايا", "جبال الأنديز", "جبال الروكي", "جبال الألب"],
+    "correct": "جبال الأنديز",
+    "difficulty": 3
+  },
+  {
+    "question": "أي دولة تضم أكبر عدد من مواقع التراث العالمي لليونسكو؟",
+    "image": "img/picture_world/italy_sites.jpg",
+    "options": ["الصين", "إسبانيا", "إيطاليا", "فرنسا"],
+    "correct": "إيطاليا",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي أصغر قارة من حيث مساحة الأرض؟",
+    "image": "img/picture_world/australia_continent.jpg",
+    "options": ["أوروبا", "القارة القطبية الجنوبية", "أستراليا", "أمريكا الجنوبية"],
+    "correct": "أستراليا",
+    "difficulty": 2
+  },
+  {
+    "question": "أي دولة تمتلك أطول خط ساحلي في العالم؟",
+    "image": "img/picture_world/canada_coast.jpg",
+    "options": ["النرويج", "روسيا", "أستراليا", "كندا"],
+    "correct": "كندا",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي أعلى عاصمة في العالم؟",
+    "image": "img/picture_world/la_paz.jpg",
+    "options": ["كيتو", "لا باز", "بوغوتا", "أديس أبابا"],
+    "correct": "لا باز",
+    "difficulty": 4
+  },
+  {
+    "question": "أي دولة هي موطن لأكبر عدد من الأهرامات (الأثرية)؟",
+    "image": "img/picture_world/meroe.jpg",
+    "options": ["مصر", "المكسيك", "السودان", "بيرو"],
+    "correct": "السودان",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي أقدم عاصمة في العالم لا تزال مستخدمة حتى اليوم؟",
+    "image": "img/picture_world/damascus.jpg",
+    "options": ["القاهرة", "أثينا", "دمشق", "القدس"],
+    "correct": "دمشق",
+    "difficulty": 3
+  },
+  {
+    "question": "أي محيط هو الأصغر في العالم؟",
+    "image": "img/picture_world/arctic_ocean.jpg",
+    "options": ["المحيط الهندي", "المحيط المتجمد الشمالي", "المحيط الجنوبي", "المحيط الأطلسي"],
+    "correct": "المحيط المتجمد الشمالي",
+    "difficulty": 2
+  },
+  {
+    "question": "ما هي عملة الهند؟",
+    "image": "img/picture_world/rupee.jpg",
+    "options": ["الروبية الإندونيسية", "التاكا", "الروبية", "الدينار"],
+    "correct": "الروبية",
+    "difficulty": 1
+  },
+  {
+    "question": "أي دولة هي الأكبر في العالم من حيث مساحة الأرض؟",
+    "image": "img/picture_world/russia_map.jpg",
+    "options": ["كندا", "الصين", "الولايات المتحدة الأمريكية", "روسيا"],
+    "correct": "روسيا",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي عاصمة الأرجنتين؟",
+    "image": "img/picture_world/buenos_aires.jpg",
+    "options": ["مونتيفيديو", "سانتياغو", "ليما", "بوينس آيرس"],
+    "correct": "بوينس آيرس",
+    "difficulty": 1
+  },
+  {
+    "question": "أي دولة اخترعت لعبة الشطرنج؟",
+    "image": "img/picture_world/chess.jpg",
+    "options": ["الصين", "بلاد فارس", "الهند", "اليونان"],
+    "correct": "الهند",
+    "difficulty": 1
+  },
+  {
+    "question": "ما هي أكبر بحيرة مياه عذبة في العالم؟",
+    "image": "img/picture_world/lake_superior.jpg",
+    "options": ["بحيرة فيكتوريا", "بحيرة سوبيريور", "بحيرة بايكال", "بحر قزوين"],
+    "correct": "بحيرة سوبيريور",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد دولة هذا المعلم السياحي",
+    "image": "img/picture_world/royal_palace_brussels.jpg",
+    "options": ["فرنسا", "هولندا", "لوكسمبورغ", "بلجيكا"],
+    "correct": "بلجيكا",
+    "difficulty": 1
+  },
+  {
+    "question": "أين يقع برج بيزا المائل؟",
+    "image": "img/picture_world/pisa_tower.jpg",
+    "options": ["اليونان", "فرنسا", "إيطاليا", "إسبانيا"],
+    "correct": "إيطاليا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/cliffs_of_moher.jpg",
+    "options": ["إسكتلندا", "ويلز", "آيسلندا", "أيرلندا"],
+    "correct": "أيرلندا",
+    "difficulty": 3
+  },
+  {
+    "question": "أين يقع قصر شونبرون؟",
+    "image": "img/picture_world/schonbrunn.jpg",
+    "options": ["المجر", "ألمانيا", "النمسا", "جمهورية التشيك"],
+    "correct": "النمسا",
+    "difficulty": 2
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/fjords_norway.jpg",
+    "options": ["آيسلندا", "السويد", "فنلندا", "النرويج"],
+    "correct": "النرويج",
+    "difficulty": 2
+  },
+  {
+    "question": "أين تقع مدينة شفشاون (المدينة الزرقاء)؟",
+    "image": "img/picture_world/chefchaouen.jpg",
+    "options": ["تونس", "المغرب", "الجزائر", "الأردن"],
+    "correct": "المغرب",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/abu_simbel.jpg",
+    "options": ["السودان", "إثيوبيا", "ليبيا", "مصر"],
+    "correct": "مصر",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع مدينة لبدة الكبرى (لبتيس ماغنا) الأثرية؟",
+    "image": "img/picture_world/leptis_magna.jpg",
+    "options": ["تونس", "المغرب", "الجزائر", "ليبيا"],
+    "correct": "ليبيا",
+    "difficulty": 1
+  },
+  {
+    "question": "حدد الدولة",
+    "image": "img/picture_world/djenné_mosque.jpg",
+    "options": ["النيجر", "السنغال", "غينيا", "مالي"],
+    "correct": "مالي",
+    "difficulty": 1
+  },
+  {
+    "question": "أين تقع جزيرة زنجبار؟",
+    "image": "img/picture_world/zanzibar_beach.jpg",
+    "options": ["كينيا", "موزمبيق", "تنزانيا", "مدغشقر"],
+    "correct": "تنزانيا",
+    "difficulty": 3
+  }
+]

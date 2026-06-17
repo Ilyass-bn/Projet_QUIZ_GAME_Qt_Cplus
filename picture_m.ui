@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>picture_m</class>
+ <widget class="QWidget" name="picture_m">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>506</width>
+    <height>500</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <item row="0" column="0">
+    <widget class="QStackedWidget" name="stackedWidget">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">#stackedWidget {
+border-image: url(img/icon/ic/picture_morocco/backgr_morocco.png)0 0 0 0 stretch stretch ;
+    width:100%;height:100%;
+	
+}
+</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::Shape::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Shadow::Plain</enum>
+     </property>
+     <property name="lineWidth">
+      <number>0</number>
+     </property>
+     <property name="currentIndex">
+      <number>0</number>
+     </property>
+     <widget class="QWidget" name="page_2">
+      <widget class="QPushButton" name="pushButton_8">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>51</width>
+         <height>51</height>
+        </rect>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">image: url(img/icon/ic/food_icon/back_food.png);
+border-radius:10px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_flag">
+       <property name="geometry">
+        <rect>
+         <x>110</x>
+         <y>110</y>
+         <width>301</width>
+         <height>181</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border-image: url(img/icon/ic/food_icon/backgr_image.png);
+border-radius:30px;
+width:100px;height:200px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="textFormat">
+        <enum>Qt::TextFormat::PlainText</enum>
+       </property>
+       <property name="scaledContents">
+        <bool>true</bool>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_question">
+       <property name="geometry">
+        <rect>
+         <x>-110</x>
+         <y>10</y>
+         <width>701</width>
+         <height>121</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">font: 700 10.6pt &quot;Segoe UI&quot;;
+border-image: url(img/icon/ic/food_icon/backgr_question.png) 0 0 0 0 stretch stretch;
+color: black;
+
+/*padding-right: 10px;
+padding-left: 140px;*/
+padding-left: 130px;
+padding-right: 27px;
+</string>
+       </property>
+       <property name="text">
+        <string>                          TextLabel</string>
+       </property>
+       <property name="wordWrap">
+        <bool>true</bool>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pushButton_next">
+       <property name="geometry">
+        <rect>
+         <x>450</x>
+         <y>450</y>
+         <width>41</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">image: url(img/icon/ic/food_icon/button_next_food.png);
+border-radius:30px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_time">
+       <property name="geometry">
+        <rect>
+         <x>20</x>
+         <y>460</y>
+         <width>61</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color:black;
+color:black;
+font: 11pt &quot;Segoe UI&quot;;
+font: 700 9pt &quot;Segoe UI&quot;;
+
+background-image: url(img/icon/ic/food_icon/backgr_question1.png);
+
+
+</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_flag_2">
+       <property name="geometry">
+        <rect>
+         <x>100</x>
+         <y>100</y>
+         <width>321</width>
+         <height>201</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border-image: url(:/ic/img/icon/ic/mondial_icon/backgr_image.png);
+width:100px;height:200px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="textFormat">
+        <enum>Qt::TextFormat::PlainText</enum>
+       </property>
+       <property name="scaledContents">
+        <bool>true</bool>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_point">
+       <property name="geometry">
+        <rect>
+         <x>190</x>
+         <y>460</y>
+         <width>141</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color:black;
+font: 700 13pt &quot;Segoe UI&quot;;
+color:black;
+/*background-image: url(:/img/icon/ic/food_icon/backgr_question1.png);*/
+/*image: url(img/icon/ic/mondial_icon/backgr_score.png);*/
+image: url(img/icon/ic/mondial_icon/backgr_score_without.png);
+
+
+</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_question_number">
+       <property name="geometry">
+        <rect>
+         <x>210</x>
+         <y>10</y>
+         <width>111</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color:black;
+background-image: url(img/icon/ic/food_icon/backgr_question1.png);
+color:black;
+font: 700 13pt &quot;Segoe UI&quot;;
+
+
+
+</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+      <widget class="QWidget" name="layoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>310</y>
+         <width>441</width>
+         <height>131</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <property name="spacing">
+           <number>0</number>
+          </property>
+          <item>
+           <widget class="QPushButton" name="pushButton_option4">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="minimumSize">
+             <size>
+              <width>20</width>
+              <height>20</height>
+             </size>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">#pushButton_option4{
+   font: 900 15pt &quot;Segoe UI&quot;;
+	border-image: url(img/icon/ic/picture_world_icon/buttons/backgr_button.png)0 0 0 0 scretch  scretch;
+  min-width: 20px;
+  min-height: 20px;
+  color: rgb(0, 0, 0);
+  border-radius:18px;
+}
+#pushButton_option4:hover{
+
+  border-image: url(img/icon/ic/picture_world_icon/buttons/button_hover.png) 0 0 0 scretch scretch;
+	
+}</string>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_option3">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">#pushButton_option3{
+   font: 900 15pt &quot;Segoe UI&quot;;
+	border-image: url(img/icon/ic/picture_world_icon/buttons/backgr_button.png)0 0 0 0 scretch  scretch;
+  min-width: 20px;
+  min-height: 20px;
+  color: rgb(0, 0, 0);
+  border-radius:18px;
+}
+#pushButton_option3:hover{
+
+  border-image: url(img/icon/ic/picture_world_icon/buttons/button_hover.png) 0 0 0 scretch scretch;
+	
+}
+</string>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QVBoxLayout" name="verticalLayout">
+          <property name="spacing">
+           <number>0</number>
+          </property>
+          <item>
+           <widget class="QPushButton" name="pushButton_option2">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="minimumSize">
+             <size>
+              <width>20</width>
+              <height>20</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>16777191</width>
+              <height>16777185</height>
+             </size>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">#pushButton_option2{
+  font: 900 15pt &quot;Segoe UI&quot;;
+
+	border-image: url(img/icon/ic/picture_world_icon/buttons/backgr_button.png)0 0 0 0 scretch  scretch;
+  min-width: 20px;
+  min-height: 20px;
+  color: rgb(0, 0, 0);
+  border-radius:18px;
+}
+#pushButton_option2:hover{
+
+  border-image: url(img/icon/ic/picture_world_icon/buttons/button_hover.png) 0 0 0 scretch scretch;
+ 
+}
+</string>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_option1">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">#pushButton_option1{
+   font: 900 15pt &quot;Segoe UI&quot;;
+	border-image: url(img/icon/ic/picture_world_icon/buttons/backgr_button.png)0 0 0 0 scretch  scretch;
+  min-width: 20px;
+  min-height: 20px;
+  color: rgb(0, 0, 0);
+  border-radius:18px;
+}
+#pushButton_option1:hover{
+
+  border-image: url(img/icon/ic/picture_world_icon/buttons/button_hover.png) 0 0 0 scretch scretch;
+}
+
+</string>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QPushButton" name="pushButton_suppr">
+       <property name="geometry">
+        <rect>
+         <x>330</x>
+         <y>0</y>
+         <width>71</width>
+         <height>51</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>20</width>
+         <height>20</height>
+        </size>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#pushButton_suppr{
+  image: url(img/icon/ic/picture_world_icon/buttons/5050.png)0 0 0 0 scretch  scretch;
+  border-radius:18px;
+}
+#pushButton_suppr:hover{
+image: url(img/icon/ic/picture_world_icon/buttons/5050_hover.png)0 0 0 0 scretch  scretch;
+}</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pushButton_reveal">
+       <property name="geometry">
+        <rect>
+         <x>400</x>
+         <y>0</y>
+         <width>61</width>
+         <height>51</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>20</width>
+         <height>20</height>
+        </size>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#pushButton_reveal{
+  image: url(img/icon/ic/picture_world_icon/buttons/show.png)0 0 0 0 scretch  scretch;
+  border-radius:18px;
+}
+#pushButton_reveal:hover{
+image: url(img/icon/ic/picture_world_icon/buttons/show_hover.png)0 0 0 0 scretch  scretch;
+}</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+      <widget class="QLabel" name="hiding">
+       <property name="geometry">
+        <rect>
+         <x>20</x>
+         <y>250</y>
+         <width>471</width>
+         <height>61</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#hiding{
+	font: 700 12pt &quot;Segoe UI&quot;;
+ background-color: rgb(255, 255, 255);
+color:black;
+}
+</string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pushButton_time">
+       <property name="geometry">
+        <rect>
+         <x>120</x>
+         <y>0</y>
+         <width>61</width>
+         <height>51</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>20</width>
+         <height>20</height>
+        </size>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#pushButton_time{
+  image: url(img/icon/ic/picture_world_icon/buttons/time.png)0 0 0 0 scretch  scretch;
+  border-radius:18px;
+}
+#pushButton_time:hover{
+image: url(img/icon/ic/picture_world_icon/buttons/time_hover.png)0 0 0 0 scretch  scretch;
+}</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+      <zorder>layoutWidget</zorder>
+      <zorder>label_question</zorder>
+      <zorder>label_flag_2</zorder>
+      <zorder>pushButton_8</zorder>
+      <zorder>label_flag</zorder>
+      <zorder>pushButton_next</zorder>
+      <zorder>label_time</zorder>
+      <zorder>label_point</zorder>
+      <zorder>label_question_number</zorder>
+      <zorder>pushButton_suppr</zorder>
+      <zorder>pushButton_reveal</zorder>
+      <zorder>hiding</zorder>
+      <zorder>pushButton_time</zorder>
+     </widget>
+     <widget class="QWidget" name="page_result_2">
+      <property name="styleSheet">
+       <string notr="true">/*#page_result_2{
+	border-image: url(:/icons/img/icon/backgr_score.png) 0 0 0 scretch scretch;
+	border-image: url(:/icons/img/icon/backgr_score.png) 0 0 0 scretch scretch;
+}*/
+#page_result_2{
+border-image: url(:/icons/img/icon/backgr_score.png) 0 0 0 scretch scretch;
+}</string>
+      </property>
+      <widget class="QLabel" name="label_score_food">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>300</y>
+         <width>451</width>
+         <height>71</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#label_score_food{
+font: 700 20pt &quot;Source Code Pro&quot;;
+border-image: url(img/icon/ic/score_stat.png) 0 0 0 0 scretch scretch;
+/*border-image: url(img/icon/ic/food_icon/backgr_question1.png) 0 0 0 0 scretch scretch;*/
+border-image: url(img/icon/result.png) 0 0 0 0 scretch scretch;
+padding-left: 80px;
+/*padding-right: 60px; */
+color:white;
+}
+</string>
+       </property>
+       <property name="text">
+        <string>Too Bad!!</string>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_image_score">
+       <property name="geometry">
+        <rect>
+         <x>60</x>
+         <y>60</y>
+         <width>381</width>
+         <height>251</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">width:100px;height:200px;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+      <widget class="QLabel" name="label_scoring">
+       <property name="geometry">
+        <rect>
+         <x>30</x>
+         <y>0</y>
+         <width>451</width>
+         <height>71</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">font: 700 18pt &quot;Segoe UI&quot;;
+/*border-image: url(:/img/icon/ic/food_icon/backgr_question1.png) 0 0 0 0 scretch scretch;*/
+
+border-image: url(img/icon/result.png) 0 0 0 0 scretch scretch;
+color: white;
+padding-left: 80px;
+padding-right: 80px; </string>
+       </property>
+       <property name="text">
+        <string>TextLabel</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pushButton_play_again">
+       <property name="geometry">
+        <rect>
+         <x>120</x>
+         <y>370</y>
+         <width>251</width>
+         <height>141</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#pushButton_play_again{
+image: url(img/icon/ic/food_icon/mainwindown_food.png) ;
+min-width: 20px;
+min-height: 20px;
+border-radius:20px;
+}
+
+#pushButton_play_again:hover{
+	image: url(img/icon/ic/food_icon/mainwindown_food_hover.png);
+min-width: 20px;
+min-height: 20px;
+border-radius:20px;
+}
+
+</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

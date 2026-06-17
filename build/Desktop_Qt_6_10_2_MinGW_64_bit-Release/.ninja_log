@@ -1,0 +1,21 @@
+# ninja log v6
+12	248	8034164873288304	app_en.qm	9d8a8a147dfd6e6a
+12	248	8034164873288304	C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/app_en.qm	9d8a8a147dfd6e6a
+21	267	8034164873592624	app_ar.qm	5afc39a49e10eef7
+21	267	8034164873592624	C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/app_ar.qm	5afc39a49e10eef7
+30	3763	8034164906705129	Projet_quiz_game_autogen/timestamp	bc7c1a09af6c252b
+30	3763	8034164906705129	Projet_quiz_game_autogen/mocs_compilation.cpp	bc7c1a09af6c252b
+30	3763	8034164906705129	C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/Projet_quiz_game_autogen/timestamp	bc7c1a09af6c252b
+30	3763	8034164906705129	C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/Projet_quiz_game_autogen/mocs_compilation.cpp	bc7c1a09af6c252b
+3781	3833	8034164909269806	.qt/rcc/qrc_Projet_quiz_game_translations.cpp	618b7db1f59116f7
+3781	3833	8034164909269806	C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/.qt/rcc/qrc_Projet_quiz_game_translations.cpp	618b7db1f59116f7
+3876	4344	8034164909758517	CMakeFiles/Projet_quiz_game.dir/6f4e70f620d162f4e7a46c2697878896/.qt/rcc/qrc_Projet_quiz_game_translations.cpp.obj	a4ad1f6fe45b2f21
+3836	13874	8034164909349594	CMakeFiles/Projet_quiz_game.dir/main.cpp.obj	b11e4ff35324d0b2
+3833	14583	8034164909319700	CMakeFiles/Projet_quiz_game.dir/Projet_quiz_game_autogen/mocs_compilation.cpp.obj	16ec4d14da3697b
+3846	18496	8034164909459310	CMakeFiles/Projet_quiz_game.dir/food_game.cpp.obj	15d5dd6337b977d1
+3871	18499	8034164909708645	CMakeFiles/Projet_quiz_game.dir/picture_m.cpp.obj	adafe824c72b8d39
+3850	18606	8034164909499201	CMakeFiles/Projet_quiz_game.dir/world_cup.cpp.obj	1c794a20c4ba6db0
+3842	18668	8034164909419413	CMakeFiles/Projet_quiz_game.dir/first_game.cpp.obj	958aa29ed6fc9f76
+3854	18792	8034164909539147	CMakeFiles/Projet_quiz_game.dir/picture_world.cpp.obj	29679e31ac62e0c4
+3839	21483	8034164909379518	CMakeFiles/Projet_quiz_game.dir/mainwindow.cpp.obj	6f13126b368560fe
+21484	23347	8034165085840984	Projet_quiz_game.exe	a99cff9192dbd71d
