@@ -47,6 +47,7 @@ public:
     QLabel *hiding;
     QPushButton *pushButton_reveal;
     QPushButton *pushButton_time;
+    QPushButton *pushButton_AI;
     QWidget *page_result_2;
     QLabel *label_score_food;
     QLabel *label_image_score;
@@ -334,6 +335,18 @@ public:
 "#pushButton_time:hover{\n"
 "image: url(img/icon/ic/mondial_icon/button/time_hover.png)0 0 0 0 scretch  scretch;\n"
 "}"));
+        pushButton_AI = new QPushButton(page_2);
+        pushButton_AI->setObjectName("pushButton_AI");
+        pushButton_AI->setGeometry(QRect(50, 0, 61, 51));
+        sizePolicy.setHeightForWidth(pushButton_AI->sizePolicy().hasHeightForWidth());
+        pushButton_AI->setSizePolicy(sizePolicy);
+        pushButton_AI->setMinimumSize(QSize(20, 20));
+        pushButton_AI->setCursor(QCursor(Qt::CursorShape::PointingHandCursor));
+        pushButton_AI->setStyleSheet(QString::fromUtf8("#pushButton_AI{\n"
+"  image: url(img/icon/AI.png)0 0 0 0 scretch  scretch;\n"
+"  border-radius:18px;\n"
+"}\n"
+""));
         stackedWidget->addWidget(page_2);
         layoutWidget->raise();
         label_question->raise();
@@ -348,6 +361,7 @@ public:
         hiding->raise();
         pushButton_reveal->raise();
         pushButton_time->raise();
+        pushButton_AI->raise();
         page_result_2 = new QWidget();
         page_result_2->setObjectName("page_result_2");
         page_result_2->setStyleSheet(QString::fromUtf8("/*#page_result_2{\n"
@@ -440,6 +454,7 @@ public:
         hiding->setText(QCoreApplication::translate("world_cup", "TextLabel", nullptr));
         pushButton_reveal->setText(QString());
         pushButton_time->setText(QString());
+        pushButton_AI->setText(QString());
         label_score_food->setText(QCoreApplication::translate("world_cup", "Too Bad!!", nullptr));
         label_image_score->setText(QString());
         label_scoring->setText(QCoreApplication::translate("world_cup", "TextLabel", nullptr));

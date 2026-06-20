@@ -595,6 +595,41 @@ image: url(img/icon/ic/mondial_icon/button/time_hover.png)0 0 0 0 scretch  scret
         <string/>
        </property>
       </widget>
+      <widget class="QPushButton" name="pushButton_AI">
+       <property name="geometry">
+        <rect>
+         <x>50</x>
+         <y>0</y>
+         <width>61</width>
+         <height>51</height>
+        </rect>
+       </property>
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>20</width>
+         <height>20</height>
+        </size>
+       </property>
+       <property name="cursor">
+        <cursorShape>PointingHandCursor</cursorShape>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">#pushButton_AI{
+  image: url(img/icon/AI.png)0 0 0 0 scretch  scretch;
+  border-radius:18px;
+}
+</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
       <zorder>layoutWidget</zorder>
       <zorder>label_question</zorder>
       <zorder>label_flag_2</zorder>
@@ -608,6 +643,7 @@ image: url(img/icon/ic/mondial_icon/button/time_hover.png)0 0 0 0 scretch  scret
       <zorder>hiding</zorder>
       <zorder>pushButton_reveal</zorder>
       <zorder>pushButton_time</zorder>
+      <zorder>pushButton_AI</zorder>
      </widget>
      <widget class="QWidget" name="page_result_2">
       <property name="styleSheet">

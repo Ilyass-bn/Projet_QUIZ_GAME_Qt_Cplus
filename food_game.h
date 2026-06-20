@@ -7,6 +7,7 @@
 #include<QVector>
 #include<QPushButton>
 #include <QtSql>
+#include "aichat.h"
 #include <QMediaPlayer>
 #include <QAudioOutput>
 
@@ -60,6 +61,8 @@ private slots:
 
     void on_pushButton_time_clicked();
 
+    void on_pushButton_AI_clicked();
+
 private:
     Ui::food_game *ui;
     int score;
@@ -86,6 +89,8 @@ private:
     bool revealStarted = false;
     bool check_time=true;
     bool isclicked_reveal=true;
+    bool AI_click=true;
+    AIchat *ai;
 };
 
 #endif // FOOD_GAME_H

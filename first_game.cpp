@@ -20,6 +20,7 @@ first_game::first_game(QWidget *parent)
     , ui(new Ui::first_game)
 {
     ui->setupUi(this);
+    ai=nullptr;
     player = new QMediaPlayer(this);
     audioOutput = new QAudioOutput(this);
     player->setAudioOutput(audioOutput);
@@ -305,24 +306,28 @@ void first_game::checkanswer(QPushButton *button)
 
 void first_game::on_pushButton_option1_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option1);
 }
 
 
 void first_game::on_pushButton_option2_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option2);
 }
 
 
 void first_game::on_pushButton_option3_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option3);
 }
 
 
 void first_game::on_pushButton_option4_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option4);
 }
 
@@ -705,6 +710,7 @@ void first_game::timefonction(){
             ui->pushButton_time->setEnabled(false);
             ui->pushButton_reveal->setEnabled(false);
             ui->pushButton_suppr->setEnabled(false);
+            if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
         }
         timecount--;
     }
@@ -882,5 +888,23 @@ void first_game::on_pushButton_time_clicked()
     ui->pushButton_time->setEnabled(false);
     check_time=false;
     ui->pushButton_time->setStyleSheet("#pushButton_time{image: url(img/icon/ic/time_red.png)0 0 0 0 scretch  scretch; border-radius:18px;}");
+}
+
+
+void first_game::on_pushButton_AI_clicked()
+{
+    if(AI_click)
+    {
+        ai = new AIchat();
+
+        ai->setWindowIcon(QIcon("img/icon/AI.png"));
+        ai->setWindowTitle("AI chat");
+        ai->show();
+        ai->setFixedSize(ai->size());
+        AI_click = false;
+        ui->pushButton_AI->setEnabled(false);
+        ui->pushButton_AI->setStyleSheet("image: url(img/icon/AI_h_f.png) ;border-radius:10px;");
+    }
+
 }
 

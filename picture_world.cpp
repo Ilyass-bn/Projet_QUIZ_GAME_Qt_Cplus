@@ -17,6 +17,7 @@ picture_world::picture_world(QWidget *parent)
     , ui(new Ui::picture_world)
 {
     ui->setupUi(this);
+    ai=nullptr;
     player = new QMediaPlayer(this);
     audioOutput = new QAudioOutput(this);
     player->setAudioOutput(audioOutput);
@@ -203,24 +204,28 @@ void picture_world::loadQuestion()
 }
 void picture_world::on_pushButton_option1_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option1);
 }
 
 
 void picture_world::on_pushButton_option2_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option2);
 }
 
 
 void picture_world::on_pushButton_option3_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option3);
 }
 
 
 void picture_world::on_pushButton_option4_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option4);
 }
 void picture_world::checkanswer(QPushButton *button)
@@ -680,6 +685,7 @@ void picture_world::timefonction(){
             ui->pushButton_time->setEnabled(false);
             ui->pushButton_reveal->setEnabled(false);
             ui->pushButton_suppr->setEnabled(false);
+            if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
         }
         timecount--;
     }
@@ -859,5 +865,22 @@ void picture_world::on_pushButton_time_clicked()
     ui->pushButton_time->setEnabled(false);
     check_time=false;
     ui->pushButton_time->setStyleSheet("#pushButton_time{image: url(img/icon/ic/picture_world_icon/buttons/time_red.png)0 0 0 0 scretch  scretch; border-radius:18px;}");
+}
+
+
+void picture_world::on_pushButton_AI_clicked()
+{
+    if(AI_click)
+    {
+        ai = new AIchat();
+
+        ai->setWindowIcon(QIcon("img/icon/AI.png"));
+        ai->setWindowTitle("AI chat");
+        ai->show();
+        ai->setFixedSize(ai->size());
+        AI_click = false;
+        ui->pushButton_AI->setEnabled(false);
+        ui->pushButton_AI->setStyleSheet("image: url(img/icon/AI_f.png) ;border-radius:10px;");
+    }
 }
 

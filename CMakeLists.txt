@@ -9,8 +9,8 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Multimedia LinguistTools Sql)
-find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Multimedia LinguistTools Sql)
+find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Multimedia LinguistTools Sql Widgets Network)
+find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Multimedia LinguistTools Sql Widgets Network)
 
 set(PROJECT_SOURCES
         main.cpp
@@ -31,6 +31,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         world_cup.h world_cup.cpp world_cup.ui
         picture_world.h picture_world.cpp picture_world.ui
         picture_m.h picture_m.cpp picture_m.ui
+        aichat.h aichat.cpp aichat.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Projet_quiz_game APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

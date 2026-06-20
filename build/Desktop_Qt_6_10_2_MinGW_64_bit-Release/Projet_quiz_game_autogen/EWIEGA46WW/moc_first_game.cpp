@@ -7,6 +7,7 @@
 *****************************************************************************/
 
 #include "../../../../first_game.h"
+#include <QtNetwork/QSslError>
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>
@@ -58,7 +59,8 @@ template <> constexpr inline auto first_game::qt_create_metaobjectdata<qt_meta_t
         "timefonction",
         "on_pushButton_suppr_clicked",
         "on_pushButton_reveal_clicked",
-        "on_pushButton_time_clicked"
+        "on_pushButton_time_clicked",
+        "on_pushButton_AI_clicked"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -98,6 +100,8 @@ template <> constexpr inline auto first_game::qt_create_metaobjectdata<qt_meta_t
         QtMocHelpers::SlotData<void()>(19, 2, QMC::AccessPrivate, QMetaType::Void),
         // Slot 'on_pushButton_time_clicked'
         QtMocHelpers::SlotData<void()>(20, 2, QMC::AccessPrivate, QMetaType::Void),
+        // Slot 'on_pushButton_AI_clicked'
+        QtMocHelpers::SlotData<void()>(21, 2, QMC::AccessPrivate, QMetaType::Void),
     };
     QtMocHelpers::UintData qt_properties {
     };
@@ -137,6 +141,7 @@ void first_game::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         case 13: _t->on_pushButton_suppr_clicked(); break;
         case 14: _t->on_pushButton_reveal_clicked(); break;
         case 15: _t->on_pushButton_time_clicked(); break;
+        case 16: _t->on_pushButton_AI_clicked(); break;
         default: ;
         }
     }
@@ -177,14 +182,14 @@ int first_game::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 16)
+        if (_id < 17)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 16;
+        _id -= 17;
     }
     if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 16)
+        if (_id < 17)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 16;
+        _id -= 17;
     }
     return _id;
 }

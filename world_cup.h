@@ -8,6 +8,7 @@
 #include<QVector>
 #include<QPushButton>
 #include <QMediaPlayer>
+#include "aichat.h"
 #include <QAudioOutput>
 #include <QtSql>
 namespace Ui {
@@ -61,6 +62,8 @@ private slots:
 
     void on_pushButton_time_clicked();
 
+    void on_pushButton_AI_clicked();
+
 private:
     Ui::world_cup *ui;
     int score;
@@ -87,6 +90,8 @@ private:
     bool revealStarted = false;
     bool check_time=true;
     bool isclicked_reveal=true;
+    bool AI_click=true;
+    AIchat *ai;
 };
 
 #endif // WORLD_CUP_H

@@ -19,6 +19,7 @@ food_game::food_game(QWidget *parent)
     , ui(new Ui::food_game)
 {
     ui->setupUi(this);
+    ai=nullptr;
     player = new QMediaPlayer(this);
     audioOutput = new QAudioOutput(this);
     player->setAudioOutput(audioOutput);
@@ -208,24 +209,28 @@ void food_game::loadQuestion()
 }
 void food_game::on_pushButton_option1_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option1);
 }
 
 
 void food_game::on_pushButton_option2_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option2);
 }
 
 
 void food_game::on_pushButton_option3_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option3);
 }
 
 
 void food_game::on_pushButton_option4_clicked()
 {
+    if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
     checkanswer(ui->pushButton_option4);
 }
 void food_game::checkanswer(QPushButton *button)
@@ -696,6 +701,7 @@ void food_game::timefonction(){
             ui->pushButton_time->setEnabled(false);
             ui->pushButton_reveal->setEnabled(false);
             ui->pushButton_suppr->setEnabled(false);
+            if(!AI_click){ui->pushButton_AI->setEnabled(false);if(ai != nullptr && ai->isVisible()){ai->close();}}
         }
         timecount--;
     }
@@ -875,5 +881,22 @@ void food_game::on_pushButton_time_clicked()
     ui->pushButton_time->setEnabled(false);
     check_time=false;
     ui->pushButton_time->setStyleSheet("#pushButton_time{image: url(img/icon/ic/food_icon/time_red.png)0 0 0 0 scretch  scretch; border-radius:18px;}");
+}
+
+
+void food_game::on_pushButton_AI_clicked()
+{
+    if(AI_click)
+    {
+        ai = new AIchat();
+
+        ai->setWindowIcon(QIcon("img/icon/AI.png"));
+        ai->setWindowTitle("AI chat");
+        ai->show();
+        ai->setFixedSize(ai->size());
+        AI_click = false;
+        ui->pushButton_AI->setEnabled(false);
+        ui->pushButton_AI->setStyleSheet("image: url(img/icon/AI_f.png) ;border-radius:10px;");
+    }
 }
 

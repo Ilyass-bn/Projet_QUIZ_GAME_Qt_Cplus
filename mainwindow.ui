@@ -47,7 +47,7 @@ border-image: url(img/icon/ic/backgr_main.png) 0 0 0 0 scretch scretch;}
 </string>
       </property>
       <property name="currentIndex">
-       <number>5</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="page_main">
        <widget class="QWidget" name="layoutWidget">
@@ -331,6 +331,28 @@ border-image: url(img/icon/ic/backgr_main.png) 0 0 0 0 scretch scretch;}
         </property>
         <property name="flat">
          <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_26">
+        <property name="geometry">
+         <rect>
+          <x>170</x>
+          <y>0</y>
+          <width>91</width>
+          <height>61</height>
+         </rect>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">#pushButton_26{
+	image: url(img/icon/AI.png);
+   border-radius:10px;
+}</string>
+        </property>
+        <property name="text">
+         <string/>
         </property>
        </widget>
       </widget>
@@ -4454,7 +4476,7 @@ color:black;</string>
      <x>0</x>
      <y>0</y>
      <width>414</width>
-     <height>29</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>

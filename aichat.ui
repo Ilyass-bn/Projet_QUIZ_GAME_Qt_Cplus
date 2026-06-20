@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AIchat</class>
+ <widget class="QWidget" name="AIchat">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>398</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="sendButton">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>350</y>
+     <width>71</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#sendButton {
+    background-color: #0078d4; /* Sleek Microsoft/Modern Blue */
+    color: white;
+    border: none;
+    border-radius: 20px; /* Matches the line edit height roundness */
+    padding: 8px 20px;
+    font-family: &quot;Segoe UI&quot;, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+}
+QPushButton#sendButton:hover {
+    background-color: #106ebe; /* Darker blue on hover */
+}
+
+QPushButton#sendButton:pressed {
+    background-color: #005a9e; /* Even darker when clicked */
+}</string>
+   </property>
+   <property name="text">
+    <string>Send</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="messageEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>350</y>
+     <width>311</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit#messageEdit {
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 20px; /* Makes it pill-shaped and modern */
+    padding: 8px 16px;padding-left:20px;
+    font-family: &quot;Segoe UI&quot;, Arial, sans-serif;
+    font-size: 13px;
+    color: #333333;
+}
+QLineEdit#messageEdit:focus {
+    border: 1px solid #0078d4; /* Highlights blue when typing */
+}</string>
+   </property>
+   <property name="placeholderText">
+    <string>Type a message ...</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="chatBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>381</width>
+     <height>331</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QTextBrowser, QTextEdit#chatBox {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 12px;
+    font-family: &quot;Segoe UI&quot;, Arial, sans-serif;
+    font-size: 13px;
+    color: #333333;
+}
+
+
+QScrollBar:vertical {
+       background: transparent;
+       width: 10px;
+      margin: 4px 0px 4px 0px;
+    }
+    QScrollBar::handle:vertical {
+       background: #C4C4C4;
+       border-radius: 5px;
+       min-height: 30px;
+    }
+    QScrollBar::handle:vertical:hover {
+      background: #A0A0A0;
+    }
+    QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+       height: 0px;
+    }
+    QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+       background: none;
+    }</string>
+   </property>
+  </widget>
+  <zorder>messageEdit</zorder>
+  <zorder>chatBox</zorder>
+  <zorder>sendButton</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

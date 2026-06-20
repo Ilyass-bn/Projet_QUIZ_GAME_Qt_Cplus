@@ -45,6 +45,7 @@ public:
     QLabel *label_icon_princ;
     QPushButton *pushButton;
     QPushButton *pushButton_start_5;
+    QPushButton *pushButton_26;
     QWidget *page_about;
     QPushButton *pushButton_5;
     QLabel *creditsLabel;
@@ -394,6 +395,14 @@ public:
         pushButton_start_5->setAutoRepeat(false);
         pushButton_start_5->setAutoExclusive(false);
         pushButton_start_5->setFlat(false);
+        pushButton_26 = new QPushButton(page_main);
+        pushButton_26->setObjectName("pushButton_26");
+        pushButton_26->setGeometry(QRect(170, 0, 91, 61));
+        pushButton_26->setCursor(QCursor(Qt::CursorShape::PointingHandCursor));
+        pushButton_26->setStyleSheet(QString::fromUtf8("#pushButton_26{\n"
+"	image: url(img/icon/AI.png);\n"
+"   border-radius:10px;\n"
+"}"));
         stackedWidget->addWidget(page_main);
         page_about = new QWidget();
         page_about->setObjectName("page_about");
@@ -2298,12 +2307,12 @@ public:
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 414, 29));
+        menubar->setGeometry(QRect(0, 0, 414, 21));
         MainWindow->setMenuBar(menubar);
 
         retranslateUi(MainWindow);
 
-        stackedWidget->setCurrentIndex(5);
+        stackedWidget->setCurrentIndex(0);
         pushButton_start->setDefault(false);
         pushButton_start_5->setDefault(false);
         pushButton_son->setDefault(false);
@@ -2323,6 +2332,7 @@ public:
         label_icon_princ->setText(QString());
         pushButton->setText(QString());
         pushButton_start_5->setText(QString());
+        pushButton_26->setText(QString());
         pushButton_5->setText(QString());
         creditsLabel->setText(QCoreApplication::translate("MainWindow", "TextLabel", nullptr));
         pushButton_6->setText(QString());

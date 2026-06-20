@@ -6,12 +6,14 @@
 #include<QSoundEffect>
 #include"food_game.h"
 #include "world_cup.h"
+#include "aichat.h"
 #include <QTranslator>
 #include "picture_world.h"
 #include "picture_m.h"
 #include <QtSql>
 #include <QMediaPlayer>
 #include <QAudioOutput>
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
@@ -164,6 +166,8 @@ private slots:
 
     void on_pushButton_next_clicked();
 
+    void on_pushButton_26_clicked();
+
 protected:
     bool eventFilter(QObject *obj, QEvent *event) override;
 private:
@@ -173,6 +177,7 @@ private:
     world_cup *third;
     picture_world *quatro;
     picture_m *cinqo;
+    AIchat *ai;
     QString l = "Eng";
     QSoundEffect clickSound;
     QTranslator translator;

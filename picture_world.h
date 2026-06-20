@@ -8,6 +8,7 @@
 #include<QVector>
 #include<QPushButton>
 #include <QtSql>
+#include "aichat.h"
 #include <QMediaPlayer>
 #include <QAudioOutput>
 namespace Ui {
@@ -59,6 +60,8 @@ private slots:
     void on_pushButton_reveal_clicked();
     void on_pushButton_time_clicked();
 
+    void on_pushButton_AI_clicked();
+
 private:
     Ui::picture_world *ui;
     int score;
@@ -85,6 +88,8 @@ private:
     bool revealStarted = false;
     bool check_time=true;
     bool isclicked_reveal=true;
+    bool AI_click=true;
+    AIchat *ai;
 };
 
 #endif // PICTURE_WORLD_H

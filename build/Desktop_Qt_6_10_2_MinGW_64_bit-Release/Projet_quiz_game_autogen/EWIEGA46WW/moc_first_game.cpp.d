@@ -1,14 +1,22 @@
 C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/Projet_quiz_game_autogen/EWIEGA46WW/moc_first_game.cpp: C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/first_game.h \
   C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/Projet_quiz_game_autogen/moc_predefs.h \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QDeadlineTimer \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QFlags \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QHash \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QIODevice \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QJsonArray \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QJsonDocument \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QJsonObject \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QList \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QMap \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QMetaType \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QMutex \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QSharedDataPointer \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QString \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QStringList \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QTimer \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QUrl \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QVariant \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QtCore \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QtCoreDepends \
@@ -325,6 +333,27 @@ C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAM
   C:/Qt/6.10.2/mingw_64/include/QtMultimedia/qtmultimedia-config.h \
   C:/Qt/6.10.2/mingw_64/include/QtMultimedia/qtmultimediaexports.h \
   C:/Qt/6.10.2/mingw_64/include/QtMultimedia/qtmultimediaglobal.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/QNetworkAccessManager \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/QNetworkReply \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qabstractsocket.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qhostaddress.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qnetworkaccessmanager.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qnetworkreply.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qsslsocket.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qtcpsocket.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qtnetwork-config.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qtnetworkexports.h \
+  C:/Qt/6.10.2/mingw_64/include/QtNetwork/qtnetworkglobal.h \
   C:/Qt/6.10.2/mingw_64/include/QtSql/QtSql \
   C:/Qt/6.10.2/mingw_64/include/QtSql/QtSqlDepends \
   C:/Qt/6.10.2/mingw_64/include/QtSql/qsqldatabase.h \
@@ -718,4 +747,5 @@ C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAM
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
-  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/aichat.h

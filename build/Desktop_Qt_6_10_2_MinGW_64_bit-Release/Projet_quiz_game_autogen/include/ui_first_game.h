@@ -47,6 +47,7 @@ public:
     QLabel *hiding;
     QPushButton *pushButton_time;
     QLabel *label;
+    QPushButton *pushButton_AI;
     QWidget *page_result;
     QLabel *label_score;
     QLabel *label_image_score;
@@ -316,6 +317,18 @@ public:
         label->setGeometry(QRect(127, 18, 31, 16));
         label->setStyleSheet(QString::fromUtf8("font: 900 9pt \"Segoe UI\";\n"
 "color:black;"));
+        pushButton_AI = new QPushButton(page);
+        pushButton_AI->setObjectName("pushButton_AI");
+        pushButton_AI->setGeometry(QRect(50, 0, 61, 51));
+        sizePolicy1.setHeightForWidth(pushButton_AI->sizePolicy().hasHeightForWidth());
+        pushButton_AI->setSizePolicy(sizePolicy1);
+        pushButton_AI->setMinimumSize(QSize(20, 20));
+        pushButton_AI->setCursor(QCursor(Qt::CursorShape::PointingHandCursor));
+        pushButton_AI->setStyleSheet(QString::fromUtf8("#pushButton_AI{\n"
+"  image: url(img/icon/AI_h.png)0 0 0 0 scretch  scretch;\n"
+"  border-radius:18px;\n"
+"}\n"
+""));
         stackedWidget->addWidget(page);
         page_result = new QWidget();
         page_result->setObjectName("page_result");
@@ -391,6 +404,7 @@ public:
         hiding->setText(QCoreApplication::translate("first_game", "TextLabel", nullptr));
         pushButton_time->setText(QString());
         label->setText(QCoreApplication::translate("first_game", "+15", nullptr));
+        pushButton_AI->setText(QString());
         label_score->setText(QCoreApplication::translate("first_game", "Too Bad!!", nullptr));
         label_image_score->setText(QString());
         label_scoring->setText(QCoreApplication::translate("first_game", "TextLabel", nullptr));

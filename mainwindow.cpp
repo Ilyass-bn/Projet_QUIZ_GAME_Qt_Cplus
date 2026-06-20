@@ -32,6 +32,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    ai = nullptr;
     initCreditsUI();
     //base de donnes
 
@@ -143,6 +144,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     connect(ui->horizontalSlider, &QSlider::valueChanged, this, &MainWindow::change_volume);
     connect(ui->checkBox, &QCheckBox::checkStateChanged, this, &MainWindow::on_checkBox_checkStateChanged);
+
 }
 
 
@@ -221,7 +223,7 @@ void MainWindow::on_pushButton_start_3_clicked()
     first->setlang(l);
     connect(first, &first_game::backToMain,this, &MainWindow::show);
     first->show();
-    first->setFixedSize(first->size());
+    first->setFixedSize(first->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -231,6 +233,7 @@ void MainWindow::on_pushButton_start_long_play_clicked()
 
     first = new first_game();
     first->setCurrentUser(ui->Name->text());
+
     first->game(0);
     first->setsoundes(soundes);
     first->setWindowIcon(QIcon("img/icon/quiz.png"));
@@ -239,7 +242,8 @@ void MainWindow::on_pushButton_start_long_play_clicked()
     first->setlang(l);
     connect(first, &first_game::backToMain,this, &MainWindow::show);
     first->show();
-    first->setFixedSize(first->size());
+    first->setFixedSize(first->size());if(ai != nullptr && ai->isVisible()){ai->close();}
+
 }
 
 
@@ -250,6 +254,7 @@ void MainWindow::on_pushButton_start_long_play_2_clicked()
 
     first = new first_game();
     first->setCurrentUser(ui->Name->text());
+
     first->game(0);
     first->setsoundes(soundes);
     first->setWindowIcon(QIcon("img/icon/quiz.png"));
@@ -278,7 +283,7 @@ void MainWindow::on_pushButton_start_long_play_2_clicked()
 
     connect(first, &first_game::backToMain,this, &MainWindow::show);
     first->show();
-    first->setFixedSize(first->size());
+    first->setFixedSize(first->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -492,6 +497,7 @@ void MainWindow::on_pushButton_start_food_quick_game_clicked()
 
     second = new food_game();
     second->setCurrentUser(ui->Name->text());
+
     second->game(0);
     second->setsoundes(soundes);
     second->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -500,7 +506,7 @@ void MainWindow::on_pushButton_start_food_quick_game_clicked()
     second->setlang_food(l);
     connect(second, &food_game::backToMain,this, &MainWindow::show);
     second->show();
-    second->setFixedSize(second->size());
+    second->setFixedSize(second->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -510,6 +516,7 @@ void MainWindow::on_pushButton_start_food_long_play_3_clicked()
 
     second = new food_game();
     second->setCurrentUser(ui->Name->text());
+
     second->game(0);
     second->setsoundes(soundes);
     second->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -518,7 +525,7 @@ void MainWindow::on_pushButton_start_food_long_play_3_clicked()
     second->setlang_food(l);
     connect(second, &food_game::backToMain,this, &MainWindow::show);
     second->show();
-    second->setFixedSize(second->size());
+    second->setFixedSize(second->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -528,6 +535,7 @@ void MainWindow::on_pushButton_start_food_long_play_4_clicked()
 
     second = new food_game();
     second->setCurrentUser(ui->Name->text());
+
     second->game(0);
     second->setsoundes(soundes);
     second->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -557,7 +565,7 @@ void MainWindow::on_pushButton_start_food_long_play_4_clicked()
 
     connect(second, &food_game::backToMain,this, &MainWindow::show);
     second->show();
-    second->setFixedSize(second->size());
+    second->setFixedSize(second->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -579,6 +587,7 @@ void MainWindow::on_pushButton_start_cup_quick_game_clicked()
 
     third = new world_cup();
     third->setCurrentUser(ui->Name->text());
+
     third->game(0);
     third->setsoundes(soundes);
     third->setWindowIcon(QIcon("img/icon/ic/mondial_icon/icon_mondial.png"));
@@ -587,7 +596,7 @@ void MainWindow::on_pushButton_start_cup_quick_game_clicked()
     third->setlang(l);
     connect(third, &world_cup::backToMain,this, &MainWindow::show);
     third->show();
-    third->setFixedSize(third->size());
+    third->setFixedSize(third->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -597,6 +606,7 @@ void MainWindow::on_pushButton_start_cup_long_play_clicked()
 
     third = new world_cup();
     third->setWindowIcon(QIcon("img/icon/ic/mondial_icon/icon_mondial.png"));
+
     third->game(0);
     third->setsoundes(soundes);
     third->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -605,7 +615,7 @@ void MainWindow::on_pushButton_start_cup_long_play_clicked()
     third->setlang(l);
     connect(third, &world_cup::backToMain,this, &MainWindow::show);
     third->show();
-    third->setFixedSize(third->size());
+    third->setFixedSize(third->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -615,6 +625,7 @@ void MainWindow::on_pushButton_start_cup_long_play_7_clicked()
 
     third = new world_cup();
     third->setCurrentUser(ui->Name->text());
+
     third->game(0);
     third->setsoundes(soundes);
     third->setWindowIcon(QIcon("img/icon/ic/mondial_icon/icon_mondial.png"));
@@ -642,7 +653,7 @@ void MainWindow::on_pushButton_start_cup_long_play_7_clicked()
     third->setlang(l);
     connect(third, &world_cup::backToMain,this, &MainWindow::show);
     third->show();
-    third->setFixedSize(third->size());
+    third->setFixedSize(third->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -688,6 +699,7 @@ void MainWindow::on_pushButton_start_picture_world_quick_game_clicked()
 
     quatro = new picture_world();
     quatro->setCurrentUser(ui->Name->text());
+
     quatro->game(0);
     quatro->setsoundes(soundes);
     quatro->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -696,7 +708,7 @@ void MainWindow::on_pushButton_start_picture_world_quick_game_clicked()
     quatro->setlangw(l);
     connect(quatro, &picture_world::backToMain,this, &MainWindow::show);
     quatro->show();
-    quatro->setFixedSize(quatro->size());
+    quatro->setFixedSize(quatro->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -834,6 +846,7 @@ void MainWindow::on_pushButton_start_picture_custom_clicked()
 
     quatro = new picture_world();
     quatro->setCurrentUser(ui->Name->text());
+
     quatro->game(0);
     quatro->setsoundes(soundes);
     quatro->setlangw(l);
@@ -860,7 +873,7 @@ void MainWindow::on_pushButton_start_picture_custom_clicked()
 
     connect(quatro, &picture_world::backToMain,this, &MainWindow::show);
     quatro->show();
-    quatro->setFixedSize(quatro->size());
+    quatro->setFixedSize(quatro->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -870,6 +883,7 @@ void MainWindow::on_pushButton_start_picture_long_play_1_clicked()
 
     quatro = new picture_world();
     quatro->setCurrentUser(ui->Name->text());
+
     quatro->game(0);
     quatro->setsoundes(soundes);
     quatro->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -878,7 +892,7 @@ void MainWindow::on_pushButton_start_picture_long_play_1_clicked()
     quatro->setlangw(l);
     connect(quatro, &picture_world::backToMain,this, &MainWindow::show);
     quatro->show();
-    quatro->setFixedSize(quatro->size());
+    quatro->setFixedSize(quatro->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -906,6 +920,7 @@ void MainWindow::on_pushButton_start_picture_world_quick_game_m_clicked()
     QString base = QCoreApplication::applicationDirPath() + "/";
     cinqo = new picture_m();
     cinqo->setCurrentUser(ui->Name->text());
+
     cinqo->game(0);
     cinqo->setsoundes(soundes);
     cinqo->setWindowIcon(QIcon(base+"img/icon/ic/picture_world_icon/icon_morocco.png"));
@@ -914,7 +929,7 @@ void MainWindow::on_pushButton_start_picture_world_quick_game_m_clicked()
     cinqo->setlangw(l);
     connect(cinqo, &picture_m::backToMain,this, &MainWindow::show);
     cinqo->show();
-    cinqo->setFixedSize(cinqo->size());
+    cinqo->setFixedSize(cinqo->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -924,6 +939,7 @@ void MainWindow::on_pushButton_start_picture_long_play_m_clicked()
     QString base = QCoreApplication::applicationDirPath() + "/";
     cinqo = new picture_m();
     cinqo->setCurrentUser(ui->Name->text());
+
     cinqo->game(0);
     cinqo->setsoundes(soundes);
     cinqo->setWindowIcon(QIcon(base+"img/icon/ic/picture_world_icon/icon_morocco.png"));
@@ -932,7 +948,7 @@ void MainWindow::on_pushButton_start_picture_long_play_m_clicked()
     cinqo->setlangw(l);
     connect(cinqo, &picture_m::backToMain,this, &MainWindow::show);
     cinqo->show();
-    cinqo->setFixedSize(cinqo->size());
+    cinqo->setFixedSize(cinqo->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -942,6 +958,7 @@ void MainWindow::on_pushButton_start_picture_custom_m_clicked()
     QString base = QCoreApplication::applicationDirPath() + "/";
     cinqo = new picture_m();
     cinqo->setCurrentUser(ui->Name->text());
+
     cinqo->game(0);
     cinqo->setsoundes(soundes);
     cinqo->setlangw(l);
@@ -970,7 +987,7 @@ void MainWindow::on_pushButton_start_picture_custom_m_clicked()
 
     connect(cinqo, &picture_m::backToMain,this, &MainWindow::show);
     cinqo->show();
-    cinqo->setFixedSize(cinqo->size());
+    cinqo->setFixedSize(cinqo->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -1002,6 +1019,7 @@ void MainWindow::on_pushButton_start_challenge_clicked()
 
     first = new first_game();
     first->setCurrentUser(ui->Name->text());
+
     first->setsoundes(soundes);
     first->setWindowIcon(QIcon("img/icon/quiz.png"));
     first->setWindowTitle("Flag game challenge");
@@ -1010,7 +1028,7 @@ void MainWindow::on_pushButton_start_challenge_clicked()
     first->setlang(l);
     connect(first, &first_game::backToMain,this, &MainWindow::show);
     first->show();
-    first->setFixedSize(first->size());
+    first->setFixedSize(first->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -1020,6 +1038,7 @@ void MainWindow::on_pushButton_start_cup_challenge_clicked()
 
     third = new world_cup();
     third->setCurrentUser(ui->Name->text());
+
     third->game(1);
     third->setsoundes(soundes);
     third->setWindowIcon(QIcon("img/icon/ic/mondial_icon/icon_mondial.png"));
@@ -1028,7 +1047,7 @@ void MainWindow::on_pushButton_start_cup_challenge_clicked()
     third->setlang(l);
     connect(third, &world_cup::backToMain,this, &MainWindow::show);
     third->show();
-    third->setFixedSize(third->size());
+    third->setFixedSize(third->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -1038,6 +1057,7 @@ void MainWindow::on_pushButton_start_food_challenge_clicked()
 
     second = new food_game();
     second->setCurrentUser(ui->Name->text());
+
     second->game(1);
     second->setsoundes(soundes);
     second->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -1046,7 +1066,7 @@ void MainWindow::on_pushButton_start_food_challenge_clicked()
     second->setlang_food(l);
     connect(second, &food_game::backToMain,this, &MainWindow::show);
     second->show();
-    second->setFixedSize(second->size());
+    second->setFixedSize(second->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -1056,6 +1076,7 @@ void MainWindow::on_pushButton_start_picture_challenge_clicked()
 
     quatro = new picture_world();
     quatro->setCurrentUser(ui->Name->text());
+
     quatro->game(1);
     quatro->setsoundes(soundes);
     quatro->setWindowIcon(QIcon("img/icon/quiz_food.png"));
@@ -1064,7 +1085,7 @@ void MainWindow::on_pushButton_start_picture_challenge_clicked()
     quatro->setlangw(l);
     connect(quatro, &picture_world::backToMain,this, &MainWindow::show);
     quatro->show();
-    quatro->setFixedSize(quatro->size());
+    quatro->setFixedSize(quatro->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -1074,6 +1095,7 @@ void MainWindow::on_pushButton_start_picture_challenge_2_clicked()
     QString base = QCoreApplication::applicationDirPath() + "/";
     cinqo = new picture_m();
     cinqo->setCurrentUser(ui->Name->text());
+
     cinqo->game(1);
     cinqo->setsoundes(soundes);
     cinqo->setWindowIcon(QIcon(base+"img/icon/ic/picture_world_icon/icon_morocco.png"));
@@ -1082,7 +1104,7 @@ void MainWindow::on_pushButton_start_picture_challenge_2_clicked()
     cinqo->setlangw(l);
     connect(cinqo, &picture_m::backToMain,this, &MainWindow::show);
     cinqo->show();
-    cinqo->setFixedSize(cinqo->size());
+    cinqo->setFixedSize(cinqo->size());if(ai != nullptr && ai->isVisible()){ai->close();}
 }
 
 
@@ -1412,5 +1434,18 @@ void MainWindow::on_pushButton_pause_clicked()
 void MainWindow::on_pushButton_next_clicked()
 {
     ui->pushButton_25->clicked(true);ui->pushButton_25->clicked(false);
+}
+
+
+
+
+void MainWindow::on_pushButton_26_clicked()
+{
+    ai = new AIchat();
+
+    ai->setWindowIcon(QIcon("img/icon/AI.png"));
+    ai->setWindowTitle("AI chat");
+    ai->show();
+    ai->setFixedSize(ai->size());
 }
 

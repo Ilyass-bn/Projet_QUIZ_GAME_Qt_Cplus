@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-a9d0f510aa69a5c88c5e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Projet_quiz_game",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_quiz_game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_quiz_game-Release-f53b76e7a2184b05927e.json",
+					"name" : "Projet_quiz_game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_quiz_game_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_quiz_game_autogen-Release-8d988798e3c6c94df8d2.json",
+					"name" : "Projet_quiz_game_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_quiz_game_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_quiz_game_autogen_timestamp_deps-Release-7381017ebcffd9175035.json",
+					"name" : "Projet_quiz_game_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_quiz_game_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_quiz_game_lrelease-Release-768d6489bfee2fa13320.json",
+					"name" : "Projet_quiz_game_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_quiz_game_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_quiz_game_lupdate-Release-3516517309da3eb56700.json",
+					"name" : "Projet_quiz_game_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_quiz_game_lupdate1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_quiz_game_lupdate1-Release-a7a5d09c68e8af3991cd.json",
+					"name" : "Projet_quiz_game_lupdate1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Release-5a9b1f6c3272e44c664b.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Release-f7bad171a97bd9bbf6c4.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

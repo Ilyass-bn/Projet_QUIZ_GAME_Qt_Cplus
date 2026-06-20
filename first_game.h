@@ -8,6 +8,7 @@
 #include<QSoundEffect>
 #include<QMediaPlayer>
 #include <QtSql>
+#include "aichat.h"
 #include <QMediaPlayer>
 #include <QAudioOutput>
 
@@ -63,6 +64,8 @@ private slots:
 
     void on_pushButton_time_clicked();
 
+    void on_pushButton_AI_clicked();
+
 private:
     Ui::first_game *ui;
     int score;
@@ -82,13 +85,14 @@ private:
     QAudioOutput *audioOutput;
     bool check_5050;
     bool soundes;
-
+    AIchat *ai;
     int revealClickCount = 0;
     const int REVEAL_CLICKS_NEEDED = 85;
     bool check_reveal = true;
     bool revealStarted = false;
     bool check_time=true;
     bool isclicked_reveal=true;
+    bool AI_click=true;
 };
 
 
