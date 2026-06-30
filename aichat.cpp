@@ -13,6 +13,7 @@ AIchat::AIchat(QWidget *parent)
             &QPushButton::clicked,
             this,
             &AIchat::sendMessage);
+    connect(ui->screenshotButton, &QPushButton::clicked, this, &AIchat::sendScreenshot);
 
     ui->chatBox->setReadOnly(true);
     ui->chatBox->setTextInteractionFlags(Qt::TextSelectableByMouse);
@@ -70,7 +71,8 @@ void AIchat::sendMessage()
     conversationHistory.append(userMsg);
 
     QJsonObject body;
-    body["model"] = "llama-3.1-8b-instant";
+    //body["model"] = "llama-3.1-8b-instant";meta-llama/llama-4-scout-17b-16e-instruct
+    body["model"] = "meta-llama/llama-4-scout-17b-16e-instruct";
     body["messages"] = conversationHistory;
 
     QNetworkReply *reply = manager->post(request, QJsonDocument(body).toJson());
@@ -118,6 +120,130 @@ void AIchat::sendMessage()
             "  <td></td>"
             "</tr></table>"
             "<br/>";
+        ui->chatBox->append(aiHtml);
+    });
+}
+
+
+void AIchat::sendScreenshot()
+{
+    QString filePath = QFileDialog::getOpenFileName(
+        this,
+        "Choisir une image",
+        "",
+        "Images (*.png *.jpg *.jpeg *.bmp)"
+        );
+
+    if (filePath.isEmpty())
+        return;
+
+    QPixmap pixmap(filePath);
+    if (pixmap.isNull()) {
+        QString errorHtml =
+            "<div style='margin-bottom: 14px; text-align: center;'>"
+            "  <div style='display: inline-block; background-color: #FBE0E0; "
+            "              color: #B00020; border-radius: 10px; padding: 8px 14px;'>"
+            "    Error: Impossible de charger l'image"
+            "  </div>"
+            "</div>";
+        ui->chatBox->append(errorHtml);
+        return;
+    }
+
+    if (pixmap.width() > 1280 || pixmap.height() > 1280)
+        pixmap = pixmap.scaled(1280, 1280, Qt::KeepAspectRatio, Qt::SmoothTransformation);
+
+    QByteArray imageData;
+    QBuffer buffer(&imageData);
+    buffer.open(QIODevice::WriteOnly);
+    pixmap.save(&buffer, "PNG");
+    QString base64Image = imageData.toBase64();
+
+    QString userHtml =
+        "<table width='100%' cellspacing='0' cellpadding='0'><tr>"
+        "  <td></td>"
+        "  <td align='right'>"
+        "    <table cellpadding='10' cellspacing='0' style='background-color:#B7E4C7; border-radius:10px;'>"
+        "      <tr><td>"
+        "        <b>You</b><br/>"
+        "         Image envoyee"
+        "      </td></tr>"
+        "    </table>"
+        "  </td>"
+        "</tr></table><br/>";
+    ui->chatBox->append(userHtml);
+
+    QNetworkRequest request(QUrl("https://api.groq.com/openai/v1/chat/completions"));
+    request.setHeader(QNetworkRequest::ContentTypeHeader, "application/json");
+    request.setRawHeader("Authorization", ("Bearer " + GROQ_API_KEY).toUtf8());
+
+    QJsonObject textPart;
+    textPart["type"] = "text";
+    textPart["text"] = "Analyse cette image et dis-moi ce que tu vois.";
+
+    QJsonObject imageUrlObj;
+    imageUrlObj["url"] = "data:image/png;base64," + base64Image;
+
+    QJsonObject imagePart;
+    imagePart["type"]      = "image_url";
+    imagePart["image_url"] = imageUrlObj;
+
+    QJsonArray contentArray;
+    contentArray.append(textPart);
+    contentArray.append(imagePart);
+
+    QJsonObject userMsg;
+    userMsg["role"]    = "user";
+    userMsg["content"] = contentArray;
+    conversationHistory.append(userMsg);
+
+    QJsonObject body;
+    body["model"]      = "meta-llama/llama-4-scout-17b-16e-instruct";
+    body["messages"]   = conversationHistory;
+    body["max_tokens"] = 1024;
+
+    QNetworkReply *reply = manager->post(request, QJsonDocument(body).toJson());
+
+    connect(reply, &QNetworkReply::finished, this, [this, reply]() {
+        reply->deleteLater();
+
+        if (reply->error() != QNetworkReply::NoError) {
+            QString errorHtml =
+                "<div style='margin-bottom: 14px; text-align: center;'>"
+                "  <div style='display: inline-block; background-color: #FBE0E0; "
+                "              color: #B00020; border-radius: 10px; padding: 8px 14px;'>"
+                "    Error: " + reply->errorString().toHtmlEscaped() +
+                "  </div>"
+                "</div>";
+            ui->chatBox->append(errorHtml);
+            return;
+        }
+
+        QJsonDocument doc     = QJsonDocument::fromJson(reply->readAll());
+        QJsonArray    choices = doc.object().value("choices").toArray();
+        if (choices.isEmpty()) return;
+
+        QString answer = choices[0].toObject()
+                             .value("message").toObject()
+                             .value("content").toString();
+
+        QJsonObject aiMsg;
+        aiMsg["role"]    = "assistant";
+        aiMsg["content"] = answer;
+        conversationHistory.append(aiMsg);
+
+        QString aiHtml =
+            "<table width='100%' cellspacing='0' cellpadding='0'><tr>"
+            "  <td align='left'>"
+            "    <table cellpadding='10' cellspacing='0' style='background-color:#E8E8E8; border-radius:10px;'>"
+            "      <tr><td>"
+            "        <b>AI</b><br/>"
+            + answer.toHtmlEscaped().replace("\n", "<br/>") +
+            "      </td></tr>"
+            "    </table>"
+            "  </td>"
+            "  <td></td>"
+            "</tr></table><br/>";
         ui->chatBox->append(aiHtml);
     });
 }

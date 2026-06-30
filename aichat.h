@@ -7,6 +7,10 @@
 #include <QJsonArray>
 #include <QJsonDocument>
 #include <QJsonObject>
+#include <QScreen>
+#include <QGuiApplication>
+#include <QBuffer>
+#include <QFileDialog>
 namespace Ui {
 class AIchat;
 }
@@ -20,6 +24,7 @@ public:
     ~AIchat();
 private slots:
     void sendMessage();
+    void sendScreenshot();
 private:
     Ui::AIchat *ui;
     QNetworkAccessManager *manager;

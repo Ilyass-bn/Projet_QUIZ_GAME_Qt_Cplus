@@ -1,0 +1,14 @@
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/Projet_quiz_game.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/Projet_quiz_game_lupdate.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/update_translations.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/Projet_quiz_game_lupdate1.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/Projet_quiz_game_lrelease.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/release_translations.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/edit_cache.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/rebuild_cache.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/list_install_components.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/install.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/install/local.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/install/strip.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/Projet_quiz_game_autogen_timestamp_deps.dir
+C:/Users/DBI/Desktop/Code_learning/C++/Projets/PROJET_QUIZ_GAME/Project_QUIZ_GAME_C++/build/Desktop_Qt_6_10_2_MinGW_64_bit-test/CMakeFiles/Projet_quiz_game_autogen.dir

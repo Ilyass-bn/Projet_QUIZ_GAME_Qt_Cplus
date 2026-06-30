@@ -21,44 +21,24 @@ QT_BEGIN_NAMESPACE
 class Ui_AIchat
 {
 public:
-    QPushButton *sendButton;
     QLineEdit *messageEdit;
     QTextEdit *chatBox;
+    QPushButton *screenshotButton;
+    QPushButton *sendButton;
 
     void setupUi(QWidget *AIchat)
     {
         if (AIchat->objectName().isEmpty())
             AIchat->setObjectName("AIchat");
         AIchat->resize(400, 398);
-        sendButton = new QPushButton(AIchat);
-        sendButton->setObjectName("sendButton");
-        sendButton->setGeometry(QRect(320, 350, 71, 41));
-        sendButton->setCursor(QCursor(Qt::CursorShape::PointingHandCursor));
-        sendButton->setStyleSheet(QString::fromUtf8("QPushButton#sendButton {\n"
-"    background-color: #0078d4; /* Sleek Microsoft/Modern Blue */\n"
-"    color: white;\n"
-"    border: none;\n"
-"    border-radius: 20px; /* Matches the line edit height roundness */\n"
-"    padding: 8px 20px;\n"
-"    font-family: \"Segoe UI\", Arial, sans-serif;\n"
-"    font-weight: bold;\n"
-"    font-size: 10px;\n"
-"}\n"
-"QPushButton#sendButton:hover {\n"
-"    background-color: #106ebe; /* Darker blue on hover */\n"
-"}\n"
-"\n"
-"QPushButton#sendButton:pressed {\n"
-"    background-color: #005a9e; /* Even darker when clicked */\n"
-"}"));
         messageEdit = new QLineEdit(AIchat);
         messageEdit->setObjectName("messageEdit");
-        messageEdit->setGeometry(QRect(10, 350, 311, 41));
+        messageEdit->setGeometry(QRect(10, 350, 381, 41));
         messageEdit->setStyleSheet(QString::fromUtf8("QLineEdit#messageEdit {\n"
 "    background-color: #ffffff;\n"
 "    border: 1px solid #dcdcdc;\n"
 "    border-radius: 20px; /* Makes it pill-shaped and modern */\n"
-"    padding: 8px 16px;padding-left:20px;\n"
+"    padding: 8px 16px;padding-left:50px;padding-right:60px;\n"
 "    font-family: \"Segoe UI\", Arial, sans-serif;\n"
 "    font-size: 13px;\n"
 "    color: #333333;\n"
@@ -99,9 +79,40 @@ public:
 "    QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {\n"
 "       background: none;\n"
 "    }"));
-        messageEdit->raise();
-        chatBox->raise();
-        sendButton->raise();
+        screenshotButton = new QPushButton(AIchat);
+        screenshotButton->setObjectName("screenshotButton");
+        screenshotButton->setGeometry(QRect(10, 350, 51, 41));
+        screenshotButton->setCursor(QCursor(Qt::CursorShape::PointingHandCursor));
+        screenshotButton->setStyleSheet(QString::fromUtf8("QPushButton#screenshotButton {\n"
+"    background-color: rgba(15, 95, 105,0.88);\n"
+"    border-radius: 20px; \n"
+"    image:url(\"img/icon/camera1.png\");\n"
+"    border:none;\n"
+"}\n"
+""));
+        sendButton = new QPushButton(AIchat);
+        sendButton->setObjectName("sendButton");
+        sendButton->setGeometry(QRect(330, 350, 61, 41));
+        sendButton->setCursor(QCursor(Qt::CursorShape::PointingHandCursor));
+        sendButton->setStyleSheet(QString::fromUtf8("QPushButton#sendButton {\n"
+"    background-color: #0078d4; \n"
+"    background-color: rgba(15, 95, 105,0.88);\n"
+"    image:url(\"img/icon/send.png\");\n"
+"    color: white;\n"
+"    border: none;\n"
+"    border-radius: 20px; \n"
+"    padding: 8px 20px;\n"
+"    font-family: \"Segoe UI\", Arial, sans-serif;\n"
+"    font-weight: bold;\n"
+"    font-size: 10px;\n"
+"}\n"
+"QPushButton#sendButton:hover {\n"
+"    background-color: #106ebe; \n"
+"}\n"
+"\n"
+"QPushButton#sendButton:pressed {\n"
+"    background-color: #005a9e;\n"
+"}"));
 
         retranslateUi(AIchat);
 
@@ -111,8 +122,9 @@ public:
     void retranslateUi(QWidget *AIchat)
     {
         AIchat->setWindowTitle(QCoreApplication::translate("AIchat", "Form", nullptr));
-        sendButton->setText(QCoreApplication::translate("AIchat", "Send", nullptr));
         messageEdit->setPlaceholderText(QCoreApplication::translate("AIchat", "Type a message ...", nullptr));
+        screenshotButton->setText(QString());
+        sendButton->setText(QString());
     } // retranslateUi
 
 };

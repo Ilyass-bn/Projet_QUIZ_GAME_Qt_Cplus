@@ -13,47 +13,12 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QPushButton" name="sendButton">
-   <property name="geometry">
-    <rect>
-     <x>320</x>
-     <y>350</y>
-     <width>71</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="cursor">
-    <cursorShape>PointingHandCursor</cursorShape>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">QPushButton#sendButton {
-    background-color: #0078d4; /* Sleek Microsoft/Modern Blue */
-    color: white;
-    border: none;
-    border-radius: 20px; /* Matches the line edit height roundness */
-    padding: 8px 20px;
-    font-family: &quot;Segoe UI&quot;, Arial, sans-serif;
-    font-weight: bold;
-    font-size: 10px;
-}
-QPushButton#sendButton:hover {
-    background-color: #106ebe; /* Darker blue on hover */
-}
-
-QPushButton#sendButton:pressed {
-    background-color: #005a9e; /* Even darker when clicked */
-}</string>
-   </property>
-   <property name="text">
-    <string>Send</string>
-   </property>
-  </widget>
   <widget class="QLineEdit" name="messageEdit">
    <property name="geometry">
     <rect>
      <x>10</x>
      <y>350</y>
-     <width>311</width>
+     <width>381</width>
      <height>41</height>
     </rect>
    </property>
@@ -62,7 +27,7 @@ QPushButton#sendButton:pressed {
     background-color: #ffffff;
     border: 1px solid #dcdcdc;
     border-radius: 20px; /* Makes it pill-shaped and modern */
-    padding: 8px 16px;padding-left:20px;
+    padding: 8px 16px;padding-left:50px;padding-right:60px;
     font-family: &quot;Segoe UI&quot;, Arial, sans-serif;
     font-size: 13px;
     color: #333333;
@@ -117,9 +82,68 @@ QScrollBar:vertical {
     }</string>
    </property>
   </widget>
-  <zorder>messageEdit</zorder>
-  <zorder>chatBox</zorder>
-  <zorder>sendButton</zorder>
+  <widget class="QPushButton" name="screenshotButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>350</y>
+     <width>51</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#screenshotButton {
+    background-color: rgba(15, 95, 105,0.88);
+    border-radius: 20px; 
+    image:url(&quot;img/icon/camera1.png&quot;);
+    border:none;
+}
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sendButton">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>350</y>
+     <width>61</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#sendButton {
+    background-color: #0078d4; 
+    background-color: rgba(15, 95, 105,0.88);
+    image:url(&quot;img/icon/send.png&quot;);
+    color: white;
+    border: none;
+    border-radius: 20px; 
+    padding: 8px 20px;
+    font-family: &quot;Segoe UI&quot;, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+}
+QPushButton#sendButton:hover {
+    background-color: #106ebe; 
+}
+
+QPushButton#sendButton:pressed {
+    background-color: #005a9e;
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
