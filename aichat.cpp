@@ -2,7 +2,7 @@
 #include "ui_aichat.h"
 
 
-static const QString GROQ_API_KEY = "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";
+static const QString GROQ_API_KEY = "";//add your IP key
 AIchat::AIchat(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::AIchat)
