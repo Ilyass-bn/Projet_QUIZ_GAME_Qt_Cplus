@@ -167,7 +167,15 @@ Without a key, the rest of the game works normally.
 2. Select your Qt kit and click **Configure Project**.
 3. Click **Build** 🔨 then **Run** ▶️.
 
-### 5.NB 
+
+> Use a fresh build folder (not the committed `build/` folder). If CMake can't find Qt, add `-DCMAKE_PREFIX_PATH=/path/to/Qt/6.x.x/<kit>`.
+
+### 5. Deploy on Windows (optional)
+To run the `.exe` on a PC without Qt installed:
+```bash
+windeployqt QuizGame.exe
+```
+### 6.NB 
 If you want just to play the game just download it,this is the link without download qt : https://github.com/Ilyass-bn/QUIZ-GAME-CplusQt/releases/tag/v1.0.2
 **Option B — Command line**
 ```bash
@@ -176,14 +184,6 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 cmake --build . --config Release
 ./QuizGame        # on Windows: QuizGame.exe
 ```
-> Use a fresh build folder (not the committed `build/` folder). If CMake can't find Qt, add `-DCMAKE_PREFIX_PATH=/path/to/Qt/6.x.x/<kit>`.
-
-### 5. Deploy on Windows (optional)
-To run the `.exe` on a PC without Qt installed:
-```bash
-windeployqt QuizGame.exe
-```
-
 ---
 
 ## 🎯 How to Play
