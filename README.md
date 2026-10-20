@@ -167,6 +167,8 @@ Without a key, the rest of the game works normally.
 2. Select your Qt kit and click **Configure Project**.
 3. Click **Build** 🔨 then **Run** ▶️.
 
+### 5.NB 
+If you want just to play the game just download it,this is the link without download qt : https://github.com/Ilyass-bn/QUIZ-GAME-CplusQt/releases/tag/v1.0.2
 **Option B — Command line**
 ```bash
 mkdir build-release && cd build-release
